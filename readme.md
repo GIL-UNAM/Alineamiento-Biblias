@@ -4,7 +4,7 @@ El [corpus](https://github.com/GIL-UNAM/SpanishParaphraseCorpora/tree/main/Bibli
 
 | Codigo | Biblia | Año | 
 | --- | --- | --- | 
-|  |  | Jünemann | 1928 |
+|  | Jünemann | 1928 |
 | | Nacar Colunga | 1944 |
 | | Latinomaricana | 1972 |
 | | Nueva Biblia Española (Schökel) | 1975 |
