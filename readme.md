@@ -2,9 +2,9 @@
 
 El [corpus](https://github.com/GIL-UNAM/SpanishParaphraseCorpora/tree/main/Biblias) para este proyecto son los evangelios sinópticos ([Marcos](https://github.com/GIL-UNAM/SpanishParaphraseCorpora/tree/main/Biblias/Marcos), Lucas, Mateo). Se utilizan cuatro versiones: Nueva Biblia Española, Nacar Colunga, Latinoamericana y Jünemann.
 
-| Codigo | Biblia | Año | 
-| --- | --- | --- | 
-| JNM | Jünemann | 1928 |
-| NAC | Nacar Colunga | 1944 |
-| LAT | Latinomaricana | 1972 |
-| ESP | Nueva Biblia Española (Schökel) | 1975 |
+| Codigo | Biblia | Año | Libros |
+| --- | --- | --- | --- |
+| JNM | Jünemann | 1928 | <ul><li>Marcos</li> <li>Lucas</li> <li>Mateo</li></ul> |
+| NAC | Nacar Colunga | 1944 |  <ul><li>Marcos</li> <li>Lucas</li> <li>Mateo</li></ul>  |
+| LAT | Latinomaricana | 1972 |  <ul><li>Marcos</li> <li>Lucas</li> <li>Mateo</li></ul>  |
+| ESP | Nueva Biblia Española (Schökel) | 1975 |  <ul><li>Marcos</li> <li>Lucas</li> <li>Mateo</li></ul>  |
