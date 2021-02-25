@@ -1,0 +1,936 @@
+| CNT001001 |     El | Canto | más |  hermoso | de | Salomón | Preludio | La | Amada |
+| CNT001001 |     el | canto | más |  hermoso | de |  saloma | preludio | el | amado |
+| CNT001001 | Cantar |    de | los | Cantares | de | Salomón |          |    |       |
+| CNT001001 | cantar |    de |  el |   cantar | de |  saloma |          |    |       |
+|         I |      C |     C |   C |        C |  I |       I |        N |  N |     N |
+|         0 |      0 |     0 |   0 |        0 |  0 |       0 |        0 |  0 |     0 |
+
+
+| CNT001002 | ¡ | Que | me |  bese | ardientementecon |  su |  boca | Porque | tus | amores | son | más | deliciosos | que | el | vino |
+| CNT001002 | ¡ | que | me | besar | ardientementecon |  su |  boca | porque |  tu |   amor | ser | más |  delicioso | que | el | vino |
+| CNT001002 | ¡ | Que | me |  bese |              con | los | besos |     de |  su |   boca |     |     |            |     |    |      |
+| CNT001002 | ¡ | que | me | besar |              con |  el |  beso |     de |  su |   boca |     |     |            |     |    |      |
+|         I | I |   I |  I |     I |                C |   C |     C |      C |   C |      C |   N |   N |          N |   N |  N |    N |
+|         0 | 0 |   0 |  0 |     0 |                0 |   0 |     0 |      0 |   0 |      0 |   0 |   0 |          0 |   0 |  0 |    0 |
+
+
+| CNT001003 |  sí |        |     |     |      |           |       | el | aroma | de | tus | perfumeses | exquisito | tu | nombre |  es |  un | perfume |       que |     | se |  derrama | por | eso | las |    jóvenes | se | enamoran |      | de | ti |
+| CNT001003 |  sí |        |     |     |      |           |       | el | aroma | de |  tu | perfumeses | exquisito | tu | nombre | ser | uno | perfume |       que |     | se | derramar | por | ese |  el |      joven | se | enamorar |      | de | ti |
+| CNT001003 | Tus | amores | son |  un | vino | exquisito | suave | el |  olor | de | tus |   perfumes |         y |    | nombre |   ¡ |  un | bálsamo | derramado | por | se | enamoran |  de |  ti | las | jovencitas |  ¡ |  Llévame | tras | de | ti |
+| CNT001003 |  tu |   amor | ser | uno | vino | exquisito | suave | el |  olor | de |  tu |    perfume |         y |    | nombre |   ¡ | uno | bálsamo |  derramar | por | se | enamorar |  de |  ti |  el |  jovencito |  ¡ |  llévame | tras | de | ti |
+|         I |   C |      N |   N |   N |    N |         N |     N |  I |     C |  I |   I |          C |         C |  N |      I |   C |   I |       C |         C |   N |  I |        C |   C |   C |   I |          C |  C |        C |    N |  I |  I |
+|         0 |   0 |      0 |   0 |   0 |    0 |         0 |     0 |  0 |     4 |  0 |   0 |          0 |         0 |  0 |      0 |   3 |   0 |       0 |         0 |   0 |  0 |        0 |   0 |   0 |   0 |          0 |  0 |        0 |    0 |  0 |  0 |
+
+
+| CNT001004 | Llévame | contigo | ¡ | corramos | El | rey | me |  introdujo |           en | sus | habitaciones |         ¡ | gocemos | y | alegrémonos | contigo | celebremos | tus | amores | más | que | el | vino |    ¡ | Cuánta |    razón | tienen | para | amar |        | te | La | hermosura | de | la | Amada |
+| CNT001004 | llévame | contigo | ¡ |   correr | el | rey | me | introducir |           en |  su |   habitación |         ¡ |   gozar | y | alegrémonos | contigo |   celebrar |  tu |   amor | más | que | el | vino |    ¡ | cuánto |    razón |  tener | para | amar |        | te | el | hermosura | de | el | amado |
+| CNT001004 | Llévame |      oh |   |          |    | Rey |  a |        tus | habitaciones | Por |          nos | alegramos |         | y | regocijamos |       y |         no |     |        |     |     | el | vino | sino |    tus | caricias |      ¿ | Cómo |   no | querer | te |    |           |    |    |       |
+| CNT001004 | llévame |      oh |   |          |    | rey |  a |         tu |   habitación | por |          nos |   alegrar |         | y |   regocijar |       y |         no |     |        |     |     | el | vino | sino |     tu |  caricia |      ¿ | cómo |   no | querer | te |    |           |    |    |       |
+|         I |       I |       C | N |        N |  N |   I |  C |          C |            C |   C |            C |         C |       N | I |           C |       C |          C |   N |      N |   N |   N |  I |    I |    C |      C |        C |      C |    C |    C |      N |  I |  N |         N |  N |  N |     N |
+|         0 |       0 |       0 | 0 |        0 |  0 |   0 |  0 |          0 |            0 |   0 |            0 |         0 |       0 | 0 |           0 |       0 |          0 |   0 |      0 |   0 |   0 |  0 |    0 |    0 |      0 |        0 |      0 |    0 |    0 |      0 |  0 |  0 |         0 |  0 |  0 |     0 |
+
+
+| CNT001005 | Soy | morena | pero | hermosa | hijas | de | Jerusalén | como |    los | campamentos | de | Quedar | como | las | carpas | de |   Salmá |
+| CNT001005 | ser | moreno | pero | hermoso |  hijo | de | jerusalén | como |     el |  campamento | de | quedar | como |  el |  carpa | de |   salmá |
+| CNT001005 | Soy | morena | pero |  bonita | hijas | de | Jerusalén | como | carpas |             | de | Quedar | como |     | carpas | de | Salomón |
+| CNT001005 | ser | moreno | pero |  bonito |  hijo | de | jerusalén | como |  carpa |             | de | quedar | como |     |  carpa | de |  saloma |
+|         I |   I |      I |    I |       C |     I |  I |         I |    I |      C |           N |  I |      I |    I |   N |      I |  I |       C |
+|         0 |   0 |      0 |    0 |       9 |     0 |  0 |         0 |    0 |      0 |           0 |  0 |      0 |    0 |   0 |      0 |  0 |       3 |
+
+
+| CNT001006 | No | se | fijen | en |  mi |   tez | morena |    he | sido | tostada | por | el |    sol | Los | hijos | de | mi | madrese | irritaron | contra | mí | me | pusieron | a | cuidar | las | viñas | ¡ | y | a | mi | propia | viña | no | la |  pude |     cuidar | Ansiosa | interpelación | a | el | Amado | ausente |
+| CNT001006 | no | se | fijar | en |  mi |   tez | moreno | haber |  ser |  tostar | por | el |    sol |  el |  hijo | de | mi | madrese |   irritar | contra | mí | me |    poner | a | cuidar |  el |  viña | ¡ | y | a | mi | propio | viña | no | lo | poder |     cuidar | ansioso | interpelación | a | el | amado | ausente |
+| CNT001006 | No | se | fijen | en | que | estoy | morena |    el |  fue |      el | que | me |  tostó | Los |       | de | mi |   madre |  enojados | contra | mí | me |          | a | cuidar | las | viñas |   |   |   | Mi |     yo |      |    | la | había | descuidado |         |               |   |    |       |         |
+| CNT001006 | no | se | fijar | en | que | estar | morena |    el |  ser |      el | que | me | tostar |  el |       | de | mi |   madre |    enojar | contra | mí | me |          | a | cuidar |  el |  viña |   |   |   | mi |     yo |      |    | lo | haber |  descuidar |         |               |   |    |       |         |
+|         I |  I |  I |     I |  I |   C |     C |      I |     C |    I |       C |   C |  C |      C |   I |     N |  I |  I |       C |         C |      I |  I |  I |        N | I |      I |   I |     I | N | N | N |  I |      C |    N |  N |  I |     C |          C |       N |             N | N |  N |     N |       N |
+|         0 |  0 |  0 |     0 |  0 |   0 |     0 |      0 |     3 |    0 |       0 |   0 |  0 |      0 |   0 |     0 |  0 |  0 |       0 |         0 |      0 |  0 |  0 |        0 | 0 |      0 |   0 |     0 | 0 | 0 | 0 |  0 |      0 |    0 |  0 |  0 |     0 |          0 |       0 |             0 | 0 |  0 |     0 |       0 |
+
+
+| CNT001007 |    Di | me | amado | de | mi | alma | dónde |   | llevas | a | pastar | el | rebaño | dónde |     lo | haces | descansar | a | el | mediodía | para | que | yo | no |  ande | vagando |     junto |      a | los | rebaños | de | tus | compañeros | Respuesta | de | los | pastores | Coro |
+| CNT001007 | decir | me |  amar | de | mi | alma | dónde |   | llevar | a | pastar | el | rebaño | dónde |     lo | hacer | descansar | a | el | mediodía | para | que | yo | no | andar |   vagar |     junto |      a |  el |  rebaño | de |  tu |  compañero | respuesta | de |  el |   pastor | coro |
+| CNT001007 |    Di | me | Amado | de | mi | alma |     ¿ | a | llevas | a | pastar | tu | rebaño | dónde | llevas |     a | descansar | a |    | mediodía | para |     | yo | no |  ande |    como | vagabunda | detrás | los | rebaños |    | tus | compañeros |           |    |     |          |      |
+| CNT001007 | decir | me |  amar | de | mi | alma |     ¿ | a | llevar | a | pastar | tu | rebaño | dónde | llevar |     a | descansar | a |    | mediodía | para |     | yo | no | andar |    como | vagabundo | detrás |  el |  rebaño |    |  tu |  compañero |           |    |     |          |      |
+|         I |     I |  I |     I |  I |  I |    I |     C | N |      I | I |      I |  C |      I |     I |      C |     C |         I | I |  N |        I |    I |   N |  I |  I |     I |       C |         C |      C |   I |       I |  N |   I |          I |         N |  N |   N |        N |    N |
+|         0 |     0 |  0 |     0 |  0 |  0 |    0 |     0 | 0 |      0 | 0 |      0 |  6 |      0 |     0 |      0 |     0 |         0 | 0 |  0 |        0 |    0 |   0 |  0 |  0 |     0 |       0 |         0 |      0 |   0 |       0 |  0 |   0 |          0 |         0 |  0 |   0 |        0 |    0 |
+
+
+| CNT001008 | Si | tú | no | lo | sabes | ¡ | la | más | bella | de | las | mujeres |    |    |       |  sigue | las | huellas | de |  el | rebaño | y |  lleva |          | a | pastar | tus | cabritos | junto | a | las | cabañas | de | los | pastores | Elogio | de | la | Amada | El | Amado |
+| CNT001008 | si | tú | no | lo | saber | ¡ | el | más | bello | de |  el |   mujer |    |    |       | seguir |  el |  huella | de |  el | rebaño | y | llevar |          | a | pastar |  tu |  cabrito | junto | a |  el |  cabaña | de |  el |   pastor | elogio | de | el | amado | el | amado |
+| CNT001008 |  ¡ | Oh |    |    |       |   | la | más | bella | de | las | mujeres | si | lo | sabes |  sigue | las | huellas | de | las | ovejas | y |    tus | cabritas | a | pastar |     |          | junto |   | las | tiendas | de | los | pastores |        |    |    |       |    |       |
+| CNT001008 |  ¡ | oh |    |    |       |   | el | más | bello | de |  el |   mujer | si | lo | saber | seguir |  el |  huella | de |  el |  oveja | y |     tu |  cabrito | a | pastar |     |          | junto |   |  el |  tienda | de |  el |   pastor |        |    |    |       |    |       |
+|         I |  C |  C |  N |  N |     N | N |  I |   I |     I |  I |   I |       I |  N |  N |     N |      I |   I |       I |  I |   I |      C | I |      C |        N | I |      I |   N |        N |     I | N |   I |       C |  I |   I |        I |      N |  N |  N |     N |  N |     N |
+|         0 |  0 |  0 |  0 |  0 |     0 | 0 |  0 |   0 |     0 |  0 |   0 |       0 |  0 |  0 |     0 |      0 |   0 |       0 |  0 |   0 |      7 | 0 |      0 |        0 | 0 |      0 |   0 |        0 |     0 | 0 |   0 |       5 |  0 |   0 |        0 |      0 |  0 |  0 |     0 |  0 |     0 |
+
+
+| CNT001009 |   Yo |    te |  comparo |   amada |    mía |     | a | una | yegua | uncidaal | carro | de | el | Faraón |
+| CNT001009 |   yo |    te | comparar |   amado |    mío |     | a | uno | yegua | uncidaal | carro | de | el | faraón |
+| CNT001009 | Como | yegua |       de | lujosos | carros | así | a | mis |  ojos |    amada |   mía |    |    |        |
+| CNT001009 | como | yegua |       de |  lujoso |  carro | así | a |  mi |   ojo |    amado |   mío |    |    |        |
+|         I |    C |     C |        C |       C |      C |   N | I |   C |     C |        C |     C |  N |  N |      N |
+|         0 |    0 |     0 |        0 |       0 |      0 |   0 | 0 |   0 |     0 |        0 |     0 |  0 |  0 |      0 |
+
+
+| CNT001010 |   ¡ |      Qué | hermosas | son |    tus | mejillas | entre | los | aros | y | tu | cuello | entre | los | collares |
+| CNT001010 |   ¡ |      qué |  hermoso | ser |     tu |  mejilla | entre |  el |  aro | y | tu | cuello | entre |  el |   collar |
+| CNT001010 | Tus | mejillas |       se | ven | lindas |      con |  esos |     | aros | y |    | cuello | entre | los | collares |
+| CNT001010 |  tu |  mejilla |       se | ver |  lindo |      con |   ese |     |  aro | y |    | cuello | entre |  el |   collar |
+|         I |   C |        C |        C |   C |      C |        C |     C |   N |    I | I |  N |      I |     I |   I |        I |
+|         0 |   0 |        0 |        0 |   0 |      0 |        0 |     0 |   0 |    0 | 0 |  0 |      0 |     0 |   0 |        0 |
+
+
+| CNT001011 | Te | haremos | pendientes | de | oro | con | incrustaciones | de | plata | Elogio | de | el | Amado |   La | Amada |
+| CNT001011 | te |   hacer |  pendiente | de | oro | con |   incrustación | de | plata | elogio | de | el | amado |   el | amado |
+| CNT001011 | Te | haremos |       aros | de | oro | con |                | de | plata |        |    | El |       | Ella |       |
+| CNT001011 | te |   hacer |        aro | de | oro | con |                | de | plata |        |    | el |       |   él |       |
+|         I |  I |       I |          C |  I |   I |   I |              N |  I |     I |      N |  N |  I |     N |    I |     N |
+|         0 |  0 |       0 |          7 |  0 |   0 |   0 |              0 |  0 |     0 |      0 |  0 |  0 |     0 |    0 |     0 |
+
+
+| CNT001012 | Mientras | el | rey |   está | en | su |    diván | mi | nardo |  exhala | su |    | perfume |
+| CNT001012 | mientras | el | rey |  estar | en | su |    diván | mi | nardo | exhalar | su |    | perfume |
+| CNT001012 | Mientras | el | Rey | estaba | en | su | aposento | se |    el |    olor | de | mi | perfume |
+| CNT001012 | mientras | el | rey |  estar | en | su | aposento | se |    el |    olor | de | mi | perfume |
+|         I |        I |  I |   I |      I |  I |  I |        C |  C |     C |       C |  C |  N |       I |
+|         0 |        0 |  0 |   0 |      0 |  0 |  0 |        0 |  0 |     0 |       0 |  0 |  0 |       0 |
+
+
+|    CNT001013_Mi | amado |  es | para | mí | una | bolsita | de | mirra |    que |  descansa | entre | mis | pechos |
+| LN_mi:CNT001013 |  amar | ser | para | mí | uno |   bolsa | de | mirra |    que | descansar | entre |  mi |  pecho |
+|    CNT001013_Mi | amado |  es | para | mí |     | bolsita | de | mirra | cuando |           | entre | mis | pechos |
+| LN_mi:CNT001013 |  amar | ser | para | mí |     |   bolsa | de | mirra | cuando |           | entre |  mi |  pecho |
+|               I |     I |   I |    I |  I |   N |       I |  I |     I |      C |         N |     I |   I |      I |
+|               0 |     0 |   0 |    0 |  0 |   0 |       0 |  0 |     0 |      0 |         0 |     0 |   0 |      0 |
+
+
+|    CNT001014_Mi | amado |  es | para | mí |  un | racimo | de | alheña | en | las | viñas | de | Engadí | Expresiones | de | amor | mutuo | El | Amado |
+| LN_mi:CNT001014 |  amar | ser | para | mí | uno | racimo | de | alheña | en |  el |  viña | de | engadí |   expresión | de | amor | mutuo | el | amado |
+|    CNT001014_Mi | amado |  es | para | mí |     | racimo | de |    uva | de |     | viñas | de | Engadí |             |    |      |       |    |       |
+| LN_mi:CNT001014 |  amar | ser | para | mí |     | racimo | de |    uva | de |     |  viña | de | engadí |             |    |      |       |    |       |
+|               I |     I |   I |    I |  I |   N |      I |  I |      C |  C |   N |     I |  I |      I |           N |  N |    N |     N |  N |     N |
+|               0 |     0 |   0 |    0 |  0 |   0 |      0 |  0 |      0 |  0 |   0 |     0 |  0 |      0 |           0 |  0 |    0 |     0 |  0 |     0 |
+
+
+| CNT001015 |       |     | ¡ | Qué | hermosa | eres | amada | mía | qué | hermosa | eres | ¡ | Tus | ojos | son |      | palomas | La | Amada |
+| CNT001015 |       |     | ¡ | qué | hermoso |  ser | amado | mío | qué | hermoso |  ser | ¡ |  tu |  ojo | ser |      |  paloma | el | amado |
+| CNT001015 | Amada | mía | ¡ | qué |   bella | eres |       |     | qué |         | eres |   | Tus |      | son | como | palomas |    |       |
+| CNT001015 | amado | mío | ¡ | qué |   bello |  ser |       |     | qué |         |  ere |   |  tu |      | ser | como |  paloma |    |       |
+|         I |     N |   N | I |   I |       C |    I |     N |   N |   I |       N |    I | N |   I |    N |   I |    N |       I |  N |     N |
+|         0 |     0 |   0 | 0 |   0 |       4 |    0 |     0 |   0 |   0 |       0 |    0 | 0 |   0 |    0 |   0 |    0 |       0 |  0 |     0 |
+
+
+| CNT001016 |       |     | ¡ | Qué | hermoso | eres | amado | mío | eres | realmente | encantador | ¡ | Qué | frondoso |  es | nuestro |  lecho |
+| CNT001016 |       |     | ¡ | qué | hermoso |  ser | amado | mío |  ser | realmente | encantador | ¡ | qué | frondoso | ser | nuestro |  lecho |
+| CNT001016 | Amado | mío | ¡ | qué | hermoso | eres |       |     |      |           |            |   | qué |  Nuestro |  es |    sólo | verdor |
+| CNT001016 | amado | mío | ¡ | qué | hermoso |  ser |       |     |      |           |            |   | qué |  nuestro | ser |    sólo | verdor |
+|         I |     N |   N | I |   I |       I |    I |     N |   N |    N |         N |          N | N |   I |        C |   I |       C |      C |
+|         0 |     0 |   0 | 0 |   0 |       0 |    0 |     0 |   0 |    0 |         0 |          0 | 0 |   0 |        3 |   0 |       0 |      1 |
+
+
+| CNT001017 | Las | vigas | de | nuestra | casa | son | los | cedros | y | nuestro | artesonado | los | cipreses |
+| CNT001017 |  el |  viga | de | nuestro | casa | ser |  el |  cedro | y | nuestro | artesonado |  el |   ciprés |
+| CNT001017 | Las | vigas | de | nuestra | casa | son |  de |  cedro | y |   techo |         de |     |   ciprés |
+| CNT001017 |  el |  viga | de | nuestro | casa | ser |  de |  cedro | y |   techo |         de |     |   ciprés |
+|         I |   I |     I |  I |       I |    I |   I |   C |      I | I |       C |          C |   N |        I |
+|         0 |   0 |     0 |  0 |       0 |    0 |   0 |  10 |      0 | 0 |       0 |          0 |   0 |        0 |
+
+
+| CNT002001 | Yo | soy | el | narciso | de | Sarón | el | lirio | de | los | valles | El | Amado |
+| CNT002001 | yo | ser | el | narciso | de | sarón | el | lirio | de |  el |  valle | el | amado |
+| CNT002001 | Yo | soy | el | narciso | de | Sarón |  y | lirio | de | los | valles |    |       |
+| CNT002001 | yo | ser | el | narciso | de | sarón |  y | lirio | de |  el |  valle |    |       |
+|         I |  I |   I |  I |       I |  I |     I |  C |     I |  I |   I |      I |  N |     N |
+|         0 |  0 |   0 |  0 |       0 |  0 |     0 | 12 |     0 |  0 |   0 |      0 |  0 |     0 |
+
+
+| CNT002002 | Como |  un | lirio | entre | los | cardos |  es | mi | amada | entre | las | jóvenes | La | Amada |
+| CNT002002 | como | uno | lirio | entre |  el |  cardo | ser | mi | amado | entre |  el |   joven | el | amado |
+| CNT002002 | Como |     | lirio | entre | los | cardos | así | mi | amada | entre | las | jóvenes |    |       |
+| CNT002002 | como |     | lirio | entre |  el |  cardo | así | mi | amado | entre |  el |   joven |    |       |
+|         I |    I |   N |     I |     I |   I |      I |   C |  I |     I |     I |   I |       I |  N |     N |
+|         0 |    0 |   0 |     0 |     0 |   0 |      0 |  10 |  0 |     0 |     0 |   0 |       0 |  0 |     0 |
+
+
+| CNT002003 | Como |  un | manzano | entre | los | árboles | silvestres |  es | mi | amado | entre | los | jóvenes |    yo | me |  senté | a | su | sombra | tan | deseada | y | su | fruto |    |  es | dulce | a | mi | paladar |
+| CNT002003 | como | uno | manzano | entre |  el |   árbol |  silvestre | ser | mi | amado | entre |  el |   joven |    yo | me | sentar | a | su | sombra | tan |  desear | y | su | fruto |    | ser | dulce | a | mi | paladar |
+| CNT002003 | Como |     | manzano | entre |     | árboles | silvestres | así | mi | amado | entre | los | jóvenes | Estoy |    |        | a | su | sombra |     | deseada | y |    | fruto | me |  es | dulce | a | el | paladar |
+| CNT002003 | como |     | manzano | entre |     |   árbol |  silvestre | así | mi | amado | entre |  el |   joven | estar |    |        | a | su | sombra |     |  desear | y |    | fruto | me | ser | dulce | a | el | paladar |
+|         I |    I |   N |       I |     I |   N |       I |          I |   C |  I |     I |     I |   I |       I |     C |  N |      N | I |  I |      I |   N |       I | I |  N |     I |  N |   I |     I | I |  C |       I |
+|         0 |    0 |   0 |       0 |     0 |   0 |       0 |          0 |   8 |  0 |     0 |     0 |   0 |       0 |     0 |  0 |      0 | 0 |  0 |      0 |   0 |       0 | 0 |  0 |     0 |  0 |   0 |     0 | 0 |  5 |       0 |
+
+
+| CNT002004 | Él | me |   hizo | entrar |  en | la | bodega |  y |  enarboló | sobre |    mí | la | insignia | de | el | Amor |
+| CNT002004 | él | me |  hacer | entrar |  en | el | bodega |  y | enarbolar | sobre |    mí | el | insignia | de | el | amor |
+| CNT002004 |    | Me |  llevó |      a | una |    | bodega | de |      vino |     y |  puso | su | insignia | de |    | amor |
+| CNT002004 |    | me | llevar |      a | uno |    | bodega | de |      vino |     y | poner | su | insignia | de |    | amor |
+|         I |  N |  I |      C |      C |   C |  N |      I |  C |         C |     C |     C |  C |        I |  I |  N |    I |
+|         0 |  0 |  0 |      0 |      0 |   0 |  0 |      0 |  0 |         0 |     0 |     0 |  0 |        0 |  0 |  0 |    0 |
+
+
+| CNT002005 | Reconfórtenme | con | pasteles | de | pasas | reanímenme | con | manzanas | porque | estoy |  enferma | de | amor | La | apacible | unión | de | los | enamorados |
+| CNT002005 | reconfórtenme | con |   pastel | de |  pasa | reanímenme | con |  manzana | porque | estar |  enfermo | de | amor | el | apacible | unión | de |  el |  enamorado |
+| CNT002005 |       Pásenme |     | pasteles | de | pasas | Reanímenme |     | manzanas | porque |       |  enferma | de | amor |    |          |       |    |     |            |
+| CNT002005 |       pásenme |     |   pastel | de |  pasa | reanímenme |     |  manzana | porque |       | enfermar | de | amor |    |          |       |    |     |            |
+|         I |             C |   N |        I |  I |     I |          I |   N |        I |      I |     N |        I |  I |    I |  N |        N |     N |  N |   N |          N |
+|         0 |             0 |   0 |        0 |  0 |     0 |          0 |   0 |        0 |      0 |     0 |        0 |  0 |    0 |  0 |        0 |     0 |  0 |   0 |          0 |
+
+
+| CNT002006 | Su | izquierda | sostiene | mi | cabeza | y | con | su | derecha | me |  abraza | El | Amado |
+| CNT002006 | su | izquierda | sostener | mi | cabeza | y | con | su | derecha | me | abrazar | el | amado |
+| CNT002006 | Su | izquierda |     bajo | mi | cabeza | y |     |    | derecha | me |  abraza |    |       |
+| CNT002006 | su | izquierda |     bajo | mi | cabeza | y |     |    | derecha | me | abrazar |    |       |
+|         I |  I |         I |        C |  I |      I | I |   N |  N |       I |  I |       I |  N |     N |
+|         0 |  0 |         0 |        7 |  0 |      0 | 0 |   0 |  0 |       0 |  0 |       0 |  0 |     0 |
+
+
+| CNT002007 | ¡ | Júrenme | hijas | de | Jerusalén |    |     |       | por | las | gacelas | y |    las | ciervas | de | el | campo | que | no | despertarán | ni | desvelarán | a | mi | amor | hasta | que | ella | quiera | Visita | de | el | Amado | a | el | llegar | la | primavera | La | Amada |
+| CNT002007 | ¡ | júrenme |  hijo | de | jerusalén |    |     |       | por |  el |  gacela | y |     el |  ciervo | de | el | campo | que | no |   despertar | ni |   desvelar | a | mi | amor | hasta | que |   él | querer | visita | de | el | amado | a | el | llegar | el | primavera | el | amado |
+| CNT002007 |   |         | Hijas | de | Jerusalén | yo | les | ruego | por |     | gacelas | y | cabras |         | de | el | campo | que |    |  despierten | ni |   molesten | a | el | Amor | hasta |     | ella | quiera |        |    |    |       |   |    |        |    |           |    |       |
+| CNT002007 |   |         |  hijo | de | jerusalén | yo |  le | ruego | por |     |  gacela | y |  cabra |         | de | el | campo | que |    |   despertar | ni |   molestar | a | el | amor | hasta |     |   él | querer |        |    |    |       |   |    |        |    |           |    |       |
+|         I | N |       N |     I |  I |         I |  N |   N |     N |   I |   N |       I | I |      C |       N |  I |  I |     I |   I |  N |           I |  I |          C | I |  C |    I |     I |   N |    I |      I |      N |  N |  N |     N | N |  N |      N |  N |         N |  N |     N |
+|         0 | 0 |       0 |     0 |  0 |         0 |  0 |   0 |     0 |   0 |   0 |       0 | 0 |      0 |       0 |  0 |  0 |     0 |   0 |  0 |           0 |  0 |          4 | 0 |  4 |    0 |     0 |   0 |    0 |      0 |      0 |  0 |  0 |     0 | 0 |  0 |      0 |  0 |         0 |  0 |     0 |
+
+
+| CNT002008 | ¡ | La | voz | de | mi | amado |   Ahí | viene | saltando | por | las | montañas | brincando | por | las | colinas |
+| CNT002008 | ¡ | el | voz | de | mi | amado |   ahí | venir |   saltar | por |  el |  montaña |   brincar | por |  el |  colina |
+| CNT002008 | ¡ | La | voz | de | mi | amado | Miren | viene | saltando | por | los |   montes |           |     |     |         |
+| CNT002008 | ¡ | el | voz | de | mi | amado | mirar | venir |   saltar | por |  el |    monte |           |     |     |         |
+|         I | I |  I |   I |  I |  I |     I |     C |     I |        I |   I |   I |        C |         N |   N |   N |       N |
+|         0 | 0 |  0 |   0 |  0 |  0 |     0 |    12 |     0 |        0 |   0 |   0 |        0 |         0 |   0 |   0 |       0 |
+
+
+|    CNT002009_Mi |     amado |  es | como |    una | gacela |       | como |     un | ciervo | joven |     Ahí |  está | se | detiene | detrás | de | nuestro |  muro |   |       |   |  mira | por |  la |  ventana | espía | por |  el | enrejado |
+| LN_mi:CNT002009 |     amado | ser | como |    uno | gacela |       | como |    uno | ciervo | joven |     ahí | estar | se | detener | detrás | de | nuestro |  muro |   |       |   | mirar | por |  el |  ventana | espía | por |  el | enrejado |
+|       CNT002009 | brincando | por |  los | cerros |     mi | amado | como | gacela |      o |    un | cabrito | Ahora |    | detiene | detrás | de | nuestra | cerca | y |  pone | a | mirar | por | las | ventanas |     a | por | las |    rejas |
+|       CNT002009 |   brincar | por |   el |  cerro |     mi | amado | como | gacela |      o |   uno | cabrito | ahora |    | detener | detrás | de | nuestro | cerca | y | poner | a | mirar | por |  el |  ventana |     a | por |  el |     reja |
+|               C |         C |   C |    C |      C |      C |     N |    I |      C |      C |     C |       C |     C |  N |       I |      I |  I |       I |     C | N |     N | N |     I |   I |   I |        I |     C |   I |   I |        C |
+|               0 |         0 |   0 |    0 |      0 |      0 |     0 |    0 |      0 |      0 |     0 |       0 |     0 |  0 |       0 |      0 |  0 |       0 |     0 | 0 |     0 | 0 |     0 |   0 |   0 |        0 |     7 |   0 |   0 |        3 |
+
+
+|       CNT002010 |  Habla |      mi | amado |        | y | me |  dice | ¡ | Levántate | amada |         | mía | y | ven | hermosa | mía |
+|       CNT002010 | hablar |      mi | amado |        | y | me | decir | ¡ | levántate | amado |         | mío | y | ver | hermoso | mía |
+|    CNT002010_Mi |  amado | empieza |     a | hablar | y |    |  dice |   | Levántate |   mía | hermosa | mía | y | por |     acá |     |
+| LN_mi:CNT002010 |  amado | empezar |     a | hablar | y |    | decir |   | levántate |   mío | hermoso | mío | y | por |     acá |     |
+|               C |      C |       C |     C |      N | I |  N |     I | N |         I |     C |       N |   I | I |   C |       C |   N |
+|               0 |      0 |       0 |     0 |      0 | 0 |  0 |     0 | 0 |         0 |     0 |       0 |   0 | 0 |   0 |       0 |   0 |
+
+
+| CNT002011 | Porque |       | ya |       |   pasó | el | invierno |   |         |    |       | cesaron | y | se |       | fueron | las | lluvias |
+| CNT002011 | porque |       | ya |       |  pasar | el | invierno |   |         |    |       |   cesar | y | se |       |     ir |  el |  lluvia |
+| CNT002011 | Porque |  mira | ya |    ha | pasado | el | invierno | y | lluvias | ya |   han |  cesado | y | se |   han |    ido |     |         |
+| CNT002011 | porque | mirar | ya | haber |  pasar | el | invierno | y |  lluvia | ya | haber |   cesar | y | se | haber |     ir |     |         |
+|         I |      I |     N |  I |     N |      I |  I |        I | N |       N |  N |     N |       I | I |  I |     N |      I |   N |       N |
+|         0 |      0 |     0 |  0 |     0 |      0 |  0 |        0 | 0 |       0 |  0 |     0 |       0 | 0 |  0 |     0 |      0 |   0 |       0 |
+
+
+| CNT002012 |       | Aparecieron | las | flores | sobre | la | tierra |  llegó | el | tiempo | de | las | canciones | y | se | oye | en | nuestra | tierra | el | arrullo | de | la | tórtola |    |        |
+| CNT002012 |       |    aparecer |  el |   flor | sobre | el | tierra | llegar | el | tiempo | de |  el |   canción | y | se | oír | en | nuestro | tierra | el | arrullo | de | el | tórtola |    |        |
+| CNT002012 |   Han |   aparecido | las | flores |    en | la | tierra |     ha | el | tiempo | de | las | canciones |   | se |     |    |         |        | el | arrullo | de | la | tórtola | en | tierra |
+| CNT002012 | haber |    aparecer |  el |   flor |    en | el | tierra |  haber | el | tiempo | de |  el |   canción |   | se |     |    |         |        | el | arrullo | de | el | tórtola | en | tierra |
+|         I |     N |           I |   I |      I |     C |  I |      I |      C |  I |      I |  I |   I |         I | N |  I |   N |  N |       N |      N |  I |       I |  I |  I |       I |  N |      N |
+|         0 |     0 |           0 |   0 |      0 |     6 |  0 |      0 |      8 |  0 |      0 |  0 |   0 |         0 | 0 |  0 |   0 |  0 |       0 |      0 |  0 |       0 |  0 |  0 |       0 |  0 |      0 |
+
+
+| CNT002013 |  La |  higuera |   dio | sus | primeros | frutos | y | las | viñas |     en | flor | exhalan | su | perfume | ¡ | Levántate | amada |         | mía | y | ven | hermosa | mía |
+| CNT002013 |  el |  higuera |   dar |  su |        1 |  fruto | y |  el |  viña |     en | flor | exhalar | su | perfume | ¡ | levántate | amado |         | mío | y | ver | hermoso | mía |
+| CNT002013 | Las | higueras | echan | sus |   brotes |        | y |     | viñas | nuevas |      | exhalan | su |    olor |   | Levántate |   mía | hermosa | mía | y | ven |         |     |
+| CNT002013 |  el |  higuera | echar |  su |    brote |        | y |     |  viña |  nuevo |      | exhalar | su |    olor |   | levántate |   mío | hermoso | mío | y | ver |         |     |
+|         I |   I |        I |     C |   I |        C |      N | I |   N |     I |      C |    N |       I |  I |       C | N |         I |     C |       N |   I | I |   I |       N |   N |
+|         0 |   0 |        0 |     5 |   0 |        0 |      0 | 0 |   0 |     0 |      0 |    0 |       0 |  0 |       0 | 0 |         0 |     0 |       0 |   0 | 0 |   0 |       0 |   0 |
+
+
+| CNT002014 | Paloma | mía | que | anidas |          | en | las | grietas | de | las | rocas | en |   lugares | escarpados | muéstrame | tu | rostro | déjame | oír | tu | voz | porque | tu | voz |  es | suave | y |  es | hermoso | tu | semblante | La | oposición | de | los | hermanos | Coro |
+| CNT002014 | paloma | mío | que | anidar |          | en |  el |  grieta | de |  el |  roca | en |     lugar |   escarpar | muéstrame | tu | rostro | déjame | oír | tu | voz | porque | tu | voz | ser | suave | y | ser | hermoso | tu | semblante | el | oposición | de |  el |  hermano | coro |
+| CNT002014 | Paloma | mía | que |     te | escondes | en |     | grietas | de |     | rocas | en | apartados |     riscos | muéstrame |    | rostro | déjame | oír |    | voz | porque |    | voz |  es | dulce | y |     |         | tu | semblante |    |           |    |     |          |      |
+| CNT002014 | paloma | mío | que |     te | esconder | en |     |  grieta | de |     |  roca | en |   apartar |      risco | muéstrame |    | rostro | déjame | oír |    | voz | porque |    | voz | ser | dulce | y |     |         | tu | semblante |    |           |    |     |          |      |
+|         I |      I |   I |   I |      C |        N |  I |   N |       I |  I |   N |     I |  I |         C |          C |         I |  N |      I |      I |   I |  N |   I |      I |  N |   I |   I |     C | I |   N |       N |  I |         I |  N |         N |  N |   N |        N |    N |
+|         0 |      0 |   0 |   0 |      0 |        0 |  0 |   0 |       0 |  0 |   0 |     0 |  0 |         0 |          0 |         0 |  0 |      0 |      0 |   0 |  0 |   0 |      0 |  0 |   0 |   0 |     4 | 0 |   0 |       0 |  0 |         0 |  0 |         0 |  0 |   0 |        0 |    0 |
+
+
+| CNT002015 |   |     | Cacen | a | los | zorros | a | esos | zorros | pequeños | que |   arrasan | las | viñas |    ¡ | y | nuestras | viñas |      están | en | flor | Respuesta | decidida | de | la | Amada | La | Amada |
+| CNT002015 |   |     | cazar | a |  el |  zorro | a |  ese |  zorro |  pequeño | que |   arrasar |  el |  viña |    ¡ | y |  nuestro |  viña |      estar | en | flor | respuesta |  decidir | de | el | amado | el | amado |
+| CNT002015 | ¡ | Que | cacen | a | los | zorros | a |      | zorros |   nuevos | que | destrozan | las | viñas | pues |   | nuestras |    se | encuentran | en | flor |           |          |    |    |       |    |       |
+| CNT002015 | ¡ | que | cazar | a |  el |  zorro | a |      |  zorro |    nuevo | que | destrozar |  el |  viña | pues |   |  nuestro |    se |  encontrar | en | flor |           |          |    |    |       |    |       |
+|         I | N |   N |     I | I |   I |      I | I |    N |      I |        C |   I |         C |   I |     I |    C | N |        I |     C |          C |  I |    I |         N |        N |  N |  N |     N |  N |     N |
+|         0 | 0 |   0 |     0 | 0 |   0 |      0 | 0 |    0 |      0 |        3 |   0 |         4 |   0 |     0 |    0 | 0 |        0 |     0 |          0 |  0 |    0 |         0 |        0 |  0 |  0 |     0 |  0 |     0 |
+
+
+|       CNT002016 | ¡ | Mi | amado |  es | para | mí | y | yo | soy | para | mi | amado | que | apacienta | su | rebaño |   |        | entre | los | lirios |
+|       CNT002016 | ¡ | mi | amado | ser | para | mí | y | yo | ser | para | mi | amado | que | apacentar | su | rebaño |   |        | entre |  el |  lirio |
+|    CNT002016_Mi |   |    | amado |  es | para | mí | y | yo |     | para | mi | amado |  él |         a | su | rebaño | a | pastar | entre | los | lirios |
+| LN_mi:CNT002016 |   |    |  amar | ser | para | mí | y | yo |     | para | mi | amado |  él |         a | su | rebaño | a | pastar | entre |  el |  lirio |
+|               C | N |  N |     I |   I |    I |  I | I |  I |   N |    I |  I |     I |   C |         C |  I |      I | N |      N |     I |   I |      I |
+|               0 | 0 |  0 |     0 |   0 |    0 |  0 | 0 |  0 |   0 |    0 |  0 |     0 |   0 |         0 |  0 |      0 | 0 |      0 |     0 |   0 |      0 |
+
+
+| CNT002017 | Antes | que |  sople | la | brisa |    |    |     | y | huyan | las | sombras |     ¡ | vuelve | amado | mío | como | una | gacela | o | como |      un | ciervo |  joven | por | las |   montañas | de | Beter |
+| CNT002017 | antes | que | soplar | el | brisa |    |    |     | y |  huir |  el |  sombra |     ¡ | volver | amado | mío | como | uno | gacela | o | como |     uno | ciervo |  joven | por |  el |    montaña | de | beter |
+| CNT002017 | Antes | que |  sople | la | brisa | de | el | día | y |       | las | sombras | amado | vuelve |       |     | como |     | gacela | o |   el | cabrito |    por | montes |  de | las | balsameras |    |       |
+| CNT002017 | antes | que | soplar | el | brisa | de | el | día | y |       |  el |  sombra |  amar | volver |       |     | como |     | gacela | o |   el | cabrito |    por |  monte |  de |  el |  balsamera |    |       |
+|         I |     I |   I |      I |  I |     I |  N |  N |   N | I |     N |   I |       I |     C |      I |     N |   N |    I |   N |      I | I |    C |       C |      C |      C |   C |   I |          C |  N |     N |
+|         0 |     0 |   0 |      0 |  0 |     0 |  0 |  0 |   0 | 0 |     0 |   0 |       0 |     4 |      0 |     0 |   0 |    0 |   0 |      0 | 0 |    0 |       0 |      0 |      0 |   0 |   0 |          0 |  0 |     0 |
+
+
+| CNT003001 |    En | mi | lecho | durante |  la |  noche | busqué | a | el | amado | de | mi | alma | ¡ | Lo | busqué | y | no | lo |  encontré |
+| CNT003001 |    en | mi | lecho | durante |  el |  noche | buscar | a | el | amado | de | mi | alma | ¡ | lo | buscar | y | no | lo | encontrar |
+| CNT003001 | Sobre | mi | lecho |     por | las | noches |     yo | a | el | amado | de | mi | alma |   | Lo |        | y | no | lo |     hallé |
+| CNT003001 | sobre | mi | lecho |     por |  el |  noche |     yo | a | el | amado | de | mi | alma |   | lo |        | y | no | lo |    hallar |
+|         I |     C |  I |     I |       C |   I |      I |      C | I |  I |     I |  I |  I |    I | N |  I |      N | I |  I |  I |         C |
+|         0 |     4 |  0 |     0 |       5 |   0 |      0 |      9 | 0 |  0 |     0 |  0 |  0 |    0 | 0 |  0 |      0 | 0 |  0 |  0 |         4 |
+
+
+| CNT003002 | Me | levantaré |      | y | recorreré | la | ciudad | por | las | calles | y | las | plazas | buscaré | a | el | amado | de | mi | alma | ¡ | Lo | busqué | y | no | lo |  encontré |
+| CNT003002 | me |  levantar |      | y |  recorrer | el | ciudad | por |  el |  calle | y |  el |  plaza |  buscar | a | el | amado | de | mi | alma | ¡ | lo | buscar | y | no | lo | encontrar |
+| CNT003002 | Me | levantaré | pues | y | recorreré | la | ciudad | Por |     | calles | y |     | plazas | buscaré |   |    | amado | de | mi | alma |   | Lo |        | y | no | lo |     hallé |
+| CNT003002 | me |  levantar | pues | y |  recorrer | el | ciudad | por |     |  calle | y |     |  plaza |  buscar |   |    |  amar | de | mi | alma |   | lo |        | y | no | lo |    hallar |
+|         I |  I |         I |    N | I |         I |  I |      I |   I |   N |      I | I |   N |      I |       I | N |  N |     I |  I |  I |    I | N |  I |      N | I |  I |  I |         C |
+|         0 |  0 |         0 |    0 | 0 |         0 |  0 |      0 |   0 |   0 |      0 | 0 |   0 |      0 |       0 | 0 |  0 |     0 |  0 |  0 |    0 | 0 |  0 |      0 | 0 |  0 |  0 |         4 |
+
+
+| CNT003003 | Me | encontraron | los | centinelas | que | hacen | la | ronda | por | la | ciudad | ¿ |   Han | visto | a | el | amado | de | mi | alma |
+| CNT003003 | me |   encontrar |  el |  centinela | que | hacer | el | ronda | por | el | ciudad | ¿ | haber |   ver | a | el | amado | de | mi | alma |
+| CNT003003 | Me | encontraron | los | centinelas | que |    de |    | ronda | por | la | ciudad |   |       |       |   |    |       |    |    |      |
+| CNT003003 | me |   encontrar |  el |  centinela | que |    de |    | ronda | por | el | ciudad |   |       |       |   |    |       |    |    |      |
+|         I |  I |           I |   I |          I |   I |     C |  N |     I |   I |  I |      I | N |     N |     N | N |  N |     N |  N |  N |    N |
+|         0 |  0 |           0 |   0 |          0 |   0 |     0 |  0 |     0 |   0 |  0 |      0 | 0 |     0 |     0 | 0 |  0 |     0 |  0 |  0 |    0 |
+
+
+| CNT003004 |   |       |       |   |    |       | Apenas | los | había | pasado |  encontré | a | el | amado | de | mi | alma | Lo |  agarré | y | no | lo | soltaré |     | hasta | que | lo |  haya | hecho | entrar | en | la | casa | de | mi | madre | en |    la | habitación | de | la | que | me |  engendró | El | Amado |
+| CNT003004 |   |       |       |   |    |       | apenas |  lo | haber |  pasar | encontrar | a | el | amado | de | mi | alma | lo | agarrar | y | no | lo |  soltar |     | hasta | que | lo | haber | hacer | entrar | en | el | casa | de | mi | madre | en |    el | habitación | de | el | que | me | engendrar | el | amado |
+| CNT003004 | ¿ |   Han | visto | a | mi | amado | Apenas |     | había | dejado |    cuando | a | el | amado | de | mi | alma | Lo |         | y | no | lo | soltaré | más | hasta |  no | lo |  haya | hecho | entrar | en |    | casa | de | mi | madre | en | pieza |            | de |    | que | me |       dio |  a |   luz |
+| CNT003004 | ¿ | haber |   ver | a | mi | amado | apenas |     | haber |  dejar |    cuando | a | el | amado | de | mi | alma | lo |         | y | no | lo |  soltar | más | hasta |  no | lo | haber | hacer | entrar | en |    | casa | de | mi | madre | en | pieza |            | de |    | que | me |       dar |  a |   luz |
+|         I | N |     N |     N | N |  N |     N |      I |   N |     I |      C |         C | I |  I |     I |  I |  I |    I |  I |       N | I |  I |  I |       I |   N |     I |   C |  I |     I |     I |      I |  I |  N |    I |  I |  I |     I |  I |     C |          N |  I |  N |   I |  I |         C |  C |     C |
+|         0 | 0 |     0 |     0 | 0 |  0 |     0 |      0 |   0 |     0 |      0 |         0 | 0 |  0 |     0 |  0 |  0 |    0 |  0 |       0 | 0 |  0 |  0 |       0 |   0 |     0 |   7 |  0 |     0 |     0 |      0 |  0 |  0 |    0 |  0 |  0 |     0 |  0 |     0 |          0 |  0 |  0 |   0 |  0 |         0 |  0 |     1 |
+
+
+| CNT003005 | ¡ | Júrenme | hijas | de | Jerusalén |    |     |       | por | las | gacelas | y |    las | ciervas | de | el | campo | que | no | despertarán | ni | desvelarán | a | mi | amor | hasta | que | ella | quiera | Aparición | de | el | suntuoso | cortejo | nupcial | Coro |
+| CNT003005 | ¡ | júrenme |  hijo | de | jerusalén |    |     |       | por |  el |  gacela | y |     el |  ciervo | de | el | campo | que | no |   despertar | ni |   desvelar | a | mi | amor | hasta | que |   él | querer | aparición | de | el | suntuoso | cortejo | nupcial | coro |
+| CNT003005 |   |         | Hijas | de | Jerusalén | yo | les | ruego | por |     | gacelas | y | cabras |         | de | el | campo | que |    |  despierten | ni |   molesten | a | el | Amor | hasta |     | ella | quiera |           |    |    |          |         |         |      |
+| CNT003005 |   |         |  hijo | de | jerusalén | yo |  le | ruego | por |     |  gacela | y |  cabra |         | de | el | campo | que |    |   despertar | ni |   molestar | a | el | amor | hasta |     |   él | querer |           |    |    |          |         |         |      |
+|         I | N |       N |     I |  I |         I |  N |   N |     N |   I |   N |       I | I |      C |       N |  I |  I |     I |   I |  N |           I |  I |          C | I |  C |    I |     I |   N |    I |      I |         N |  N |  N |        N |       N |       N |    N |
+|         0 | 0 |       0 |     0 |  0 |         0 |  0 |   0 |     0 |   0 |   0 |       0 | 0 |      0 |       0 |  0 |  0 |     0 |   0 |  0 |           0 |  0 |          4 | 0 |  4 |    0 |     0 |   0 |    0 |      0 |         0 |  0 |  0 |        0 |       0 |       0 |    0 |
+
+
+| CNT003006 | ¿ | Qué |  es | eso | que |  sube | de | el | desierto | como | una | columna | de | humo | perfumada | de | mirra | y | de | incienso | y | de | todos | los | perfumes | exóticos | La | Amada |
+| CNT003006 | ¿ | qué | ser | ese | que | subir | de | el | desierto | como | uno | columna | de | humo |  perfumar | de | mirra | y | de | incienso | y | de |  todo |  el |  perfume |  exótico | el | amado |
+| CNT003006 | ¿ | Qué |  es | eso | que |  sube | de | el | desierto | como |     |         | de | humo | perfumado |    | mirra | y |    | incienso | y |    | todos | los |   aromas |          |    |       |
+| CNT003006 | ¿ | qué | ser | ese | que | subir | de | el | desierto | como |     |         | de | humo |  perfumar |    | mirra | y |    | incienso | y |    |  todo |  el |    aroma |          |    |       |
+|         I | I |   I |   I |   I |   I |     I |  I |  I |        I |    I |   N |       N |  I |    I |         I |  N |     I | I |  N |        I | I |  N |     I |   I |        C |        N |  N |     N |
+|         0 | 0 |   0 |   0 |   0 |   0 |     0 |  0 |  0 |        0 |    0 |   0 |       0 |  0 |    0 |         0 |  0 |     0 | 0 |  0 |        0 | 0 |  0 |     0 |   0 |        0 |        0 |  0 |     0 |
+
+
+| CNT003007 | ¡ |  Es | la | litera | de | Salomón |         | La | rodean | sesenta | guerreros | de | los | más | valientes | de | Israel |
+| CNT003007 | ¡ | ser | el | litera | de |  saloma |         | el | rodear | sesenta |  guerrero | de |  el | más |  valiente | de | israel |
+| CNT003007 |   |  Es | la | litera | de | Salomón | Sesenta | la | rodean |         |           |    | los |     | valientes | de | Israel |
+| CNT003007 |   | ser | el | litera | de |  saloma | sesenta | el | rodear |         |           |    |  el |     |  valiente | de | israel |
+|         I | N |   I |  I |      I |  I |       I |       N |  I |      I |       N |         N |  N |   I |   N |         I |  I |      I |
+|         0 | 0 |   0 |  0 |      0 |  0 |       0 |       0 |  0 |      0 |       0 |         0 |  0 |   0 |   0 |         0 |  0 |      0 |
+
+
+| CNT003008 | todos | ellos | provistos |   de |    | espada | adiestrados | para | el | combate | cada |    uno | con | su | espada | a | la | cintura |  por | temor | a | los |   peligros | de | la | noche |
+| CNT003008 |  todo | ellos |   proveer |   de |    | espada |   adiestrar | para | el | combate | cada |    uno | con | su | espada | a | el | cintura |  por | temor | a |  el |    peligro | de | el | noche |
+| CNT003008 | todos |   muy |    buenos | para | la | espada |     hombres | para | el | combate | Cada |  lleva |     | su | espada | a | la | cintura | para | nadie |   | los |  sorprenda | de |    | noche |
+| CNT003008 |  todo |   muy |     bueno | para | el | espada |      hombre | para | el | combate | cada | llevar |     | su | espada | a | el | cintura | para | nadie |   |  lo | sorprender | de |    | noche |
+|         I |     I |     C |         C |    C |  N |      I |           C |    I |  I |       I |    I |      C |   N |  I |      I | I |  I |       I |    C |     C | N |   I |          C |  I |  N |     I |
+|         0 |     0 |     0 |         0 |    0 |  0 |      0 |           6 |    0 |  0 |       0 |    0 |      0 |   0 |  0 |      0 | 0 |  0 |       0 |    0 |     0 | 0 |   0 |          3 |  0 |  0 |     0 |
+
+
+| CNT003009 | El | rey | Salomón | se |       |  hizo | una | litera | con | maderas | de | el | Líbano |
+| CNT003009 | el | rey | salomón | se |       | hacer | uno | litera | con |  madera | de | el | líbano |
+| CNT003009 | El | rey | Salomón | se |    ha | hecho |  un |  trono |  de |         | de | el | Líbano |
+| CNT003009 | el | rey | salomón | se | haber | hacer | uno |  trono |  de |         | de | el | líbano |
+|         I |  I |   I |       I |  I |     N |     I |   I |      C |   C |       N |  I |  I |      I |
+|         0 |  0 |   0 |       0 |  0 |     0 |     0 |   0 |      0 |   0 |       0 |  0 |  0 |      0 |
+
+
+| CNT003010 | Sus |       | columnas | las |  hizo | de | plata | su | respaldo | de | oro | su | asiento | de | púrpura |  con |      el | interior | revestido |  de | ébano | Hijas | de | Jerusalén |
+| CNT003010 |  su |       |  columna |  lo | hacer | de | plata | su | respaldo | de | oro | su | asiento | de | púrpura |  con |      el | interior |  revestir |  de | ébano |  hijo | de | jerusalén |
+| CNT003010 |  Le |  hizo | columnas |     |       | de | plata | el |          | de | oro | el | asiento | de | púrpura | todo | bordado |      con |      amor | por |       | hijas | de | Jerusalén |
+| CNT003010 |  le | hacer |  columna |     |       | de | plata | el |          | de | oro | el | asiento | de | púrpura | todo | bordado |      con |      amor | por |       |  hijo | de | jerusalén |
+|         I |   C |     N |        I |   N |     N |  I |     I |  C |        N |  I |   I |  C |       I |  I |       I |    C |       C |        C |         C |   C |     N |     I |  I |         I |
+|         0 |   0 |     0 |        0 |   0 |     0 |  0 |     0 |  0 |        0 |  0 |   0 |  6 |       0 |  0 |       0 |    0 |       0 |        0 |         0 |   0 |     0 |     0 |  0 |         0 |
+
+
+| CNT003011 |       |    |      | salgan | a | contemplar | a | el | rey | Salomón | con | la | corona | que | le |    ciñó | su | madre | el | día | de |  su |  boda | el | día | de | su | alegría | La | belleza | deslumbrante | de | la | Amada |
+| CNT003011 |       |    |      | salgar | a | contemplar | a | el | rey |  saloma | con | el | corona | que | le |   ceñir | su | madre | el | día | de |  su |  boda | el | día | de | su | alegría | el | belleza | deslumbrante | de | el | amado |
+| CNT003011 | Hijas | de | Sión | salgan |   | contemplar | a | el | rey | Salomón | con |    | corona | que | le |  colocó | su | madre | el |     | de | sus | bodas | el |     | de | su | alegría |    |         |              |    |    |       |
+| CNT003011 |  hijo | de | sión | salgar |   | contemplar | a | el | rey |  saloma | con |    | corona | que | le | colocar | su | madre | el |     | de |  su |  boda | el |     | de | su | alegría |    |         |              |    |    |       |
+|         I |     N |  N |    N |      I | N |          I | I |  I |   I |       I |   I |  N |      I |   I |  I |       C |  I |     I |  I |   N |  I |   I |     I |  I |   N |  I |  I |       I |  N |       N |            N |  N |  N |     N |
+|         0 |     0 |  0 |    0 |      0 | 0 |          0 | 0 |  0 |   0 |       0 |   0 |  0 |      0 |   0 |  0 |       7 |  0 |     0 |  0 |   0 |  0 |   0 |     0 |  0 |   0 |  0 |  0 |       0 |  0 |       0 |            0 |  0 |  0 |     0 |
+
+
+| CNT004001 | ¡ | Qué | hermosa | eres | amada | mía | qué | hermosa | eres | Tus | ojos | son |      | palomas | detrás | de | tu | velo | Tus | cabellos | como |  un | rebaño | de | cabras | que |  baja | por | las | laderas | de | Galaad |
+| CNT004001 | ¡ | qué | hermoso |  ser | amado | mío | qué | hermoso |  ser |  tu |  ojo | ser |      |  paloma | detrás | de | tu | velo |  tu |  cabello | como | uno | rebaño | de |  cabra | que | bajar | por |  el |  ladera | de | galaad |
+| CNT004001 | ¡ | Qué |   bella | eres | amada | mía | qué |         | eres | Tus |      | son | como | palomas | detrás | de | tu | velo |     |          |      |     |        |    |        |     |       |     |     |         |    |        |
+| CNT004001 | ¡ | qué |   bello |  ser | amado | mío | qué |         |  ere |  tu |      | ser | como |  paloma | detrás | de | tu | velo |     |          |      |     |        |    |        |     |       |     |     |         |    |        |
+|         I | I |   I |       C |    I |     I |   I |   I |       N |    I |   I |    N |   I |    N |       I |      I |  I |  I |    I |   N |        N |    N |   N |      N |  N |      N |   N |     N |   N |   N |       N |  N |      N |
+|         0 | 0 |   0 |       8 |    0 |     0 |   0 |   0 |       0 |    0 |   0 |    0 |   0 |    0 |       0 |      0 |  0 |  0 |    0 |   0 |        0 |    0 |   0 |      0 |  0 |      0 |   0 |     0 |   0 |   0 |       0 |  0 |      0 |
+
+
+| CNT004002 | Tus |  dientes | como |  un | rebaño | de |        |     |     |     |            |    |        |     | ovejas | esquiladas | que | acaban | de | bañar | se | todas |  ellas |   han | tenido |    | mellizos | y | no |   hay | ninguna | estéril |
+| CNT004002 |  tu |   diente | como | uno | rebaño | de |        |     |     |     |            |    |        |     |  oveja |   esquilar | que | acabar | de | bañar | se |  todo |  ellos | haber |  tener |    |  mellizo | y | no | haber | ninguno | estéril |
+| CNT004002 | Tus | cabellos | como |  un | rebaño | de | cabras | que | por | las | pendientes | de | Galaad | Tus | ovejas | esquiladas | que |        | de | bañar | se |  cada |  lleva |    su |    par | de | mellizos | y | va |  sola |         |         |
+| CNT004002 |  tu |  cabello | como | uno | rebaño | de |  cabra | que | por |  el |  pendiente | de | galaad |  tu |  oveja |   esquilar | que |        | de | bañar | se |  cada | llevar |    su |    par | de |  mellizo | y | ir |  solo |         |         |
+|         I |   I |        C |    I |   I |      I |  I |      N |   N |   N |   N |          N |  N |      N |   N |      I |          I |   I |      N |  I |     I |  I |     C |      C |     C |      C |  N |        I | I |  C |     C |       N |       N |
+|         0 |   0 |        7 |    0 |   0 |      0 |  0 |      0 |   0 |   0 |   0 |          0 |  0 |      0 |   0 |      0 |          0 |   0 |      0 |  0 |     0 |  0 |     0 |      0 |     0 |      0 |  0 |        0 | 0 |  0 |     0 |       0 |       0 |
+
+
+| CNT004003 | Como |    una | cinta | escarlata | son |  tus |   labios | y |     tu |       boca |  es | hermosa | Como | cortes | de | granada |     son | tus | mejillas | detrás | de | tu | velo |
+| CNT004003 | como |    uno | cinta | escarlata | ser |   tu |    labio | y |     tu |       boca | ser | hermoso | como |  corte | de | granada |     ser |  tu |  mejilla | detrás | de | tu | velo |
+| CNT004003 |  Tus | labios |   son |      como |  un | hilo | colorado | y | hablar | encantador | Tus |         | como |        |    | granada | partida |  en |      dos |      a | de | tu | velo |
+| CNT004003 |   tu |  labio |   ser |      como | uno | hilo |  colorar | y | hablar | encantador |  tu |         | como |        |    |  granar | partida |  en |       do |      a | de | tu | velo |
+|         I |    C |      C |     C |         C |   C |    C |        C | I |      C |          C |   C |       N |    I |      N |  N |       I |       C |   C |        C |      C |  I |  I |    I |
+|         0 |    0 |      0 |     0 |         0 |   0 |    0 |        0 | 0 |      0 |          0 |   0 |       0 |    0 |      0 |  0 |       0 |       0 |   0 |        0 |      0 |  0 |  0 |    0 |
+
+
+| CNT004004 | Tu | cuello |  es | como | la | torrede |    | David | construida |       con | piedras | talladas | de | ella | cuelgan | mil | escudos |  toda | clase | de | armaduras | de | guerreros |
+| CNT004004 | tu | cuello | ser | como | el | torrede |    | david |  construir |       con |  piedra |   tallar | de |   él |  colgar | mil |  escudo |  todo | clase | de |  armadura | de |  guerrero |
+| CNT004004 | Tu | cuello |  es | como | la |   torre | de | David |  edificada | fortaleza |         |          | de |      | cuelgan | mil | escudos | todos |       | de | valientes |    |           |
+| CNT004004 | tu | cuello | ser | como | el |   torre | de | david |   edificar | fortaleza |         |          | de |      |  colgar | mil |  escudo |  todo |       | de |  valiente |    |           |
+|         I |  I |      I |   I |    I |  I |       C |  N |     I |          C |         C |       N |        N |  I |    N |       I |   I |       I |     I |     N |  I |         C |  N |         N |
+|         0 |  0 |      0 |   0 |    0 |  0 |       0 |  0 |     0 |          0 |         0 |       0 |        0 |  0 |    0 |       0 |   0 |       0 |     0 |     0 |  0 |         0 |  0 |         0 |
+
+
+| CNT004005 | Tus |     | pechos | son | como | dos | ciervos | jóvenes | mellizos | de | una | gacela | que |   pastan | entre | los | lirios |
+| CNT004005 |  tu |     |  pecho | ser | como |  do |  ciervo |   joven |  mellizo | de | uno | gacela | que |   pastar | entre |  el |  lirio |
+| CNT004005 | Tus | dos | pechos |     | como | dos |   crías |         | mellizas |    |     | gacela | que | pastando | entre |     | lirios |
+| CNT004005 |  tu |  do |  pecho |     | como |  do |    cría |         |  mellizo |    |     | gacela | que |   pastar | entre |     |  lirio |
+|         I |   I |   N |      I |   N |    I |   I |       C |       N |        I |  N |   N |      I |   I |        I |     I |   N |      I |
+|         0 |   0 |   0 |      0 |   0 |    0 |   0 |       0 |       0 |        0 |  0 |   0 |      0 |   0 |        0 |     0 |   0 |      0 |
+
+
+| CNT004006 | Antes |    | que |  sople | la | brisa |    |    |     | y | huyan | las | sombras | iré | a | la | montaña | de | la | mirra | a | la | colina | de | el | incienso |
+| CNT004006 | antes |    | que | soplar | el | brisa |    |    |     | y |  huir |  el |  sombra |  ir | a | el | montaña | de | el | mirra | a | el | colina | de | el | incienso |
+| CNT004006 | Antes | de | que |  sople | la | brisa | de | el | día | y | vayan | las | sombras |  me | a | el |   monte | de | la | mirra | a | el |        | de | el | incienso |
+| CNT004006 | antes | de | que | soplar | el | brisa | de | el | día | y |    ir |  el |  sombra |  me | a | el |   monte | de | el | mirra | a | el |        | de | el | incienso |
+|         I |     I |  N |   I |      I |  I |     I |  N |  N |   N | I |     C |   I |       I |   C | I |  I |       C |  I |  I |     I | I |  I |      N |  I |  I |        I |
+|         0 |     0 |  0 |   0 |      0 |  0 |     0 |  0 |  0 |   0 | 0 |     4 |   0 |       0 |   5 | 0 |  0 |       8 |  0 |  0 |     0 | 0 |  0 |      0 |  0 |  0 |        0 |
+
+
+| CNT004007 | Eres | toda | hermosa | amada | mía |  y | no | tienes |  ningún | defecto |
+| CNT004007 |  ser | todo | hermoso | amado | mío |  y | no |  tener | ninguno | defecto |
+| CNT004007 | Eres | toda | hermosa | amada | mía | en | no |    hay |  ningún | defecto |
+| CNT004007 |  ser | todo | hermoso | amado | mío | en | no |  haber | ninguno | defecto |
+|         I |    I |    I |       I |     I |   I |  C |  I |      C |       I |       I |
+|         0 |    0 |    0 |       0 |     0 |   0 |  8 |  0 |      4 |       0 |       0 |
+
+
+| CNT004008 | ¡ |   Ven | conmigo | de | el | Líbano | novia | mía | ven | desde | el | Líbano | Desciende | desde |   la | cumbre | de | el | Amaná | desde |    las | cimas | de | el | Sanir | y | de | el | Hermón |   desde |     la |  guarida | de | los | leones | desde | los | montes | de | los | leopardos |
+| CNT004008 | ¡ | venir | conmigo | de | el | líbano | novio | mío | ver | desde | el | líbano | descender | desde |   el | cumbre | de | el | amaná | desde |     el |  cima | de | el | sanir | y | de | el |  herma |   desde |     el |  guarida | de |  el |   león | desde |  el |  monte | de |  el |  leopardo |
+| CNT004008 |   |   Ven |         | de | el | Líbano | novia | mía | ven |    de | el | Líbano |           | desde | alto |        | de | el | Amaná | desde | cumbre |       | de | el | Samir | y | de | el | Hermón | moradas | leones | guaridas |    |     |        |       |     |        |    |     | leopardos |
+| CNT004008 |   |   ver |         | de | el | líbano | novio | mío | ver |    de | el | líbano |           | desde | alto |        | de | el | amaná | desde | cumbre |       | de | el | samir | y | de | el |  herma |   morar |   león |  guarida |    |     |        |       |     |        |    |     |  leopardo |
+|         I | N |     I |       N |  I |  I |      I |     I |   I |   I |     C |  I |      I |         N |     I |    C |      N |  I |  I |     I |     I |      C |     N |  I |  I |     C | I |  I |  I |      I |       C |      C |        I |  N |   N |      N |     N |   N |      N |  N |   N |         I |
+|         0 | 0 |     0 |       0 |  0 |  0 |      0 |     0 |   0 |   0 |     9 |  0 |      0 |         0 |     0 |    0 |      0 |  0 |  0 |     0 |     0 |      0 |     0 |  0 |  0 |     7 | 0 |  0 |  0 |      0 |       0 |      0 |        0 |  0 |   0 |      0 |     0 |   0 |      0 |  0 |   0 |         0 |
+
+
+| CNT004009 | ¡ | Me |   has |  robado | el | corazón | hermana | mía | novia | mía | ¡ | Me |   has | robado | el | corazón | con | una | sola |     de |  tus | miradas | con | una | sola | vuelta |     |        | de | tus | collares |
+| CNT004009 | ¡ | me | haber |   robar | el | corazón | hermano | mío | novio | mío | ¡ | me | haber |  robar | el | corazón | con | uno | solo |     de |   tu |  mirada | con | uno | solo | vuelta |     |        | de |  tu |   collar |
+| CNT004009 |   | Me |       | robaste | el | corazón | hermana | mía | novia | mía |   | me |       |        | el | corazón | con | una | sola | mirada | tuya |         | con |     | sola |     de | las | perlas | de |  tu |   collar |
+| CNT004009 |   | me |       |   robar | el | corazón | hermano | mío | novio | mío |   | me |       |        | el | corazón | con | uno | solo | mirada | tuyo |         | con |     | solo |     de |  el |  perla | de |  tu |   collar |
+|         I | N |  I |     N |       I |  I |       I |       I |   I |     I |   I | N |  I |     N |      N |  I |       I |   I |   I |    I |      C |    C |       N |   I |   N |    I |      C |   N |      N |  I |   I |        I |
+|         0 | 0 |  0 |     0 |       0 |  0 |       0 |       0 |   0 |     0 |   0 | 0 |  0 |     0 |      0 |  0 |       0 |   0 |   0 |    0 |      0 |    0 |       0 |   0 |   0 |    0 |      0 |   0 |      0 |  0 |   0 |        0 |
+
+
+| CNT004010 | ¡ | Qué | hermosos | son | tus |   amores | hermana | mía | novia | mía |   |     |     | Tus | amores | son | más | deliciosos |       |       | que | el | vino | y |   el | aroma | de | tus | perfumes | mejor |   que |    todos | los | ungüentos |      |
+| CNT004010 | ¡ | qué |  hermoso | ser |  tu |     amor | hermano | mío | novio | mío |   |     |     |  tu |   amor | ser | más |  delicioso |       |       | que | el | vino | y |   el | aroma | de |  tu |  perfume | mejor |   que |     todo |  el |  ungüento |      |
+| CNT004010 | ¡ | Qué | amorosas | son | tus | caricias | hermana |     | novia | mía | ¡ | Qué |  es |  tu |   amor | ... |   ¡ |         Sí | mucho | mejor | que | el | vino | Y | olor |       | de | tus | perfumes |    no | puede | comparar | con |    ningún | otro |
+| CNT004010 | ¡ | qué |  amoroso | ser |  tu |  caricia | hermano |     | novio | mío | ¡ | qué | ser |  tu |   amor | ... |   ¡ |         sí | mucho | mejor | que | el | vino | y | olor |       | de |  tu |  perfume |    no | poder | comparar | con |   ninguno | otro |
+|         I | I |   I |        C |   I |   I |        C |       I |   N |     I |   I | N |   N |   N |   I |      I |   C |   C |          C |     N |     N |   I |  I |    I | I |    C |     N |  I |   I |        I |     C |     C |        C |   C |         C |    N |
+|         0 | 0 |   0 |        6 |   0 |   0 |        4 |       0 |   0 |     0 |   0 | 0 |   0 |   0 |   0 |      0 |   0 |   0 |          0 |     0 |     0 |   0 |  0 |    0 | 0 |    0 |     0 |  0 |   0 |        0 |     0 |     0 |        0 |   0 |         0 |    0 |
+
+
+| CNT004011 |   ¡ | Tus | labios |    |    |       | destilan | miel | pura |  novia | mía |    Hay | miel |         y | leche | bajo |   tu | lengua | y | la | fragancia | de | tus | vestidos |  es | como |  el |   aroma | de | el | Líbano |
+| CNT004011 |   ¡ |  tu |  labio |    |    |       | destilar | miel | puro |  novio | mío |  haber | miel |         y | leche | bajo |   tu | lengua | y | el | fragancia | de |  tu |  vestido | ser | como |  el |   aroma | de | el | líbano |
+| CNT004011 | Los |     | labios | de | mi | novia | destilan | pura | miel | debajo |  tu | lengua |   se | encuentra | leche |    y | miel |        | y |    | fragancia | de | tus | vestidos |  es |   de | los | bosques | de | el | Líbano |
+| CNT004011 |  el |     |  labio | de | mi | novio | destilar | puro | miel | debajo |  tu | lengua |   se | encontrar | leche |    y | miel |        | y |    | fragancia | de |  tu |  vestido | ser |   de |  el |  bosque | de | el | líbano |
+|         I |   C |   N |      I |  N |  N |     N |        I |    C |    C |      C |   C |      C |    C |         C |     I |    C |    C |      N | I |  N |         I |  I |   I |        I |   I |    C |   I |       C |  I |  I |      I |
+|         0 |   0 |   0 |      0 |  0 |  0 |     0 |        0 |    0 |    0 |      0 |   0 |      0 |    0 |         0 |     0 |    0 |    0 |      0 | 0 |  0 |         0 |  0 |   0 |        0 |   0 |    7 |   0 |       5 |  0 |  0 |      0 |
+
+
+| CNT004012 | Eres |  un | jardín | cerrado |     |    | hermana | mía | novia |    mía | eres |        un | jardín |  cerrado | una | fuente | sellada |
+| CNT004012 |  ser | uno | jardín |  cerrar |     |    | hermano | mío | novio |    mío |  ser |       uno | jardín |   cerrar | uno | fuente |  sellar |
+| CNT004012 |      |  Un | jardín | cercado |  es | mi | hermana |  mi | novia | huerto |    y | manantial |   bien | guardado |     |        |         |
+| CNT004012 |      | uno | jardín |  cercar | ser | mi | hermano |  mi | novio | huerto |    y | manantial |   bien |  guardar |     |        |         |
+|         I |    N |   I |      I |       C |   N |  N |       I |   C |     I |      C |    C |         C |      C |        C |   N |      N |       N |
+|         0 |    0 |   0 |      0 |       0 |   0 |  0 |       0 |   3 |     0 |      0 |    0 |         0 |      0 |        0 |   0 |      0 |       0 |
+
+
+| CNT004013 | Tus | brotes |   son |  un |  vergel | de | granadas | con | frutos | exquisitos | alheña | con | nardos |
+| CNT004013 |  tu |  brote |   ser | uno |  vergel | de |  granada | con |  fruto |  exquisito | alheña | con |  nardo |
+| CNT004013 |  En |     ti |   hay |  un | paraíso |    |          | con | frutos | exquisitos |        |     |        |
+| CNT004013 |  en |     ti | haber | uno | paraíso |    |          | con |  fruto |  exquisito |        |     |        |
+|         I |   C |      C |     C |   I |       C |  N |        N |   I |      I |          I |      N |   N |      N |
+|         0 |   0 |      0 |     0 |   0 |       0 |  0 |        0 |   0 |      0 |          0 |      0 |   0 |      0 |
+
+
+| CNT004014 | nardo | y | azafrán |  caña | aromática |      | y | canela | con | todos | los | árboles | de | incienso | mirra | y | áloe | con | los | mejores | perfumes |
+| CNT004014 | nardo | y | azafrán |  caña | aromático |      | y | canelo | con |  todo |  el |   árbol | de | incienso | mirra | y | áloe | con |  el |   mejor |  perfume |
+| CNT004014 | nardo | y | azafrán | clavo |        de | olor | y | canela | con |       | los | árboles | de | incienso | mirra | y | áloe | con |     | mejores | perfumes |
+| CNT004014 | nardo | y | azafrán | clavo |        de | olor | y | canela | con |       |  el |   árbol | de | incienso | mirra | y | áloe | con |     |   mejor |  perfume |
+|         I |     I | I |       I |     C |         C |    N | I |      I |   I |     N |   I |       I |  I |        I |     I | I |    I |   I |   N |       I |        I |
+|         0 |     0 | 0 |       0 |     0 |         0 |    0 | 0 |      0 |   0 |     0 |   0 |       0 |  0 |        0 |     0 | 0 |    0 |   0 |   0 |       0 |        0 |
+
+
+| CNT004015 | ¡ | Fuente | que | riega | los | jardines | manantial | de |  agua |  viva |        que | fluye | desde | el | Líbano | Los | deseos | de | la | Amada | La | Amada |
+| CNT004015 | ¡ | fuente | que | regar |  el |   jardín | manantial | de |  agua |  vivo |        que | fluir | desde | el | líbano |  el |  deseo | de | el | amado | el | amado |
+| CNT004015 |   | Fuente |  de |       | los | jardines | manantial |    | aguas | vivas | corrientes | bajan |    de | el | Líbano |     |        |    |    |       |    |       |
+| CNT004015 |   | fuente |  de |       |  el |   jardín | manantial |    |  agua |  vivo |  corriente | bajar |    de | el | líbano |     |        |    |    |       |    |       |
+|         I | N |      I |   C |     N |   I |        I |         I |  N |     I |     I |          C |     C |     C |  I |      I |   N |      N |  N |  N |     N |  N |     N |
+|         0 | 0 |      0 |   0 |     0 |   0 |        0 |         0 |  0 |     0 |     0 |          0 |     0 |     0 |  0 |      0 |   0 |      0 |  0 |  0 |     0 |  0 |     0 |
+
+
+| CNT004016 |      ¡ | Despierta |  viento | de | el | norte | ven | viento | de | el |      sur | ¡ | Soplen | sobre | mi | jardín | para | que |   exhale |  su | perfume | ¡ |   Que | mi | amado | entre | en | su | jardín | y |  saboree | sus |            | frutos | deliciosos | El | gozo | de | la | mutua | posesión |
+| CNT004016 |      ¡ | despierto |  viento | de | el | norte | ver | viento | de | el |      sur | ¡ | soplar | sobre | mi | jardín | para | que |  exhalar |  su | perfume | ¡ |   que | mi | amado | entre | en | su | jardín | y | saborear |  su |            |  fruto |  delicioso | el | gozo | de | el | mutuo | posesión |
+| CNT004016 | Soplen |           | vientos | de | el | norte |   y |        | de | el | desierto |   | soplen |       | mi | huerto | para |  se | expandan | sus |  aromas | y | entre | mi | amado |       | en | su | huerto | y |       de | sus | exquisitos | frutos |            |    |      |    |    |       |          |
+| CNT004016 | soplar |           |  viento | de | el | norte |   y |        | de | el | desierto |   | soplar |       | mi | huerto | para |  se | expandir |  su |   aroma | y | entre | mi | amado |       | en | su | huerto | y |       de |  su |  exquisito |  fruto |            |    |      |    |    |       |          |
+|         I |      C |         N |       I |  I |  I |     I |   C |      N |  I |  I |        C | N |      I |     N |  I |      C |    I |   C |        C |   I |       C | C |     C |  I |     I |     N |  I |  I |      C | I |        C |   I |          N |      I |          N |  N |    N |  N |  N |     N |        N |
+|         0 |      0 |         0 |       0 |  0 |  0 |     0 |   0 |      0 |  0 |  0 |        0 | 0 |      0 |     0 |  0 |      3 |    0 |   0 |        0 |   0 |       0 | 0 |     0 |  0 |     0 |     0 |  0 |  0 |      4 | 0 |        3 |   0 |          0 |      0 |          0 |  0 |    0 |  0 |  0 |     0 |        0 |
+
+
+| CNT005001 |    Yo |   entré | en | mi | jardín | hermana | mía | novia |   mía |  recogí | mi | mirra |   y | mi | bálsamo |  comí | mi | miel |  y | mi | panal |  bebí | mi | vino | y | mi | leche | ¡ | Coman | amigos | míos | beban |          y | embriáguense | de | amor | Visita | nocturna | y | búsqueda | de | el | Amado | perdido | La | Amada |
+| CNT005001 |    yo |  entrar | en | mi | jardín | hermano | mío | novio |   mío | recoger | mi | mirra |   y | mi | bálsamo | comer | mi | miel |  y | mi | panal | beber | mi | vino | y | mi | leche | ¡ | comer |  amigo |  mío | beber |          y | embriáguense | de | amor | visita | nocturno | y | búsqueda | de | el | amado |  perder | el | amado |
+| CNT005001 |    He | entrado | en | mi | huerto | hermana |     | novia |    he |         | mi | mirra | con | mi | perfume |    he | mi | miel | en | su | panal |    he | mi | vino | y | mi | leche |   |       | Amigos |      | beban | compañeros |              |    |      |        |          |   |          |    |    |       |         |    |       |
+| CNT005001 | haber |  entrar | en | mi | huerto | hermano |     | novio | haber |         | mi | mirra | con | mi | perfume | haber | mi | miel | en | su | panal | haber | mi | vino | y | mi | leche |   |       |  amigo |      | beber |  compañero |              |    |      |        |          |   |          |    |    |       |         |    |       |
+|         I |     C |       I |  I |  I |      C |       I |   N |     I |     C |       N |  I |     I |   C |  I |       C |     C |  I |    I |  C |  C |     I |     C |  I |    I | I |  I |     I | N |     N |      I |    N |     I |          C |            N |  N |    N |      N |        N | N |        N |  N |  N |     N |       N |  N |     N |
+|         0 |     5 |       0 |  0 |  0 |      5 |       0 |   0 |     0 |     0 |       0 |  0 |     0 |   4 |  0 |       0 |     0 |  0 |    0 |  0 |  0 |     0 |     7 |  0 |    0 | 0 |  0 |     0 | 0 |     0 |      0 |    0 |     0 |          0 |            0 |  0 |    0 |      0 |        0 | 0 |        0 |  0 |  0 |     0 |       0 |  0 |     0 |
+
+
+| CNT005002 | Yo | duermo | pero | mi | corazón |   vela |           | oigo |   a |    | mi | amado | que |  golpea |       ¡ | Ábreme | hermana |    |  mía |        mi | amada | paloma | mía | mi | preciosa | Porque |  mi | cabeza |  está | empapada | por | el | rocío | y |       mi | cabellera | por | la | humedad | de | la | noche |   |
+| CNT005002 | yo | dormir | pero | mi | corazón |   vela |           |  oír |   a |    | mi | amado | que | golpear |       ¡ | ábreme | hermano |    |  mío |        mi | amado | paloma | mío | mi | precioso | porque |  mi | cabeza | estar |  empapar | por | el | rocío | y |       mi | cabellera | por | el | humedad | de | el | noche |   |
+| CNT005002 | Yo | dormía | pero |    | corazón | estaba | despierto |   Oí | voz | de | mi | amado | que |      me | llamaba |      “ |    Abre | me |  mía | compañera |   mía | paloma |     |    | preciosa |    mía | que | cabeza |  está | cubierta |  de |    | rocío | y | cabellos |        de |     | la | humedad | de | la | noche | ” |
+| CNT005002 | yo | dormir | pero |    | corazón |  estar | despierto |  oír | voz | de | mi | amado | que |      me |  llamar |      “ |   abrir | me | miar | compañero |   mío | paloma |     |    | precioso |    mía | que | cabeza | estar |   cubrir |  de |    | rocío | y |  cabello |        de |     | el | humedad | de | el | noche | ” |
+|         I |  I |      I |    I |  N |       I |      C |         N |    I |   C |  N |  I |     I |   I |       C |       C |      C |       C |  N |    I |         C |     C |      I |   N |  N |        I |      C |   C |      I |     I |        C |   C |  N |     I | I |        C |         C |   N |  I |       I |  I |  I |     I | N |
+|         0 |  0 |      0 |    0 |  0 |       0 |      0 |         0 |    0 |   0 |  0 |  0 |     0 |   0 |       0 |       0 |      0 |       0 |  0 |    0 |         0 |     0 |      0 |   0 |  0 |        0 |      0 |   0 |      0 |     0 |        0 |   0 |  0 |     0 | 0 |        0 |         0 |   0 |  0 |       0 |  0 |  0 |     0 | 0 |
+
+
+| CNT005003 | Ya | me |  quité | la | túnica | ¿ |   cómo | voy | a | ponérmela |   de | nuevo | Ya | me |  lavé | los | pies | ¿ | cómo | voy |        | a | ensuciármelos |
+| CNT005003 | ya | me | quitar | el | túnica | ¿ |   cómo |  ir | a | ponérmela |   de | nuevo | ya | me | lavar |  el |  pie | ¿ | cómo |  ir |        | a | ensuciármelos |
+| CNT005003 |    | Me |  quité | la | túnica | ¿ | tendré |     |   | ponérmela | otra |   vez |    | Me |       | los | pies | ¿ | cómo |   a | volver | a | ensuciármelos |
+| CNT005003 |    | me | quitar | el | túnica | ¿ |  tener |     |   | ponérmela | otro |   vez |    | me |       |  el |  pie | ¿ | cómo |   a | volver | a | ensuciármelos |
+|         I |  N |  I |      I |  I |      I | I |      C |   N | N |         I |    C |     C |  N |  I |     N |   I |    I | I |    I |   C |      N | I |             I |
+|         0 |  0 |  0 |      0 |  0 |      0 | 0 |      0 |   0 | 0 |         0 |    0 |     0 |  0 |  0 |     0 |   0 |    0 | 0 |    0 |   0 |      0 | 0 |             0 |
+
+
+|    CNT005004_Mi | amado |  pasó | la | mano | por |        la | abertura | de | la | puerta | y |   se |    | estremecieron | mis | entrañas |
+| LN_mi:CNT005004 | amado | pasar | el | mano | por |        el | abertura | de | el | puerta | y |   se |    |    estremecer |  mi |  entraña |
+|    CNT005004_Mi | amado | metió | la | mano | por | cerradura |          | de |    | puerta | ¡ | cómo | me |    estremeció |  el |  corazón |
+| LN_mi:CNT005004 | amado | meter | el | mano | por | cerradura |          | de |    | puerta | ¡ | cómo | me |    estremecer |  el |  corazón |
+|               I |     I |     C |  I |    I |   I |         C |        N |  I |  N |      I | C |    C |  N |             I |   C |        C |
+|               0 |     0 |     6 |  0 |    0 |   0 |         0 |        0 |  0 |  0 |      0 | 0 |    0 |  0 |             0 |   0 |        1 |
+
+
+| CNT005005 | Me |  levanté | para | abrir | le | a | mi | amado | y | mis | manos | destilaron | mirra |  fluyó | mirra | de | mis | dedos |   por |       el | pasador | de | la | cerradura |
+| CNT005005 | me | levantar | para | abrir | le | a | mi | amado | y |  mi |  mano |   destilar | mirra |  fluir | mirra | de |  mi |  dedo |   por |       el | pasador | de | el | cerradura |
+| CNT005005 | Me |  levanté | para | abrir |    | a | mi | amado | y |     | manos | destilaron | mirra | corrió |       | de | mis | dedos | sobre | pestillo |         | de | la | cerradura |
+| CNT005005 | me | levantar | para | abrir |    | a | mi | amado | y |     |  mano |   destilar | mirra | correr |       | de |  mi |  dedo | sobre | pestillo |         | de | el | cerradura |
+|         I |  I |        I |    I |     I |  N | I |  I |     I | I |   N |     I |          I |     I |      C |     N |  I |   I |     I |     C |        C |       N |  I |  I |         I |
+|         0 |  0 |        0 |    0 |     0 |  0 | 0 |  0 |     0 | 0 |   0 |     0 |          0 |     0 |      0 |     0 |  0 |   0 |     0 |     0 |        0 |       0 |  0 |  0 |         0 |
+
+
+| CNT005006 | Yo | misma | le |  abrí | a | mi | amado | pero |    él | ya |    | había | desaparecido | ¡ |    |     | El | alma |   se | me | fue | detrás | de | él | ¡ | Lo | busqué | y | no | lo |  encontré | lo |  llamé | y | no | me | respondió |
+| CNT005006 | yo | mismo | le | abrir | a | mi | amado | pero |    él | ya |    | haber |  desaparecer | ¡ |    |     | el | alma |   se | me | ser | detrás | de | él | ¡ | lo | buscar | y | no | lo | encontrar | lo | llamar | y | no | me | responder |
+| CNT005006 |    |       |    |  Abrí | a | mi | amado | pero | amado | ya | se | había |          ido | ¡ | Se | fue | el | alma | tras |    |     |        | de | él |   | Lo |        | y | no | lo |     hallé | lo |        | y | no | me | respondió |
+| CNT005006 |    |       |    | abrir | a | mi | amado | pero |  amar | ya | se | haber |           ir | ¡ | se |  ir | el | alma | tras |    |     |        | de | él |   | lo |        | y | no | lo |    hallar | lo |        | y | no | me | responder |
+|         I |  N |     N |  N |     I | I |  I |     I |    I |     C |  I |  N |     I |            C | I |  N |   N |  I |    I |    C |  N |   N |      N |  I |  I | N |  I |      N | I |  I |  I |         C |  I |      N | I |  I |  I |         I |
+|         0 |  0 |     0 |  0 |     0 | 0 |  0 |     0 |    0 |     7 |  0 |  0 |     0 |            3 | 0 |  0 |   0 |  0 |    0 |    0 |  0 |   0 |      0 |  0 |  0 | 0 |  0 |      0 | 0 |  0 |  0 |         5 |  0 |      0 | 0 |  0 |  0 |         0 |
+
+
+| CNT005007 | Me | encontraron | los | centinelas | que | hacen | la | ronda |  en | la | ciudad | los | guardias | de | las | murallas | me | golpearon | y | me | hirieron | me | arrancaron | el | manto |
+| CNT005007 | me |   encontrar |  el |  centinela | que | hacer | el | ronda |  en | el | ciudad |  el |  guardia | de |  el |  muralla | me |   golpear | y | me |    herir | me |   arrancar | el | manto |
+| CNT005007 | Me | encontraron | los | centinelas | que |    de |    | ronda | por | la | ciudad | Los |          | de | las | murallas | me |           | y | me | hirieron |  y |   quitaron | mi |  chal |
+| CNT005007 | me |   encontrar |  el |  centinela | que |    de |    | ronda | por | el | ciudad |  el |          | de |  el |  muralla | me |           | y | me |    herir |  y |     quitar | mi |  chal |
+|         I |  I |           I |   I |          I |   I |     C |  N |     I |   C |  I |      I |   I |        N |  I |   I |        I |  I |         N | I |  I |        I |  C |          C |  C |     C |
+|         0 |  0 |           0 |   0 |          0 |   0 |     0 |  0 |     0 |   5 |  0 |      0 |   0 |        0 |  0 |   0 |        0 |  0 |         0 | 0 |  0 |        0 |  0 |          0 |  0 |     1 |
+
+
+| CNT005008 | Júrenme | hijas | de | Jerusalén |    |     |       | que | si | encuentran | a | mi | amado | le | dirán | ... | ¿ | qué | le | dirán | Que | estoy |  enferma | de | amor | Los | encantos | de | el | Amado | ausente | Coro |
+| CNT005008 | júrenme |  hijo | de | jerusalén |    |     |       | que | si |  encontrar | a | mi | amado | le | decir | ... | ¿ | qué | le | decir | que | estar |  enfermo | de | amor |  el |  encanto | de | el | amado | ausente | coro |
+| CNT005008 |         | Hijas | de | Jerusalén | yo | les | ruego | que |    | encuentran | a | mi | amado | le |       |     | ¿ | Qué | le | dirán | Que |       |  enferma | de | amor |     |          |    |    |       |         |      |
+| CNT005008 |         |  hijo | de | jerusalén | yo |  le | ruego | que |    |  encontrar | a | mi | amado | le |       |     | ¿ | qué | le | decir | que |       | enfermar | de | amor |     |          |    |    |       |         |      |
+|         I |       N |     I |  I |         I |  N |   N |     N |   I |  N |          I | I |  I |     I |  I |     N |   N | I |   I |  I |     I |   I |     N |        I |  I |    I |   N |        N |  N |  N |     N |       N |    N |
+|         0 |       0 |     0 |  0 |         0 |  0 |   0 |     0 |   0 |  0 |          0 | 0 |  0 |     0 |  0 |     0 |   0 | 0 |   0 |  0 |     0 |   0 |     0 |        0 |  0 |    0 |   0 |        0 |  0 |  0 |     0 |       0 |    0 |
+
+
+| CNT005009 |  ¿ | Qué | tiene | tu | amado | más |   que |    | los |   otros | tú |  la | más | hermosa |       | de | las | mujeres | ¿ | Qué | tiene | tu | amado | más | que | los | otros | para | que | nos | conjures | de | esa | manera | La | Amada |
+| CNT005009 |  ¿ | qué | tener | tu | amado | más |   que |    |  el |    otro | tú |  el | más | hermoso |       | de |  el |   mujer | ¿ | qué | tener | tu | amado | más | que |  el |  otro | para | que | nos | conjurar | de | ese | manera | el | amado |
+| CNT005009 | Oh |     |       | tú |    la | más | bella | de | las | mujeres |  ¿ | qué |   a |      tu | amado | de | los |   otros | ¿ | Qué |     a | tu | amado |  de |     | los | otros | para | así | nos |   mandes |    |     |        |    |       |
+| CNT005009 | oh |     |       | tú |    el | más | bello | de |  el |   mujer |  ¿ | qué |   a |      tu | amado | de |  el |    otro | ¿ | qué |     a | tu | amado |  de |     |  el |  otro | para | así | nos |   mandar |    |     |        |    |       |
+|         I |  C |   N |     N |  I |     C |   I |     C |  N |   I |       C |  C |   C |   C |       C |     N |  I |   I |       C | I |   I |     C |  I |     I |   C |   N |   I |     I |    I |   C |   I |        C |  N |   N |      N |  N |     N |
+|         0 |  0 |   0 |     0 |  0 |     3 |   0 |     0 |  0 |   0 |       0 |  0 |   0 |   0 |       0 |     0 |  0 |   0 |       5 | 0 |   0 |     5 |  0 |     0 |   0 |   0 |   0 |     0 |    0 |   5 |   0 |        0 |  0 |   0 |      0 |  0 |     0 |
+
+
+|    CNT005010_Mi | amado |  es | apuesto | y | sonrosado |   se |   distingue | entre | diez | mil |
+| LN_mi:CNT005010 | amado | ser | apuesto | y |  sonrosar |   se |  distinguir | entre | diez | mil |
+|    CNT005010_Mi | amado |  es |   rubio | y |      buen | mozo | dintinguido |       |      | mil |
+| LN_mi:CNT005010 | amado | ser |   rubio | y |     bueno | mozo | dintinguido |       |      | mil |
+|               I |     I |   I |       C | I |         C |    C |           C |     N |    N |   I |
+|               0 |     0 |   0 |       5 | 0 |         0 |    0 |           0 |     0 |    0 |   0 |
+
+
+| CNT005011 | Su | cabeza |      es |   un | lingote | de | oro | puro | sus | cabellos |   son | ramas | de | palmera | negros | como |  un | cuervo |
+| CNT005011 | su | cabeza |     ser |  uno | lingote | de | oro | puro |  su |  cabello |   ser |  rama | de | palmera |  negro | como | uno | cuervo |
+| CNT005011 | Su | cabeza |  brilla | como |      el |    | oro | puro | sus |     como | hojas |       | de |   palma |    son | como |  el | cuervo |
+| CNT005011 | su | cabeza | brillar | como |      el |    | oro | puro |  su |     como |  hoja |       | de |   palma |    ser | como |  el | cuervo |
+|         I |  I |      I |       C |    C |       C |  N |   I |    I |   I |        C |     C |     N |  I |       C |      C |    I |   C |      I |
+|         0 |  0 |      0 |       0 |    0 |       0 |  0 |   0 |    0 |   0 |        0 |     0 |     0 |  0 |       0 |      0 |    0 |   3 |      0 |
+
+
+| CNT005012 | Sus | ojos |  son | dos | palomas | junto | a | una | corriente | de | agua | que | se | bañan | en | leche | y | se |   posan | sobre |  un | estanque |
+| CNT005012 |  su |  ojo |  ser |  do |  paloma | junto | a | uno | corriente | de | agua | que | se | bañar | en | leche | y | se |   posar | sobre | uno | estanque |
+| CNT005012 | Sus | ojos | como |     | palomas | junto |   | una |    fuente | de | agua | que |    | bañan | en | leche |   |    | posadas |     a |  un | estanque |
+| CNT005012 |  su |  ojo | como |     |  paloma | junto |   | uno |    fuente | de | agua | que |    | bañar | en | leche |   |    |   posar |     a | uno | estanque |
+|         I |   I |    I |    C |   N |       I |     I | N |   I |         C |  I |    I |   I |  N |     I |  I |     I | N |  N |       I |     C |   I |        I |
+|         0 |   0 |    0 |    0 |   0 |       0 |     0 | 0 |   0 |         5 |  0 |    0 |   0 |  0 |     0 |  0 |     0 | 0 |  0 |       0 |     4 |   0 |        0 |
+
+
+| CNT005013 | Sus | mejillas |          son | canteros | perfumados | almácigos | de |  hierbas | aromáticas | Sus | labios | son | lirios | que | destilan | mirra | pura |
+| CNT005013 |  su |  mejilla |          ser |  cantero |   perfumar |  almácigo | de |   hierba |  aromático |  su |  labio | ser |  lirio | que | destilar | mirra | puro |
+| CNT005013 | sus | mejillas | plantaciones |       de | balsameras |      como | de | perfumes |            | Sus |        | son | lirios | que | destilan | mirra | pura |
+| CNT005013 |  su |  mejilla |   plantación |       de |  balsamera |      como | de |  perfume |            |  su |        | ser |  lirio | que | destilar | mirra | puro |
+|         I |   I |        I |            C |        C |          C |         C |  I |        C |          N |   I |      N |   I |      I |   I |        I |     I |    I |
+|         0 |   0 |        0 |            0 |        0 |          0 |         0 |  0 |        0 |          0 |   0 |      0 |   0 |      0 |   0 |        0 |     0 |    0 |
+
+
+| CNT005014 | Sus | manos | brazaletes |      | de | oro | adornados | con | piedras | de | Tarsis | Su | vientre |  un | bloque | de | marfil |   todo | incrustado | de | zafiros |
+| CNT005014 |  su |  mano |  brazalete |      | de | oro |   adornar | con |  piedra | de | tarsis | su | vientre | uno | bloque | de | marfil |   todo |  incrustar | de |  zafiro |
+| CNT005014 | Sus | manos |        son | aros | de | oro | adornados |     | piedras | de | Tarsis | Su |         |     |        |    | marfil | pulido |   cubierto | de | zafiros |
+| CNT005014 |  su |  mano |        ser |  aro | de | oro |   adornar |     |  piedra | de | tarsis | su |         |     |        |    | marfil |  pulir |     cubrir | de |  zafiro |
+|         I |   I |     I |          C |    N |  I |   I |         I |   N |       I |  I |      I |  I |       N |   N |      N |  N |      I |      C |          C |  I |       I |
+|         0 |   0 |     0 |          0 |    0 |  0 |   0 |         0 |   0 |       0 |  0 |      0 |  0 |       0 |   0 |      0 |  0 |      0 |      0 |          0 |  0 |       0 |
+
+
+| CNT005015 | Sus | piernas | columnas | de | alabastro | asentadas | sobre | bases | de | oro | puro | Su | aspecto |  es | como | el | Líbano |    esbelto | como | los | cedros |
+| CNT005015 |  su |  pierna |  columna | de | alabastro |   asentar | sobre |  base | de | oro | puro | su | aspecto | ser | como | el | líbano |    esbelto | como |  el |  cedro |
+| CNT005015 | Sus | piernas | columnas | de |    mármol | asentadas | basas |       | de | oro | puro | Su |         |  es | como | el | Líbano | majestuoso |      | los | cedros |
+| CNT005015 |  su |  pierna |  columna | de |    mármol |   asentar |  basa |       | de | oro | puro | su |         | ser | como | el | líbano | majestuoso |      |  el |  cedro |
+|         I |   I |       I |        I |  I |         C |         I |     C |     N |  I |   I |    I |  I |       N |   I |    I |  I |      I |          C |    N |   I |      I |
+|         0 |   0 |       0 |        0 |  0 |         7 |         0 |     0 |     0 |  0 |   0 |    0 |  0 |       0 |   0 |    0 |  0 |      0 |          0 |    0 |   0 |      0 |
+
+
+| CNT005016 | Su | paladar |  rebosa | dulzura |     |       |     |       | y | todo |      en | él |  es | una | delicia |       |           | Así |  es | mi | amado | así |  es | mi | amigo | hijas | de | Jerusalén |
+| CNT005016 | su | paladar | rebosar | dulzura |     |       |     |       | y | todo |      en | él | ser | uno | delicia |       |           | así | ser | mi | amado | así | ser | mi | amigo |  hijo | de | jerusalén |
+| CNT005016 | Su |  hablar |      es |      lo | más | suave | que |   hay | y |   su | persona |    |  es |  un | encanto | Hijas | Jerusalén | así |     | mi | amado | así |     | mi | amigo |       |    |           |
+| CNT005016 | su |  hablar |     ser |      el | más | suave | que | haber | y |   su | persona |    | ser | uno | encanto |  hijo | jerusalén | así |     | mi | amado | así |     | mi | amigo |       |    |           |
+|         I |  I |       C |       C |       C |   N |     N |   N |     N | I |    C |       C |  N |   I |   I |       C |     N |         N |   I |   N |  I |     I |   I |   N |  I |     I |     N |  N |         N |
+|         0 |  0 |       0 |       0 |       0 |   0 |     0 |   0 |     0 | 0 |    0 |       0 |  0 |   0 |   0 |       0 |     0 |         0 |   0 |   0 |  0 |     0 |   0 |   0 |  0 |     0 |     0 |  0 |         0 |
+
+
+| CNT006001 | ¿ | Adónde | se |    ha | ido | tu | amado | tú | la | más | hermosa | de | las | mujeres | ¿ | Adónde | se | dirigió | tu | amado | para | que | lo | busquemos | contigo | La | Amada |
+| CNT006001 | ¿ | adónde | se | haber |  ir | tu | amado | tú | el | más | hermoso | de |  el |   mujer | ¿ | adónde | se | dirigir | tu | amado | para | que | lo |    buscar | contigo | el | amado |
+| CNT006001 | ¿ | Adónde | se |       | fue | tu | amado | oh |    | más |   bella | de | las | mujeres | ¿ | Adónde |    | dirigió | tu | amado | para |     | lo | busquemos | contigo |    |       |
+| CNT006001 | ¿ | adónde | se |       |  ir | tu | amado | oh |    | más |   bello | de |  el |   mujer | ¿ | adónde |    | dirigir | tu | amado | para |     | lo |    buscar | contigo |    |       |
+|         I | I |      I |  I |     N |   I |  I |     I |  C |  N |   I |       C |  I |   I |       I | I |      I |  N |       I |  I |     I |    I |   N |  I |         I |       I |  N |     N |
+|         0 | 0 |      0 |  0 |     0 |   0 |  0 |     0 |  0 |  0 |   0 |       7 |  0 |   0 |       0 | 0 |      0 |  0 |       0 |  0 |     0 |    0 |   0 |  0 |         0 |       0 |  0 |     0 |
+
+
+|    CNT006002_Mi | amado |    ha | bajado | a | su | jardín |     a |      los | canteros | perfumados |      para | apacentar | su | rebaño | en | los | jardines | para |   | recoger | lirios |
+| LN_mi:CNT006002 | amado | haber |  bajar | a | su | jardín |     a |       el |  cantero |   perfumar |      para | apacentar | su | rebaño | en |  el |   jardín | para |   | recoger |  lirio |
+|    CNT006002_Mi | amado |       |   bajó | a | su | huerto | donde | cultivan |   flores |   olorosas |  pastorea |           |    | rebaño | en | los | jardines |    y | a | recoger | lirios |
+| LN_mi:CNT006002 | amado |       |  bajar | a | su | huerto | donde | cultivar |     flor |    oloroso | pastorear |           |    | rebaño | en |  el |   jardín |    y | a | recoger |  lirio |
+|               I |     I |     N |      I | I |  I |      C |     C |        C |        C |          C |         C |         N |  N |      I |  I |   I |        I |    C | N |       I |      I |
+|               0 |     0 |     0 |      0 | 0 |  0 |      0 |     0 |        0 |        0 |          0 |         0 |         0 |  0 |      0 |  0 |   0 |        0 |    0 | 0 |       0 |      0 |
+
+
+| CNT006003 |  ¡ | Mi | amado |  es | para | mí |       | y | yo | soy | para | mi | amado |   que | apacienta | su | rebañoentre | los | lirios | El | encanto | incomparable | de | la | Amada | El | Amado |
+| CNT006003 |  ¡ | mi | amado | ser | para | mí |       | y | yo | ser | para | mi | amado |   que | apacentar | su | rebañoentre |  el |  lirio | el | encanto | incomparable | de | el | amado | el | amado |
+| CNT006003 | Yo |    |       | soy | para | mi | amado | y | él |  es | para | mí |    él | entre |           |    |             | los | lirios |    |         |              |    |    |       |    |       |
+| CNT006003 | yo |    |       | ser | para | mi | amado | y | él | ser | para | mí |    él | entre |           |    |             |  el |  lirio |    |         |              |    |    |       |    |       |
+|         I |  C |  N |     N |   I |    I |  I |     N | I |  C |   I |    I |  I |     C |     C |         N |  N |           N |   I |      I |  N |       N |            N |  N |  N |     N |  N |     N |
+|         0 |  0 |  0 |     0 |   0 |    0 |  0 |     0 | 0 |  5 |   0 |    0 |  0 |     0 |     0 |         0 |  0 |           0 |   0 |      0 |  0 |       0 |            0 |  0 |  0 |     0 |  0 |     0 |
+
+
+| CNT006004 | ¡ | Eres |   bella | amiga | mía | como | Tirsá |     hermosa | como | Jerusalén |           |        |           |
+| CNT006004 | ¡ |  ser |   bello | amigo | mío | como | tirsá |     hermoso | como | jerusalén |           |        |           |
+| CNT006004 |   | Eres | hermosa | amada | mía | como | Tirsá | encantadora |      | Jerusalén | imponente | tropas | ordenadas |
+| CNT006004 |   |  ser | hermoso | amado | mío | como | tirsá |  encantador |      | jerusalén | imponente |  tropa |   ordenar |
+|         I | N |    I |       C |     C |   I |    I |     I |           C |    N |         I |         N |      N |         N |
+|         0 | 0 |    0 |       0 |     0 |   0 |    0 |     0 |           0 |    0 |         0 |         0 |      0 |         0 |
+
+
+| CNT006005 |  Aparta | de | mí | tus | ojos | porque | me | fascinan | Tus | cabellos | son |   un | rebaño | de | cabras | que | bajan | por | las |    laderas | de | Galaad |
+| CNT006005 | apartar | de | mí |  tu |  ojo | porque | me | fascinar |  tu |  cabello | ser |  uno | rebaño | de |  cabra | que | bajar | por |  el |     ladera | de | galaad |
+| CNT006005 |  Aparta | de | mí | tus | ojos | porque | me | cautivan | Tus |          | son | como | rebaño | de | cabras | que |       | por | las | pendientes | de | Galaad |
+| CNT006005 | apartar | de | mí |  tu |  ojo | porque | me | cautivar |  tu |          | ser | como | rebaño | de |  cabra | que |       | por |  el |  pendiente | de | galaad |
+|         I |       I |  I |  I |   I |    I |      I |  I |        C |   I |        N |   I |    C |      I |  I |      I |   I |     N |   I |   I |          C |  I |      I |
+|         0 |       0 |  0 |  0 |   0 |    0 |      0 |  0 |       10 |   0 |        0 |   0 |    6 |      0 |  0 |      0 |   0 |     0 |   0 |   0 |          5 |  0 |      0 |
+
+
+| CNT006006 | Tus | dientes |     | como |  un | rebaño | de | ovejas | que | acaban | de | bañar | se | todas |  ellas |   han | tenido |    | mellizos | y | no |   hay | ninguna | estéril |
+| CNT006006 |  tu |  diente |     | como | uno | rebaño | de |  oveja | que | acabar | de | bañar | se |  todo |  ellos | haber |  tener |    |  mellizo | y | no | haber | ninguno | estéril |
+| CNT006006 | Tus | dientes | son | como |     | rebaño | de | ovejas | que |        | de | bañar | se |  cada |  lleva |    un |    par | de | mellizas | y | va |  sola |         |         |
+| CNT006006 |  tu |  diente | ser | como |     | rebaño | de |  oveja | que |        | de | bañar | se |  cada | llevar |   uno |    par | de |  mellizo | y | ir |  solo |         |         |
+|         I |   I |       I |   N |    I |   N |      I |  I |      I |   I |      N |  I |     I |  I |     C |      C |     C |      C |  N |        I | I |  C |     C |       N |       N |
+|         0 |   0 |       0 |   0 |    0 |   0 |      0 |  0 |      0 |   0 |      0 |  0 |     0 |  0 |     0 |      0 |     0 |      0 |  0 |        0 | 0 |  0 |     0 |       0 |       0 |
+
+
+| CNT006007 | Como |   cortes |   de | granada |     son | tus | mejillas | detrás | de | tu | velo |
+| CNT006007 | como |    corte |   de | granada |     ser |  tu |  mejilla | detrás | de | tu | velo |
+| CNT006007 |  Tus | mejillas | como | granada | partida |  en |      dos | detrás |    | tu | velo |
+| CNT006007 |   tu |  mejilla | como |  granar | partida |  en |       do | detrás |    | tu | velo |
+|         I |    C |        C |    C |       I |       C |   C |        C |      I |  N |  I |    I |
+|         0 |    0 |        0 |    0 |       0 |       0 |   0 |        0 |      0 |  0 |  0 |    0 |
+
+
+| CNT006008 |     |        | Son | sesenta | las | reinas | ochenta | las | concubinas | e | innumerables | las |      jóvenes |
+| CNT006008 |     |        | ser | sesenta |  el |  reina | ochenta |  el |  concubina | y |  innumerable |  el |        joven |
+| CNT006008 | Las | reinas | son | sesenta |     |        | ochenta |     | concubinas | y |      jóvenes | son | innumerables |
+| CNT006008 |  el |  reina | ser | sesenta |     |        | ochenta |     |  concubina | y |        joven | ser |  innumerable |
+|         I |   N |      N |   I |       I |   N |      N |       I |   N |          I | I |            C |   C |            C |
+|         0 |   0 |      0 |   0 |       0 |   0 |      0 |       0 |   0 |          0 | 0 |            0 |   0 |            1 |
+
+
+| CNT006009 | Pero | una | sola |  es | mi | paloma | mi | preciosa |          | Ella |  es | la |      | única | de | su | madre | la | preferida | de | la | que | la |  engendró | a |  el | ver | la |     | la | felicitan | las | jóvenes | las | reinas | y | concubinas | la | elogian |
+| CNT006009 | pero | uno | solo | ser | mi | paloma | mi | precioso |          |   él | ser | el |      | único | de | su | madre | el |  preferir | de | el | que | lo | engendrar | a |  el | ver | lo |     | lo | felicitar |  el |   joven |  el |  reina | y |  concubina | lo | elogiar |
+| CNT006009 | pero | una | sola |  es | mi | paloma | mi |     toda | perfecta | Ella |     | la | hija | única | de | su | madre | la |           | de | la | que | la |  engendró |   | Las | que | la | ven | la | felicitan |     |         |     | reinas |   | concubinas | la |  alaban |
+| CNT006009 | pero | uno | solo | ser | mi | paloma | mi |     todo | perfecto |   él |     | el | hijo | único | de | su | madre | el |           | de | el | que | lo | engendrar |   |  el | que | lo | ver | el | felicitar |     |         |     |  reina |   |  concubina | lo |  alabar |
+|         I |    I |   I |    I |   I |  I |      I |  I |        C |        N |    I |   N |  I |    N |     I |  I |  I |     I |  I |         N |  I |  I |   I |  I |         I | N |   I |   C |  I |   N |  I |         I |   N |       N |   N |      I | N |          I |  I |       C |
+|         0 |    0 |   0 |    0 |   0 |  0 |      0 |  0 |        0 |        0 |    0 |   0 |  0 |    0 |     0 |  0 |  0 |     0 |  0 |         0 |  0 |  0 |   0 |  0 |         0 | 0 |   0 |   3 |  0 |   0 |  0 |         0 |   0 |       0 |   0 |      0 | 0 |          0 |  0 |       3 |
+
+
+| CNT006010 | ¿ | Quién |  es |  esa | que |  surge | como | la | aurora | bella | como | la | luna | resplandeciente | como | el | sol | imponente | como | escuadrones | con | sus | insignias | Encuentro | sorpresivo | con | el | Amado | La | Amada |
+| CNT006010 | ¿ | quién | ser |  ese | que | surgir | como | el | aurora | bello | como | el | luna | resplandeciente | como | el | sol | imponente | como |   escuadrón | con |  su |  insignia | encuentro | sorpresivo | con | el | amado | el | amado |
+| CNT006010 | ¿ | Quién |  es | ésta | que |  surge | como | la | aurora | bella |      | la | luna |       brillante |      | el | sol |   temible |   un |    ejército |     |     |           |           |            |     |    |       |    |       |
+| CNT006010 | ¿ | quién | ser | este | que | surgir | como | el | aurora | bello |      | el | luna |       brillante |      | el | sol |   temible |  uno |    ejército |     |     |           |           |            |     |    |       |    |       |
+|         I | I |     I |   I |    C |   I |      I |    I |  I |      I |     I |    N |  I |    I |               C |    N |  I |   I |         C |    C |           C |   N |   N |         N |         N |          N |   N |  N |     N |  N |     N |
+|         0 | 0 |     0 |   0 |   11 |   0 |      0 |    0 |  0 |      0 |     0 |    0 |  0 |    0 |               0 |    0 |  0 |   0 |         0 |    0 |           0 |   0 |   0 |         0 |         0 |          0 |   0 |  0 |     0 |  0 |     0 |
+
+
+| CNT006011 |    Yo |   bajé | a |  el | jardín | de | los | nogales |    a | ver | los | retoños | de | el | valle |   a | ver | si | brotaba | la | viña |     si | florecían |   | los | granados | ... |
+| CNT006011 |    yo |  bajar | a |  el | jardín | de |  el |   nogal |    a | ver |  el |  retoño | de | el | valle |   a | ver | si |  brotar | el | viña |     si |  florecer |   |  el |  granado | ... |
+| CNT006011 | Había | bajado | a | los |        |    |     | nogales | para |     | las |  flores | de | el | valle | por |     | si |         | la | viña | estaba |  brotando | y | los | granados |     |
+| CNT006011 | haber |  bajar | a |  el |        |    |     |   nogal | para |     |  el |    flor | de | el | valle | por |     | si |         | el | viña |  estar |    brotar | y |  el |  granado |     |
+|         I |     C |      I | I |   I |      N |  N |   N |       I |    C |   N |   I |       C |  I |  I |     I |   C |   N |  I |       N |  I |    I |      C |         C | N |   I |        I |   N |
+|         0 |     5 |      0 | 0 |   0 |      0 |  0 |   0 |       0 |    0 |   0 |   0 |       5 |  0 |  0 |     0 |   0 |   0 |  0 |       0 |  0 |    0 |      0 |         0 | 0 |   0 |        0 |   0 |
+
+
+| CNT006012 |  Y |   sin |  que | yo |       | me | diera | cuenta |       me |  encontré |     en | la | carroza | con | mi | príncipe |    Los | atractivos | físicos |   de |         la | Amada |
+| CNT006012 |  y |   sin |  que | yo |       | me |   dar | cuenta |       me | encontrar |     en | el | carroza | con | mi | príncipe |     el |  atractivo |  físico |   de |         el | amado |
+| CNT006012 | No |    sé | cómo | mi | deseo | me | subir |   como | príncipe |     sobre | carros | de |  guerra |  de | mi |   pueblo | Vuelve |     vuelve |  vuelve | para | contemplar |    te |
+| CNT006012 | no | saber | cómo | mi | deseo | me | subir |   como | príncipe |     sobre |  carro | de |  guerra |  de | mi |   pueblo | volver |     volver |  volver | para | contemplar |    te |
+|         I |  C |     C |    C |  C |     N |  I |     C |      C |        C |         C |      C |  C |       C |   C |  I |        C |      C |          C |       C |    C |          C |     C |
+|         0 |  0 |     0 |    0 |  0 |     0 |  0 |     0 |      0 |        0 |         0 |      0 |  0 |       0 |   0 |  0 |        0 |      0 |          0 |       0 |    0 |          0 |     1 |
+
+
+| CNT007001 | ¡ | Vuelve | vuelve | Sulamita | vuelve | vuelve | para | que | te | veamos | El | Amado | ¿ | Por | qué | miran | a | la | Sulamita | bailando | entre |       |   | dos | coros |
+| CNT007001 | ¡ | volver | volver | sulamita | volver | volver | para | que | te |    ver | el | amado | ¿ | por | qué | mirar | a | el | sulamita |   bailar | entre |       |   |  do |  coro |
+| CNT007001 |   |        |        |          |        |        |      |     |    |        |    |       | ¿ | Por | qué | miran | a | la | Sulamita |     como |   una | danza | a | dos | coros |
+| CNT007001 |   |        |        |          |        |        |      |     |    |        |    |       | ¿ | por | qué | mirar | a | el | sulamita |     como |   uno | danza | a |  do |  coro |
+|         I | N |      N |      N |        N |      N |      N |    N |   N |  N |      N |  N |     N | I |   I |   I |     I | I |  I |        I |        C |     C |     N | N |   I |     I |
+|         0 | 0 |      0 |      0 |        0 |      0 |      0 |    0 |   0 |  0 |      0 |  0 |     0 | 0 |   0 |   0 |     0 | 0 |  0 |        0 |        0 |     0 |     0 | 0 |   0 |     0 |
+
+
+| CNT007002 |    ¡ |    |           | Qué | bellos | son | tus | pies |  en | las | sandalias | hija | de | príncipe | Las | curvas | de | tus | caderas |      son | como | collares | obra | de | las | manos | de |       un | orfebre |
+| CNT007002 |    ¡ |    |           | qué |  bello | ser |  tu |  pie |  en |  el |  sandalia | hijo | de | príncipe |  el |  curva | de |  tu |  cadera |      ser | como |   collar | obra | de |  el |  mano | de |      uno | orfebre |
+| CNT007002 | Hija | de | príncipes | qué |        | son | tus | pies | con | sus | sandalias |      |    |          |     |        |    | Tus |      se | incurvan | como |   hechos |  por |    |     | manos | de | artistas |         |
+| CNT007002 | hijo | de |  príncipe | qué |        | ser |  tu |  pie | con |  su |  sandalia |      |    |          |     |        |    |  tu |      se | incurvar | como |    hecho |  por |    |     |  mano | de |  artista |         |
+|         I |    C |  N |         N |   I |      N |   I |   I |    I |   C |   C |         I |    N |  N |        N |   N |      N |  N |   I |       C |        C |    I |        C |    C |  N |   N |     I |  I |        C |       N |
+|         0 |    0 |  0 |         0 |   0 |      0 |   0 |   0 |    0 |   0 |   0 |         0 |    0 |  0 |        0 |   0 |      0 |  0 |   0 |       0 |        0 |    0 |        0 |    0 |  0 |   0 |     0 |  0 |        0 |       0 |
+
+
+| CNT007003 | Tu | ombligo |  es |  un | cántaro | donde | no |  falta | el | vino | aromático |          | Tu | vientre |      |  un |  haz | de | trigo | bordeado | de | lirios |
+| CNT007003 | tu | ombligo | ser | uno | cántaro | donde | no | faltar | el | vino | aromático |          | tu | vientre |      | uno |  haz | de | trigo |  bordear | de |  lirio |
+| CNT007003 | Tu | ombligo |  es |  un | cántaro | donde |    |  falta | el | vino |       con | especias | Tu |      es | como | una | pila | de | trigo |          |    |        |
+| CNT007003 | tu | ombligo | ser | uno | cántaro | donde |    | faltar | el | vino |       con |  especia | tu |     ser | como | uno | pila | de | trigo |          |    |        |
+|         I |  I |       I |   I |   I |       I |     I |  N |      I |  I |    I |         C |        N |  I |       C |    N |   I |    C |  I |     I |        N |  N |      N |
+|         0 |  0 |       0 |   0 |   0 |       0 |     0 |  0 |      0 |  0 |    0 |         0 |        0 |  0 |       0 |    0 |   0 |    4 |  0 |     0 |        0 |  0 |      0 |
+
+
+| CNT007004 | Tus |     | pechos | son | como |   dos |  ciervos | jóvenes | mellizos |    |      |       | de |    una | gacela |
+| CNT007004 |  tu |     |  pecho | ser | como |    do |   ciervo |   joven |  mellizo |    |      |       | de |    uno | gacela |
+| CNT007004 | Tus | dos | pechos | son | como | crías | mellizas |      de |   gacela | Tu | como | torre | de | marfil |        |
+| CNT007004 |  tu |  do |  pecho | ser | como |  cría |  mellizo |      de |   gacela | tu | como | torre | de | marfil |        |
+|         I |   I |   N |      I |   I |    I |     C |        C |       C |        C |  N |    N |     N |  I |      C |      N |
+|         0 |   0 |   0 |      0 |   0 |    0 |     0 |        0 |       0 |        0 |  0 |    0 |     0 |  0 |      0 |      0 |
+
+
+| CNT007005 |  Tu | cuello |  es |     como | una | torre | de | marfil | Tus | ojos | como | las | piscinasde | Jesbón |  junto | a | la | puerta | Mayor |           | Tu | nariz |  es | como | la |  Torre | de | el | Líbano | centinela | que |  mira | hacia | Damasco |
+| CNT007005 |  tu | cuello | ser |     como | uno | torre | de | marfil |  tu |  ojo | como |  el | piscinasde | jesbón |  junto | a | el | puerta | mayor |           | tu | nariz | ser | como | el |  torre | de | el | líbano | centinela | que | mirar | hacia | damasco |
+| CNT007005 | Tus |   ojos | las | piscinas |     |       | de |        |     |      |      |     |            | Jesbón |  junto |   | la | puerta |    de | Bat-Rabím | Tu |       |  es | como | la | cumbre | de | el | Líbano | centinela |     |  mira | hacia | Damasco |
+| CNT007005 |  tu |    ojo |  el |  piscina |     |       | de |        |     |      |      |     |            | jesbón | juntar |   | el | puerta |    de | bat-rabím | tu |       | ser | como | el | cumbre | de | el | líbano | centinela |     | mirar | hacia | damasco |
+|         I |   I |      C |   C |        C |   N |     N |  I |      N |   N |    N |    N |   N |          N |      I |      I | N |  I |      I |     C |         N |  I |     N |   I |    I |  I |      C |  I |  I |      I |         I |   N |     I |     I |       I |
+|         0 |   0 |      0 |   0 |        0 |   0 |     0 |  0 |      0 |   0 |    0 |    0 |   0 |          0 |      0 |      0 | 0 |  0 |      0 |     0 |         0 |  0 |     0 |   0 |    0 |  0 |      8 |  0 |  0 |      0 |         0 |   0 |     0 |     0 |       0 |
+
+
+| CNT007006 | Tu | cabeza |  se | yergue | como | el | Carmelo | tu | cabellera |  es | como | la | púrpura | ¡ |  un | rey |   está | prendado | de | esas | trenzas |
+| CNT007006 | tu | cabeza |  se | erguir | como | el | carmelo | tu | cabellera | ser | como | el | púrpura | ¡ | uno | rey |  estar |  prendar | de |  ese |  trenza |
+| CNT007006 | Tu | cabeza |  es |        | como | el | Carmelo |  y | cabellera |     | como | la | púrpura |   |  un |  se |  halla |    preso | en |  sus | trenzas |
+| CNT007006 | tu | cabeza | ser |        | como | el | carmelo |  y | cabellera |     | como | el | púrpura |   | uno |  se | hallar |    preso | en |   su |  trenza |
+|         I |  I |      I |   C |      N |    I |  I |       I |  C |         I |   N |    I |  I |       I | N |   I |   C |      C |        C |  C |    C |       I |
+|         0 |  0 |      0 |   0 |      0 |    0 |  0 |       0 |  5 |         0 |   0 |    0 |  0 |       0 | 0 |   0 |   0 |      0 |        0 |  0 |    0 |       0 |
+
+
+| CNT007007 | ¡ | Qué | hermosa | eres | qué | encantadora | mi | amor |   y | mi |  delicia |
+| CNT007007 | ¡ | qué | hermoso |  ser | qué |  encantador | mi | amor |   y | mi |  delicia |
+| CNT007007 | ¡ | Qué |   bella | eres | qué | encantadora | oh |   en | tus |    | delicias |
+| CNT007007 | ¡ | qué |   bello |  ser | qué |  encantador | oh |   en |  tu |    |  delicia |
+|         I | I |   I |       C |    I |   I |           I |  C |    C |   C |  N |        I |
+|         0 | 0 |   0 |       7 |    0 |   0 |           0 |  0 |    0 |   0 |  0 |        0 |
+
+
+| CNT007008 | Tu | talle | se |  parece | a | la | palmera | tus | pechos | a | sus | racimos |
+| CNT007008 | tu | talle | se | parecer | a | el | palmera |  tu |  pecho | a |  su |  racimo |
+| CNT007008 | Tu | talle | se |  parece | a | la | palmera | tus |        | a | los | racimos |
+| CNT007008 | tu | talle | se | parecer | a | el | palmera |  tu |        | a |  el |  racimo |
+|         I |  I |     I |  I |       I | I |  I |       I |   I |      N | I |   C |       I |
+|         0 |  0 |     0 |  0 |       0 | 0 |  0 |       0 |   0 |      0 | 0 |   3 |       0 |
+
+
+| CNT007009 | Yo |  dije | Subiré | a | la | palmera | y | recogeré | sus | frutos | ¡ |  Que | tus | pechos | sean | como | racimos | de |  uva | tu | aliento | como |   aroma | de | manzanas |
+| CNT007009 | yo | decir |  subir | a | el | palmera | y |  recoger |  su |  fruto | ¡ |  que |  tu |  pecho |  ser | como |  racimo | de |  uva | tu | aliento | como |   aroma | de |  manzana |
+| CNT007009 | Me |  dije | subiré | a | la | palmera | a |          |     | frutos | ¡ | Sean |     | pechos |      | como | racimos | de | uvas |  y | aliento | como | perfume | de | manzanas |
+| CNT007009 | me | decir |  subir | a | el | palmera | a |          |     |  fruto | ¡ |  ser |     |  pecho |      | como |  racimo | de |  uva |  y | aliento | como | perfume | de |  manzana |
+|         I |  C |     I |      I | I |  I |       I | C |        N |   N |      I | I |    C |   N |      I |    N |    I |       I |  I |    I |  C |       I |    I |       C |  I |        I |
+|         0 |  7 |     0 |      0 | 0 |  0 |       0 | 0 |        0 |   0 |      0 | 0 |    0 |   0 |      0 |    0 |    0 |       0 |  0 |    0 |  7 |       0 |    0 |       5 |  0 |        0 |
+
+
+| CNT007010 | y |  tu |  paladar |      | como |  un | vino | delicioso | que |   corre | suavemente | hacia | el | amado | fluyendo | entre | los | labios |      y | los | dientes | El | amor | plenamente | compartido | La | Amada |
+| CNT007010 | y |  tu |  paladar |      | como | uno | vino | delicioso | que |  correr | suavemente | hacia | el | amado |    fluir | entre |  el |  labio |      y |  el |  diente | el | amor | plenamente |  compartir | el | amado |
+| CNT007010 |   | Tus | palabras | sean | como |     | vino |  generoso | que | derecho |            | hacia | el | amado | fluyendo |   tus |     | labios | cuando |  te | duermes |    |      |            |            |    |       |
+| CNT007010 |   |  tu |  palabra |  ser | como |     | vino |  generoso | que | derecho |            | hacia | el | amado |    fluir |    tu |     |  labio | cuando |  te |  dormir |    |      |            |            |    |       |
+|         I | N |   I |        C |    N |    I |   N |    I |         C |   I |       C |          N |     I |  I |     I |        I |     C |   N |      I |      C |   C |       C |  N |    N |          N |          N |  N |     N |
+|         0 | 0 |   0 |        0 |    0 |    0 |   0 |    0 |         3 |   0 |       0 |          0 |     0 |  0 |     0 |        0 |     0 |   0 |      0 |      0 |   0 |       0 |  0 |    0 |          0 |          0 |  0 |     0 |
+
+
+| CNT007011 | Yo | soy | para | mi | amado | y |    él |     se | siente | atraído | hacia | mí | Invitación | a | el | encuentro | amoroso |
+| CNT007011 | yo | ser | para | mi | amado | y |    él |     se | sentir |  atraer | hacia | mí | invitación | a | el | encuentro | amoroso |
+| CNT007011 | Yo | soy | para | mi | amado | y | deseo | tiende |        |         | hacia | mí |            |   |    |           |         |
+| CNT007011 | yo | ser | para | mi | amado | y | deseo | tender |        |         | hacia | mí |            |   |    |           |         |
+|         I |  I |   I |    I |  I |     I | I |     C |      C |      N |       N |     I |  I |          N | N |  N |         N |       N |
+|         0 |  0 |   0 |    0 |  0 |     0 | 0 |     0 |      0 |      0 |       0 |     0 |  0 |          0 | 0 |  0 |         0 |       0 |
+
+
+| CNT007012 | ¡ |   Ven | amado | mío |     | salgamos | a | el | campo | Pasaremos | la | noche | en | los | poblados |
+| CNT007012 | ¡ | venir | amado | mío |     |   salgar | a | el | campo |     pasar | el | noche | en |  el |  poblado |
+| CNT007012 |   |       | Amado | mío | ven | salgamos | a | el | campo | pasaremos |    | noche | en | los |  pueblos |
+| CNT007012 |   |       | amado | mío | ver |   salgar | a | el | campo |     pasar |    | noche | en |  el |   pueblo |
+|         I | N |     N |     I |   I |   N |        I | I |  I |     I |         I |  N |     I |  I |   I |        C |
+|         0 | 0 |     0 |     0 |   0 |   0 |        0 | 0 |  0 |     0 |         0 |  0 |     0 |  0 |   0 |        4 |
+
+
+| CNT007013 | de | madrugada | iremos | a | las | viñas | veremos |  si | brotan |   las |   cepas | si | se | abren | las | flores | si | florecen | las | granadas | ... | Allí | te | entregaré |      | mi | amor |
+| CNT007013 | de | madrugada |     ir | a |  el |  viña |     ver |  si | brotar |    el |    cepa | si | se | abrir |  el |   flor | si | florecer |  el |  granada | ... | allí | te |  entregar |      | mi | amor |
+| CNT007013 | de |    mañana | iremos | a | las | viñas | veremos | las | parras |   han | brotado | si |    | abren | las | flores |  y | florecen | los | granados |     | Allí |    | entregaré | todo | mi | amor |
+| CNT007013 | de |    mañana |     ir | a |  el |  viña |     ver |  el |  parra | haber |  brotar | si |    | abrir |  el |   flor |  y | florecer |  el |  granado |     | allí |    |  entregar | todo | mi | amor |
+|         I |  I |         C |      I | I |   I |     I |       I |   C |      C |     C |       C |  I |  N |     I |   I |      I |  C |        I |   I |        C |   N |    I |  N |         I |    N |  I |    I |
+|         0 |  0 |         8 |      0 | 0 |   0 |     0 |       0 |   0 |      0 |     0 |       0 |  0 |  0 |     0 |   0 |      0 |  6 |        0 |   0 |        0 |   0 |    0 |  0 |         0 |    0 |  0 |    0 |
+
+
+| CNT007014 | Las | mandrágoras | exhalan | su |   perfume |   los |  mejores |  frutos | están |      a |    nuestro | alcance |    los | nuevos |    y | los | añejos | amado |  mío | los |    he | guardado | para | ti |
+| CNT007014 |  el |  mandrágora | exhalar | su |   perfume |    el |    mejor |   fruto | estar |      a |    nuestro | alcance |     el |  nuevo |    y |  el |  añejo |  amar | miar |  lo | haber |  guardar | para | ti |
+| CNT007014 | Las | mandrágoras | exhalan | su | fragancia |  Mira | nuestras | puertas |  esos | frutos | exquisitos |  nuevos | añejos |    que | para |  ti |        | amado |  mío |     |       |          |      |    |
+| CNT007014 |  el |  mandrágora | exhalar | su | fragancia | mirar |  nuestro |  puerta |   ese |  fruto |  exquisito |   nuevo |  añejo |    que | para |  ti |        | amado |  mío |     |       |          |      |    |
+|         I |   I |           I |       I |  I |         C |     C |        C |       C |     C |      C |          C |       C |      C |      C |    C |   C |      N |     I |    I |   N |     N |        N |    N |  N |
+|         0 |   0 |           0 |       0 |  0 |         0 |     0 |        0 |       0 |     0 |      0 |          0 |       0 |      0 |      0 |    0 |   0 |      0 |     0 |    0 |   0 |     0 |        0 |    0 |  0 |
+
+
+| CNT008001 | ¡ | Ah | si | tú | fueras | mi | hermano | criado |         en | los | pechos | de | mi | madre |    |       | A | el | encontrar | te |    por | la | calle | podría | besar | te | sin | que | la | gente | me |  despreciara |
+| CNT008001 | ¡ | ah | si | tú |     ir | mi | hermano |  criar |         en |  el |  pecho | de | mi | madre |    |       | a | el | encontrar | te |    por | el | calle |  poder | besar | te | sin | que | el | gente | me |   despreciar |
+| CNT008001 | ¡ | Ah | si | tú | fueras |    | hermano |    mío | alimentado |  el |  pecho | de | mi | madre | Te | besar | a | el | encontrar | te | afuera |    |       |        |       |    | sin |     |    |       | me | despreciaran |
+| CNT008001 | ¡ | ah | si | tú |     ir |    | hermano |    mío |  alimentar |  el |  pecho | de | mi | madre | te | besar | a | el | encontrar | te | afuera |    |       |        |       |    | sin |     |    |       | me |   despreciar |
+|         I | I |  I |  I |  I |      I |  N |       I |      C |          C |   I |      I |  I |  I |     I |  N |     N | I |  I |         I |  I |      C |  N |     N |      N |     N |  N |   I |   N |  N |     N |  I |            I |
+|         0 | 0 |  0 |  0 |  0 |      0 |  0 |       0 |      0 |          0 |   0 |      0 |  0 |  0 |     0 |  0 |     0 | 0 |  0 |         0 |  0 |      0 |  0 |     0 |      0 |     0 |  0 |   0 |   0 |  0 |     0 |  0 |            0 |
+
+
+| CNT008002 | Yo | te | llevaría | a | la |              |    | casa | de | mi | madre | te | haría | entrar | en | ella | y | tú | me | enseñarías | ... | Te | daría | de | beber | vino | aromatizado | y |    el |  jugo | de | mis | granadas | La | apacible | uniónde | los | enamorados |
+| CNT008002 | yo | te |   llevar | a | el |              |    | casa | de | mi | madre | te | hacer | entrar | en |   él | y | tú | me |    enseñar | ... | te |   dar | de | beber | vino |  aromatizar | y |    el |  jugo | de |  mi |  granada | el | apacible | uniónde |  el |  enamorado |
+| CNT008002 |    | Te | llevaría | y | te | introduciría | en | casa | de | mi | madre |  ¡ |       |        |    |      | y |    | me | enseñarías |     | Te |     a |    | beber | vino |    fragante | y | licor | hecho | de |     |  granada |    |          |         |     |            |
+| CNT008002 |    | te |   llevar | y | te |   introducir | en | casa | de | mi | madre |  ¡ |       |        |    |      | y |    | me |    enseñar |     | te |     a |    | beber | vino |    fragante | y | licor | hacer | de |     |  granada |    |          |         |     |            |
+|         I |  N |  I |        I | C |  C |            N |  N |    I |  I |  I |     I |  C |     N |      N |  N |    N | I |  N |  I |          I |   N |  I |     C |  N |     I |    I |           C | I |     C |     C |  I |   N |        I |  N |        N |       N |   N |          N |
+|         0 |  0 |  0 |        0 | 0 |  0 |            0 |  0 |    0 |  0 |  0 |     0 |  0 |     0 |      0 |  0 |    0 | 0 |  0 |  0 |          0 |   0 |  0 |     0 |  0 |     0 |    0 |           4 | 0 |     0 |     0 |  0 |   0 |        0 |  0 |        0 |       0 |   0 |          0 |
+
+
+| CNT008003 | Su | izquierda | sostiene | mi | cabeza | y | con | su | derecha | me |  abraza | El | Amado |
+| CNT008003 | su | izquierda | sostener | mi | cabeza | y | con | su | derecha | me | abrazar | el | amado |
+| CNT008003 | Su | izquierda |     bajo | mi | cabeza | y |     |    | derecha | me |  abraza |    |       |
+| CNT008003 | su | izquierda |     bajo | mi | cabeza | y |     |    | derecha | me | abrazar |    |       |
+|         I |  I |         I |        C |  I |      I | I |   N |  N |       I |  I |       I |  N |     N |
+|         0 |  0 |         0 |        7 |  0 |      0 | 0 |   0 |  0 |       0 |  0 |       0 |  0 |     0 |
+
+
+| CNT008004 | Júrenme | hijas | de | Jerusalén |     |       | que | no | despertarán | ni | desvelarán | a | mi | amor | hasta | que | ella | quiera | La | fuerza | irresistible | de | el | amor | Coro |
+| CNT008004 | júrenme |  hijo | de | jerusalén |     |       | que | no |   despertar | ni |   desvelar | a | mi | amor | hasta | que |   él | querer | el | fuerza | irresistible | de | el | amor | coro |
+| CNT008004 |         | Hijas | de | Jerusalén | les | ruego | que |    |  despierten | ni |   molesten | a | el | Amor | hasta |     | ella | quiera |    |        |              |    |    |      |      |
+| CNT008004 |         |  hijo | de | jerusalén |  le | rogar | que |    |   despertar | ni |   molestar | a | el | amor | hasta |     |   él | querer |    |        |              |    |    |      |      |
+|         I |       N |     I |  I |         I |   N |     N |   I |  N |           I |  I |          C | I |  C |    I |     I |   N |    I |      I |  N |      N |            N |  N |  N |    N |    N |
+|         0 |       0 |     0 |  0 |         0 |   0 |     0 |   0 |  0 |           0 |  0 |          4 | 0 |  4 |    0 |     0 |   0 |    0 |      0 |  0 |      0 |            0 |  0 |  0 |    0 |    0 |
+
+
+| CNT008005 | ¿ | Quién |  es | esa | que |  sube | de | el | desierto | reclinada | sobre | su | amado |     El |   Amado | Te |  desperté | debajo | de | el | manzano | allí | donde | tu | madre | te |      dio |  a |   luz | donde |       te | dio | a | luz | la | que |  te |  engendró |  La | Amada |
+| CNT008005 | ¿ | quién | ser | ese | que | subir | de | el | desierto |  reclinar | sobre | su | amado |     el |   amado | te | despertar | debajo | de | el | manzano | allí | donde | tu | madre | te |      dar |  a |   luz | donde |       te | dar | a | luz | el | que |  te | engendrar |  el | amado |
+| CNT008005 | ¿ | Quién |  es | ésa | que |  sube | de | el | desierto |   apoyada |       | su | amado | Debajo | manzano | te |  desperté |        |    |    |         | allí | donde |    |       | te | concibió | tu | madre | donde | concibió |     |   |     | la | que | dio |         a | luz |       |
+| CNT008005 | ¿ | quién | ser | ese | que | subir | de | el | desierto |    apoyar |       | su | amado | debajo | manzano | te | despertar |        |    |    |         | allí | donde |    |       | te | concebir | tu | madre | donde | concebir |     |   |     | el | que | dar |         a | luz |       |
+|         I | I |     I |   I |   I |   I |     I |  I |  I |        I |         C |     N |  I |     I |      C |       C |  I |         I |      N |  N |  N |       N |    I |     I |  N |     N |  I |        C |  C |     C |     I |        C |   N | N |   N |  I |   I |   C |         C |   C |     N |
+|         0 | 0 |     0 |   0 |   0 |   0 |     0 |  0 |  0 |        0 |         0 |     0 |  0 |     0 |      0 |       0 |  0 |         0 |      0 |  0 |  0 |       0 |    0 |     0 |  0 |     0 |  0 |        0 |  0 |     0 |     0 |        0 |   0 | 0 |   0 |  0 |   0 |   0 |         0 |   0 |     0 |
+
+
+| CNT008006 |  Grábame | como |  un | sello | sobre | tu | corazón | como |  un | sello | sobre |      |         |   | tu |  brazo | porque |        | el | Amor |  es | fuerte | como | la | Muerte | inflexibles |   como |    el | Abismo | son | los |    celos | Sus | flechas | son | flechas | de | fuego |  sus | llamas | llamas | de | el | Señor |
+| CNT008006 |  grábame | como | uno | sello | sobre | tu | corazón | como | uno | sello | sobre |      |         |   | tu |  brazo | porque |        | el | amor | ser | fuerte | como | el | muerte |  inflexible |   como |    el | abismo | ser |  el |     celo |  su |  flecha | ser |  flecha | de | fuego |   su |  llama |  llama | de | el | señor |
+| CNT008006 | Guárdame |   en |     |       |       | tu | corazón | como |     | sello |     o | joya | siempre | a | tu | muñeca | porque | fuerte | el | amor |     |        | como | la | muerte |           y | pasión | tenaz |   como |     |  el | infierno | sus |         | son |  dardos | de | fuego | como | divina |        |    |    |       |
+| CNT008006 | guárdame |   en |     |       |       | tu | corazón | como |     | sello |     o | joya | siempre | a | tu | muñeca | porque | fuerte | el | amor |     |        | como | el | muerte |           y | pasión | tenaz |   como |     |  el | infierno |  su |         | ser |   dardo | de | fuego | como | divino |        |    |    |       |
+|         I |        C |    C |   N |     N |     N |  I |       I |    I |   N |     I |     C |    N |       N | N |  I |      C |      I |      N |  I |    I |   N |      N |    I |  I |      I |           C |      C |     C |      C |   N |   I |        C |   I |       N |   I |       C |  I |     I |    C |      C |      N |  N |  N |     N |
+|         0 |        0 |    0 |   0 |     0 |     0 |  0 |       0 |    0 |   0 |     0 |     0 |    0 |       0 | 0 |  0 |      3 |      0 |      0 |  0 |    0 |   0 |      0 |    0 |  0 |      0 |           0 |      0 |     0 |      0 |   0 |   0 |        3 |   0 |       0 |   0 |       4 |  0 |     0 |    0 |      0 |      0 |  0 |  0 |     0 |
+
+
+| CNT008007 | Las | aguas | torrenciales | no | pueden |   apagar | el | amor | ni |      los |    ríos | anegar |   lo | Si | alguien | ofreciera |    toda |  su | fortuna | a | cambio | de | el | amor |    tan | sólo | conseguiría | desprecio | Apéndices | El | porvenir | de | la | hermana | menor | Los | hermanos |
+| CNT008007 |  el |  agua |   torrencial | no |  poder |   apagar | el | amor | ni |       el |     río | anegar |   lo | si | alguien |   ofrecer |    todo |  su | fortuna | a | cambio | de | el | amor |    tan | sólo |   conseguir | desprecio |  apéndice | el | porvenir | de | el | hermano | menor |  el |  hermano |
+| CNT008007 |     |       |              | No |        | apagarán | el | amor | ni | ahogarán | océanos |     ni | ríos | Si |      lo |  quisiera | comprar | con |         |   |        |    | lo |  que |  posee | sólo |             | desprecio |           |    |          |    |    |         |       |     |          |
+| CNT008007 |     |       |              | no |        |   apagar | el | amor | ni |   ahogar |  océano |     ni |  río | si |      lo |    querer | comprar | con |         |   |        |    | el |  que | poseer | sólo |             | desprecio |           |    |          |    |    |         |       |     |          |
+|         I |   N |     N |            N |  I |      N |        I |  I |    I |  I |        C |       C |      C |    C |  I |       C |         C |       C |   C |       N | N |      N |  N |  I |    C |      C |    I |           N |         I |         N |  N |        N |  N |  N |       N |     N |   N |        N |
+|         0 |   0 |     0 |            0 |  0 |      0 |        0 |  0 |    0 |  0 |        0 |       0 |      0 |    0 |  0 |       0 |         0 |       0 |   0 |       0 | 0 |      0 |  0 |  0 |    0 |      0 |    0 |           0 |         0 |         0 |  0 |        0 |  0 |  0 |       0 |     0 |   0 |        0 |
+
+
+| CNT008008 | Tenemos | una | hermana | pequeña |     aún |    no |    le |   han | crecido | los | pechos | ¿ | Qué | haremos | con | nuestra | hermana | cuando | vengan |  a | pedir | la |
+| CNT008008 |   tener | uno | hermano | pequeño |     aun |    no |    le | haber |  crecer |  el |  pecho | ¿ | qué |   hacer | con | nuestro | hermano | cuando | vengar |  a | pedir | lo |
+| CNT008008 | Tenemos | una | hermana | pequeña | todavía | tiene | senos |       |         |     |        | ¿ | Qué |         | con | nuestra | hermana | cuando |  trate | de | casar | la |
+| CNT008008 |   tener | uno | hermano | pequeño | todavía | tener |  seno |       |         |     |        | ¿ | qué |         | con | nuestro | hermano | cuando | tratar | de | casar | lo |
+|         I |       I |   I |       I |       I |       C |     C |     C |     N |       N |   N |      N | I |   I |       N |   I |       I |       I |      I |      C |  C |     C |  I |
+|         0 |       0 |   0 |       0 |       0 |       0 |     0 |     0 |     0 |       0 |   0 |      0 | 0 |   0 |       0 |   0 |       0 |       0 |      0 |      0 |  0 |     0 |  0 |
+
+
+| CNT008009 | Si | fuera | una | muralla | le | pondríamos | almenas | de | plata | si | fuera | una | puerta | la | reforzaríamos | con | tablas | de | cedro | La | hermana | menor |
+| CNT008009 | si |   ser | uno | muralla | le |      poner |  almena | de | plata | si |   ser | uno | puerta | el |      reforzar | con |  tabla | de | cedro | el | hermano | menor |
+| CNT008009 | Si |    es | una | muralla | le |   defensas |         | de | plata | si |       | una | puerta | la |               | con | barras | de | cedro |    |         |       |
+| CNT008009 | si |   ser | uno | muralla | le |    defensa |         | de | plata | si |       | uno | puerta | el |               | con |  barra | de | cedro |    |         |       |
+|         I |  I |     I |   I |       I |  I |          C |       N |  I |     I |  I |     N |   I |      I |  I |             N |   I |      C |  I |     I |  N |       N |     N |
+|         0 |  0 |     0 |   0 |       0 |  0 |          0 |       0 |  0 |     0 |  0 |     0 |   0 |      0 |  0 |             0 |   0 |      4 |  0 |     0 |  0 |       0 |     0 |
+
+
+| CNT008010 | Yo | soy | una | muralla | y | mis | pechos | son | como | torreones | por | eso | soy |   a | los | ojos | de | él | como | quién |    ha | encontrado | la | paz | La | viña | de | el | Amado | El | Amado |
+| CNT008010 | yo | ser | uno | muralla | y |  mi |  pecho | ser | como |   torreón | por | ese | ser |   a |  el |  ojo | de | él | como | quién | haber |  encontrar | el | paz | el | viña | de | el | amado | el | amado |
+| CNT008010 | Yo | soy | una | muralla |   | mis |        | son | como |    torres |     |     | Soy | sus |     | ojos |    |    | como | quien |    ha |    hallado | la | paz |    |      |    |    |       |    |       |
+| CNT008010 | yo | ser | uno | muralla |   |  mi |        | ser | como |     torre |     |     | ser |  su |     |  ojo |    |    | como | quien | haber |     hallar | el | paz |    |      |    |    |       |    |       |
+|         I |  I |   I |   I |       I | N |   I |      N |   I |    I |         C |   N |   N |   I |   C |   N |    I |  N |  N |    I |     I |     I |          C |  I |   I |  N |    N |  N |  N |     N |  N |     N |
+|         0 |  0 |   0 |   0 |       0 | 0 |   0 |      0 |   0 |    0 |         0 |   0 |   0 |   0 |   0 |   0 |    0 |  0 |  0 |    0 |     0 |     0 |          6 |  0 |   0 |  0 |    0 |  0 |  0 |     0 |  0 |     0 |
+
+
+| CNT008011 | Salomón | tenía | una | viña | en |      Baal | Hamón | la |  confió | a | unos | cuidadores | y | cada | uno | le | traía | mil | siclos | de | plata | por | sus | frutos |
+| CNT008011 |  saloma | tener | uno | viña | en |      baal | hamón | lo | confiar | a |  uno |   cuidador | y | cada | uno | le | traer | mil | siclos | de | plata | por |  su |  fruto |
+| CNT008011 | Salomón | tenía | una | viña | en | Baal-Amón |       | la |         | a | unos | cuidadores | y |      | uno | le | traía | mil | siclos | de | plata | por | sus | frutos |
+| CNT008011 |  saloma | tener | uno | viña | en | baal-amón |       | el |         | a |  uno |   cuidador | y |      | uno | le | traer | mil | siclos | de | plata | por |  su |  fruto |
+|         I |       I |     I |   I |    I |  I |         C |     N |  I |       N | I |    I |          I | I |    N |   I |  I |     I |   I |      I |  I |     I |   I |   I |      I |
+|         0 |       0 |     0 |   0 |    0 |  0 |         0 |     0 |  0 |       0 | 0 |    0 |          0 | 0 |    0 |   0 |  0 |     0 |   0 |      0 |  0 |     0 |   0 |   0 |      0 |
+
+
+|    CNT008012_Mi | viña |  es | sólo | para | mí | para | ti | Salomón | son | los |        | mil | siclos |  y |         | doscientos | para | los | cuidadores |  Última | invitación |     a | el | amor | El | Amado |
+| LN_mi:CNT008012 | viña | ser | sólo | para | mí | para | ti | salomón | ser |  el |        | mil | siclos |  y |         | doscientos | para |  el |   cuidador |  último | invitación |     a | el | amor | el | amado |
+|    CNT008012_Mi | viña |  es | sólo | para | mí |    y | yo |      no | más |  la |  cuido | Mil |   para | ti | Salomón | doscientos |      | los |        que | guardan |         su | fruto |    |      |    |       |
+| LN_mi:CNT008012 | viña | ser | sólo | para | mí |    y | yo |      no | más |  lo | cuidar | mil |   para | ti | salomón | doscientos |      |  el |        que | guardar |         su | fruto |    |      |    |       |
+|               I |    I |   I |    I |    I |  I |    C |  C |       C |   C |   C |      N |   I |      C |  C |       N |          I |    N |   I |          C |       C |          C |     C |  N |    N |  N |     N |
+|               0 |    0 |   0 |    0 |    0 |  0 |    0 |  0 |       0 |   0 |   0 |      0 |   0 |      0 |  0 |       0 |          0 |    0 |   0 |          0 |       0 |          0 |     0 |  0 |    0 |  0 |     0 |
+
+
+| CNT008013 | ¡ |    | Tú | que | habitas | en | los | jardines | mis | compañeros | prestan | oído | a | tu | voz |  deja | que | yo |      te |    |       | oiga | decir |
+| CNT008013 | ¡ |    | tú | que | habitar | en |  el |   jardín |  mi |  compañero | prestar |  oír | a | tu | voz | dejar | que | yo |      te |    |       |  oír | decir |
+| CNT008013 | ¡ | Oh | tú | que | habitas | en | los |  huertos | tus |            | prestan | oído | a | tu | voz |   haz |     | yo | también | la | pueda |  oír |       |
+| CNT008013 | ¡ | oh | tú | que | habitar | en |  el |   huerto |  tu |            | prestar |  oír | a | tu | voz | hacer |     | yo | también | lo | poder |  oír |       |
+|         I | I |  N |  I |   I |       I |  I |   I |        C |   C |          N |       I |    I | I |  I |   I |     C |   N |  I |       C |  N |     N |    I |     N |
+|         0 | 0 |  0 |  0 |   0 |       0 |  0 |   0 |        0 |   0 |          0 |       0 |    0 | 0 |  0 |   0 |     0 |   0 |  0 |       0 |  0 |     0 |    0 |     0 |
+
+
+| CNT008014 | Apúrate | amado | mío | como | una | gacela | como |  un |  ciervo | joven |  sobre |    | las |   montañas | perfumadas |
+| CNT008014 | apúrate | amado | mío | como | uno | gacela | como | uno |  ciervo | joven |  sobre |    |  el |    montaña |   perfumar |
+| CNT008014 |    Huye | amado | mío | como |   o |        | como |  un | cabrito |   por | montes | de | las | balsameras |            |
+| CNT008014 |    huir | amado | mío | como |   o |        | como | uno | cabrito |   por |  monte | de |  el |  balsamera |            |
+|         I |       C |     I |   I |    I |   C |      N |    I |   I |       C |     C |      C |  N |   I |          C |          N |
+|         0 |       5 |     0 |   0 |    0 |   0 |      0 |    0 |   0 |       0 |     0 |      0 |  0 |   0 |          0 |          0 |
+
+
