@@ -13,13 +13,9 @@ Si se elige la opción de correr las biblias alineadas será necesario:
 Si se elige la opción de correr las biblias sin alineamiento: 
   
    1- Hay que considerar que en ocasiones distintas traducciones de las biblias tienen una diferente distribución de versículos, para elegir a dos traducciones del mismo libro que tengan los mismos versículos, es importante leer resumenBíblicoCorrecto.txt y elegir dos traducciones del mismo grupo en el libro a considerar. Si esto no se realiza, puede existir un error por ArrayOutofIndex.
-  
    2- Indicar la traducción 1. Tiene que ser el nombre de una carpeta dentro de ./Biblias
-  
    3- Indicar la traducción 2. Tiene que ser el nombre de una carpeta dentro de ./Biblias
-  
    4- Indicar el código 1. Las primeras 3 letras del código 1 deben coincidir con el código de la traducción 1
-  
    5- Indicar el código 2. Las primeras 3 letras del código 2 deben coincidir con el código de la traducción 2
   
 Es importante notar que las últimas 3 letras del código 1 deben coincidir con las últimas 3 letras del código 2, esto es natural ya que hay que comparar a dos traducciones de un mismo libro.
