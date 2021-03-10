@@ -5,7 +5,7 @@ import requests
 import sys
 
 puntu = ['â','Â«','â','"',"'",',',';',':','.','Â¡','Â¿','!','?','(',')','/','-','_','[',']','{','}','â','â','Â»']
-
+#puntu = ['–','«','“','"',"'",',',';',':','.','¡','¿','!','?','(',')','/','-','_','[',']','{','}','”','—','»']
 
 def preguntar_libro_y_codigos():
     """
@@ -43,15 +43,17 @@ def leer_libros(CLibro1, CLibro2, codigo1, codigo2):
     :raises: Eleccion invalida si la direccion no es valida
     """
     try:
-        f1 = open('./Biblias/'+CLibro1+'/'+codigo1+'.txt', 'r')  
-        f2 = open('./Biblias/'+CLibro2+'/'+codigo2+'.txt', 'r')
+        print('./Biblias/'+CLibro1+'/'+codigo1+'.txt')
+        print('./Biblias/'+CLibro2+'/'+codigo2+'.txt')
+        f1 = open('./Biblias/'+CLibro1+'/'+codigo1+'.txt', 'r',encoding='utf-8')  
+        f2 = open('./Biblias/'+CLibro2+'/'+codigo2+'.txt', 'r',encoding='utf-8')
         Libro1 = f1.read()
         Libro2 = f2.read()
         f1.close()
         f2.close()
         return Libro1, Libro2
     except:
-        print('Tu elecciÃ³n es invÃ¡lida')
+        print('Tu elección es inválida')
         sys.exit(1)
 
 def procesamiento_previo(Libro):
@@ -79,7 +81,11 @@ def procesamiento(Libro):
     """
     Libro = procesamiento_previo(Libro)
     versiculoLing = []
+    k = 0
+    j = len(Libro)
     for vers in Libro:
+        k += 1
+        print(f" >> {k}/{j} {vers[:10] }")
         files = {'file': bytearray(vers, "utf8")}
         params = {'outf': 'tagged', 'format': 'json'}
         url = "http://www.corpus.unam.mx/servicio-freeling/analyze.php"
@@ -97,7 +103,9 @@ def procesamiento_nlp(Libro1, Libro2):
     """
     Realiza la funcion procesamiento a dos Libros
     """
+    print("procesando libro 1")
     Libro1P = procesamiento(Libro1)
+    print("procesando libro 2")
     Libro2P = procesamiento(Libro2)
     return Libro1P, Libro2P
 
@@ -113,5 +121,8 @@ def biblias_procesadas():
     else:
         path = str(codigo1[3:]+ '-'+ codigo1[:3]+ '-' + codigo2[:3])
     Libro1, Libro2 = leer_libros(CLibro1, CLibro2, codigo1, codigo2)
+    print("Libros leidos exitosamente")
+    print("Comienza procesamiento nlp de los textos...")
     Libro1, Libro2 = procesamiento_nlp(Libro1, Libro2)
+    print('Terminó el procesamiento nlp')
     return Libro1, Libro2, path
