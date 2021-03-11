@@ -2,11 +2,11 @@
 Descargue el código de git en su computadora y colóquelo en el directorio que usted prefiera.
 
 Instale python version 3
-Se requieren las siguiebtes bibliotecas: numpy, tabule, inidecode y reuests, parta instalr puede usar pip:
+Se requieren las siguientes bibliotecas: numpy, tabule, inidecode y reuests, para instalar puede usar pip:
 
 `pip install numpy tabulate unidecode requests`
 
-El programa se encuentra en el directorio en directorio `ProgramaPares` y el script que debe ejecutar se llama `main.py`
+El programa se encuentra en el directorio `ProgramaPares` y el script que debe ejecutar se llama `main.py`
 
 `python main.py`
 
