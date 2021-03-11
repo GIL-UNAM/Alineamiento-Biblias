@@ -1,4 +1,16 @@
-# Como correr el programa
+# ¿Cómo instalar el programa?
+Descargue el código de git en su computadora y colóquelo en el directorio que usted prefiera.
+
+Instale python version 3
+Se requieren las siguiebtes bibliotecas: numpy, tabule, inidecode y reuests, parta instalr puede usar pip:
+
+`pip install numpy tabulate unidecode requests`
+
+El programa se encuentra en el directorio en directorio `ProgramaPares` y el script que debe ejecutar se llama `main.py`
+
+`python main.py`
+
+# ¿Cómo correr el programa?
 
 ***Si su sistema operativo es `linux`, debe ser cuidadoso con las mayusculas y minusculas, de lo contrario el programa no localizará los archivos.***
 
@@ -25,7 +37,8 @@ Si se elige la opción de correr las biblias sin alineamiento:
 **Es importante notar que las últimas 3 letras del código 1 deben coincidir con las últimas 3 letras del código 2, esto es natural ya que hay que comparar a dos traducciones de un mismo libro.**
 
 
-# Como leer los resultados del programa
+# ¿Cómo leer los resultados del programa?
+
 Los resultados del programa estarán en la carpeta ./Resultados. En ella estarán las carpetas 'Pares' y 'Alineaciones'. Cada una tendrá por su cuenta una serie de carpetas que son 'Normal', 'Inversion', 'POS', 'Seminull' y 'POSsemi', cada una contiene los resultados obrenidos considerando: el programa sin modificaciones, las inversiones, el eriquetado POS, pares seminulos y pares seminulos junto con etiquetado POS, respectivamente.
 
 En el caso de los pares:
