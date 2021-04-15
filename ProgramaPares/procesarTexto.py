@@ -16,20 +16,23 @@ def preguntar_libro_y_codigos():
     codigo1 y codigo2 son dos identificadores, las pimeras tres letras indican la traduccion
     y la 4ta a 6ta letra indican que libro de la biblia es
     """
-    a = input('¿Quieres procesar biblias alineadas? 1/0 : ')
+    a = input('¿Quiere procesar biblias alineadas? 1/0 : ')
     if a == '1':
-        CLibro1 = input('¿Que libro?: ')
+        CLibro1 = input('¿Qué libro?: ')
         CLibro1 = 'BibliasAlineadas/' + CLibro1
         CLibro2 = CLibro1
-        codigo1 = input('Introduce el código 1: ')
-        codigo2 = input('Introduce el código 2: ')
-        return CLibro1, CLibro2, codigo1, codigo2, a
+        codigo1 = input('Introduzca el código 1: ')
+        codigo2 = input('Introduzca el código 2: ')
+        conLemma = int(input('¿Desea que se presenten los lemas? 1/0 : '))
+        return CLibro1, CLibro2, codigo1, codigo2, a, conLemma
     else:
-        CLibro1 = input('¿Cuál es la primera traduccion?: ')
-        CLibro2 = input('¿Cuál es la segunda traduccion?: ')
-        codigo1 = input('Introduce el código 1: ')
-        codigo2 = input('Introduce el código 2: ')
-        return CLibro1, CLibro2, codigo1, codigo2, a
+        CLibro1 = input('¿Cuál es la primera traducción?: ')
+        CLibro2 = input('¿Cuál es la segunda traducción?: ')
+        codigo1 = input('Introduzca el código 1: ')
+        codigo2 = input('Introduzca el código 2: ')
+        conLemma = input('¿Desea que se presenten los lemas? 1/0 : ' )
+
+        return CLibro1, CLibro2, codigo1, codigo2, a, conLemma
         
 def leer_libros(CLibro1, CLibro2, codigo1, codigo2):
     """
@@ -103,9 +106,9 @@ def procesamiento_nlp(Libro1, Libro2):
     """
     Realiza la funcion procesamiento a dos Libros
     """
-    print("procesando libro 1")
+    print("Procesando libro 1")
     Libro1P = procesamiento(Libro1)
-    print("procesando libro 2")
+    print("Procesando libro 2")
     Libro2P = procesamiento(Libro2)
     return Libro1P, Libro2P
 
@@ -115,14 +118,14 @@ def biblias_procesadas():
     
     :returns: Los libros como listas de json, donde cada elemento es un versiculo
     """
-    CLibro1, CLibro2, codigo1, codigo2, a = preguntar_libro_y_codigos()
+    CLibro1, CLibro2, codigo1, codigo2, a, conLemma = preguntar_libro_y_codigos()
     if a == '1':
         path = str('ALN' + codigo1[3:]+ '-'+ codigo1[:3]+ '-' + codigo2[:3])
     else:
         path = str(codigo1[3:]+ '-'+ codigo1[:3]+ '-' + codigo2[:3])
     Libro1, Libro2 = leer_libros(CLibro1, CLibro2, codigo1, codigo2)
-    print("Libros leidos exitosamente")
+    print("Libros leídos exitosamente")
     print("Comienza procesamiento nlp de los textos...")
     Libro1, Libro2 = procesamiento_nlp(Libro1, Libro2)
     print('Terminó el procesamiento nlp')
-    return Libro1, Libro2, path
+    return Libro1, Libro2, path, conLemma
