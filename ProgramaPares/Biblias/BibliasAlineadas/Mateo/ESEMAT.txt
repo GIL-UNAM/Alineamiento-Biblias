@@ -802,7 +802,8 @@ MAT023027 ¡Ay de vosotros, letrados y fariseos hipócritas, que os parecéis a 
 MAT023028 lo mismo vosotros: por fuera aparentáis ser hombres justos, pero por dentro estáis repletos de hipocresía y de iniquidad.
 MAT023029 ¡Ay de vosotros, letrados y fariseos hipócritas, que edificáis sepulcros a los profetas y ornamentáis los mausuleos de los justos,
 MAT023030 diciendo: "Si hubiéramos vivido en tiempo de nuestros padres no habríamos sido cómplices suyos en el asesinato de los profetas"!
-MAT023031 Con esto atestiguáis, en contra vuestra, que sois hijos de los que asesinaron a los profetas. MAT023032 ¡Pues colmad vosotros la medida de vuestros padres!
+MAT023031 Con esto atestiguáis, en contra vuestra, que sois hijos de los que asesinaron a los profetas. 
+MAT023032 ¡Pues colmad vosotros la medida de vuestros padres!
 MAT023033 ¡Culebras, camada de víboras!, ¿cómo evitaréis la condena al fuego?
 MAT023034 Mirad, para eso os voy a enviar yo profetas, sabios y letrados: a unos los mataréis y crucificaréis, a otros los azotaréis en vuestras sinagogas y los perseguiréis de ciudad en ciudad;
 MAT023035 así recaerá sobre vosotros toda la sangre inocente derramada sobre la tierra; desde la sangre de Abel el justo hasta la sangre de Zacarías, hijo de Baraquías, al que matasteis entre el santuario y el altar.
