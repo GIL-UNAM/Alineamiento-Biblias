@@ -238,9 +238,10 @@ MAR006045 Enseguida obligó a sus discípulos a que se montaran en la barca y fu
 MAR006046 Cuando se despidió de ellos se marchó al monte a orar. 
 MAR006047  Caída ya la tarde estaba la barca en medio del mar y él solo en tierra. 
 MAR006048 Viendo el suplicio que era para ellos avanzar, porque tenían el viento en contra, en el último cuarto de la noche fue hacia ellos andando sobre el mar, con intención de pasarlos.
-MAR006050 Ellos, al verlo andar sobre el mar, pensaron que era un fantasma y empezaron a dar gritos; porque todos lo vieron y se asustaron. Él les habló enseguida y les dijo:-Animo, soy yo, no temáis.
+MAR006049 Ellos, al verlo andar sobre el mar, pensaron que era un fantasma y empezaron a dar gritos; 
+MAR006050 porque todos lo vieron y se asustaron. Él les habló enseguida y les dijo:-Animo, soy yo, no temáis.
 MAR006051 Se montó en la barca con ellos y el viento cesó. Su estupor era enorme, 
-MAR006052  pues no habían entendido cuando lo de los panes; es más, su mente había quedado obcecada.
+MAR006052 pues no habían entendido cuando lo de los panes; es más, su mente había quedado obcecada.
 MAR006053  Atravesaron hasta tocar tierra, llegaron a Genesaret y atracaron.
 MAR006054 Al bajar ellos de la barca, algunos lo reconocieron y, en seguida, 
 MAR006055 recorriendo toda aquella comarca, empezaron a transportar en camillas a los que se encontraban mal, hasta donde oían que estaba.
@@ -287,23 +288,23 @@ MAR008002 -Me conmueve esta multitud, porque llevan ya tres días conmigo y no t
 MAR008003 y si los mando a su casa en ayunas, desfallecerán en el camino. Además, algunos de ellos han venido de lejos.
 MAR008004 Le replicaron sus discípulos:-¿Cómo va a poder nadie saciar a éstos de pan aquí en descampado?
 MAR008005 Él les preguntó:-¿Cuántos panes tenéis?Contestaron:-Siete.
-MAR008006 Mandó a la multitud que se echara en el suelo; tomando los siete panes, pronunció una acción de gracias, los partió y los fue dando a sus discípulos para que los sirvieran; ellos los sirvieron a la multitud. Tenían además unos cuantos pececillos; los bendijo y encargó que los sirvieran también.
-MAR008007 Comieron todos hasta saciarse y recogieron los trozos que habían sobrado: siete espuertas. 
-MAR008008 Eran unos cuatro mil, y él los despidió.
-MAR008009 Se montó en la barca con sus discípulos y fue derecho a la región de Dalmanuta. 
-MAR008010 Salieron unos fariseos y empezaron a discutir con él, exigiéndole, para tentarlo, una señal del cielo. 
-MAR008011 Dando un profundo suspiro, dijo:-¡Cómo!, ¿esta generación exige una señal? Os aseguro que a esta generación no se le dará señal.
-MAR008012 Los dejó, se embarcó de nuevo y se marchó al otro lado.
-MAR008013  A los discípulos se les había olvidado coger panes y llevaban en la barca más que un pan. 
-MAR008014 Jesús les estaba advirtiendo:-Mirad: cuidado con la levadura de los fariseos y con la levadura de los herodianos.
-MAR008015 Pero ellos estaban diciéndose unos a otros:-No tenemos panes.
-MAR008016  Al darse cuenta, les dijo Jesús:-¡Cómo! ¿Diciéndoos que no tenéis panes? ¿No acabáis de reflexionar ni de entender? ¿Tenéis la mente obcecada? 
-MAR008017 ¿Teniendo ojos no veis y teniendo oídos no oís? (No os acordáis? 
-MAR008018 Cuando partí los cinco panes para los cinco mil, ¿cuántos cestos llenos de sobras recogisteis?Le contestaron:-Doce.
-MAR008019 -Y cuando partí los siete para los cuatro mil; ¿cuántas espuertas llenas de sobras recogisteis?Le contestaron:-Siete.
-MAR008020 Él les dijo:-Y ¿todavía no entendéis?
-MAR008021 ª Y llegaron a Betsaida.
-MAR008022 b Le llevaron un ciego y le suplicaron que lo tocase. 
+MAR008006 Mandó a la multitud que se echara en el suelo; tomando los siete panes, pronunció una acción de gracias, los partió y los fue dando a sus discípulos para que los sirvieran; ellos los sirvieron a la multitud. 
+7 Tenían además unos cuantos pececillos; los bendijo y encargó que los sirvieran también.
+MAR008008 Comieron todos hasta saciarse y recogieron los trozos que habían sobrado: siete espuertas. 
+MAR008009 Eran unos cuatro mil, y él los despidió.
+MAR008010 Se montó en la barca con sus discípulos y fue derecho a la región de Dalmanuta. 
+MAR008011 Salieron unos fariseos y empezaron a discutir con él, exigiéndole, para tentarlo, una señal del cielo. 
+MAR008012 Dando un profundo suspiro, dijo:-¡Cómo!, ¿esta generación exige una señal? Os aseguro que a esta generación no se le dará señal.
+MAR008013 Los dejó, se embarcó de nuevo y se marchó al otro lado.
+MAR008014  A los discípulos se les había olvidado coger panes y llevaban en la barca más que un pan. 
+MAR008015 Jesús les estaba advirtiendo:-Mirad: cuidado con la levadura de los fariseos y con la levadura de los herodianos.
+MAR008016 Pero ellos estaban diciéndose unos a otros:-No tenemos panes.
+MAR008017  Al darse cuenta, les dijo Jesús:-¡Cómo! ¿Diciéndoos que no tenéis panes? ¿No acabáis de reflexionar ni de entender? ¿Tenéis la mente obcecada? 
+MAR008018 ¿Teniendo ojos no veis y teniendo oídos no oís? (No os acordáis? 
+MAR008019 Cuando partí los cinco panes para los cinco mil, ¿cuántos cestos llenos de sobras recogisteis?Le contestaron:-Doce.
+MAR008020 -Y cuando partí los siete para los cuatro mil; ¿cuántas espuertas llenas de sobras recogisteis?Le contestaron:-Siete.
+MAR008021 Él les dijo:-Y ¿todavía no entendéis?
+MAR008022 Y llegaron a Betsaida. Le llevaron un ciego y le suplicaron que lo tocase. 
 MAR008023 Cogiendo de la mano al ciego lo condujo fuera de la aldea; le echó saliva en los ojos, le aplicó las manos y le preguntó:-¿Ves algo?
 MAR008024 Empezó a ver y dijo:-Veo a los hombres, porque percibo como árboles que andan.
 MAR008025 Luego le aplicó otra vez las manos a los ojos y vio del todo: quedó normal y lo distinguía todo a distancia.
@@ -352,9 +353,8 @@ MAR009029 Él les replicó:-Esta ralea no puede salir con nada, más que pidién
 MAR009030 Se marcharon de allí y fueron atravesando Galilea; no quería que nadie se enterase, 
 MAR009031 porque iba enseñando a sus discípulos. Les decía:-Al Hombre lo van a entregar en manos de ciertos hombres, y lo matarán; pero, después que lo maten, a los tres días resucitará.
 MAR009032 pero ellos no entendían aquel dicho y les daba miedo preguntarle.
-MAR009033 ªy llegaron a Cafarnaún.
-MAR009034 bCuando llegó a la casa, les preguntó:-¿De qué hablabais por el camino? 
-MAR009035 Ellos guardaron silencio, pues en el camino habían discutido entre ellos quién era el más grande. 
+MAR009033 y llegaron a Cafarnaún. Cuando llegó a la casa, les preguntó:-¿De qué hablabais por el camino? 
+MAR009034 Ellos guardaron silencio, pues en el camino habían discutido entre ellos quién era el más grande. 
 MAR009035 Jesús se sentó, llamó a los Doce y les dijo:-Si uno quiere ser primero, ha de ser último de todos y servidor de todos.
 MAR009036 Y cogiendo a un criadito, lo puso en medio de ellos, lo abrazó y les dijo:
 MAR009037  -El que acoge a un chiquillo de éstos como si fuera a mí mismo, me acoge a mí; y el que me acoge a mí, no es a mí a quien acoge, sino al que me ha enviado.
@@ -370,7 +370,7 @@ MAR009046 (TEXTO OMITIDO)
 MAR009047 y si tu ojo te pone en peligro, sácatelo;  más te vale entrar tuerto en el reino de Dios que no ser arrojado con los dos ojos al quemadero, 
 MAR009048 donde su gusano no muere y el fuego no se apaga. 
 MAR009049 Es decir, cada cual ha de salarse con un fuego.
-MAR009050  ¡Qué buena es la sal! Pero si la sal se vuelve sosa, (con qué podréis salarla? Tened sal entre vosotros y vivid en paz unos con otros.
+MAR009050 ¡Qué buena es la sal! Pero si la sal se vuelve sosa, (con qué podréis salarla? Tened sal entre vosotros y vivid en paz unos con otros.
 MAR010001 De allí se marchó al territorio de Judea al otro lado del Jordán, y otra vez multitudes de gente se le fueron reuniendo por el camino. Según su costumbre, también esta vez se puso a enseñarles.
 MAR010002 Se acercaron unos fariseos y, con intención de tentarlo, le preguntaron si está permitido al marido repudiar a su mujer. 
 MAR010003 Él les replicó:-¿Qué os mandó Moisés?
