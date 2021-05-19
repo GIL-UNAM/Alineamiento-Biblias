@@ -1,6 +1,6 @@
-# ¿Cómo leer los resultados del programa?
+# Resultados del programa
 
-Los resultados del programa estarán en la carpeta ./Resultados. En ella estarán las carpetas 'Pares' y 'Alineaciones'. Cada una tendrá por su cuenta una serie de carpetas que son 'Normal', 'Inversion', 'POS', 'Seminull' y 'POSsemi', cada una contiene los resultados obrenidos considerando: el programa sin modificaciones, las inversiones, el eriquetado POS, pares seminulos y pares seminulos junto con etiquetado POS, respectivamente.
+Los resultados del programa están en las carpetas 'Pares' y 'Alineaciones'. Cada una tendrá por su cuenta una serie de carpetas que son 'Normal', 'Inversion', 'POS', 'Seminull' y 'POSsemi', cada una contiene los resultados obrenidos considerando: el programa sin modificaciones, las inversiones, el eriquetado POS, pares seminulos y pares seminulos junto con etiquetado POS, respectivamente.
 
 En el caso de los pares:
 
