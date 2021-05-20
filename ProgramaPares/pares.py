@@ -72,13 +72,24 @@ def candidatos_inversion(Versiculo1, Versiculo2, g):
     :param g: el escritor para la función mostrar_alineaciones
     :returns: Las alineacion derivada del algoritmo de Wagner Fisher considerando la inversión junto al lcc 
     """
-    alineacion = WagFish.WagFishConj(Versiculo1, Versiculo2)
-    dummy = alineacion.copy()
-    mostrar_alineacion(dummy, g)
-    alineacion.append(lcc.calcular_lcc_completo(alineacion[2]))
-
+    rutas_multiples = WagFish.WagFishConj(Versiculo1, Versiculo2)
+    numero_de_rutas = len(rutas_multiples)
     
-    return alineacion
+    if numero_de_rutas > 0:
+        print("==================================================")
+        print("Versículo original 1:")
+        print( el['token'] + " " for el in Versiculo1)
+        print("Versículo original 2:")
+        print( el['token'] + " " for el in Versiculo1)
+        print("==================================================")
+        print('\n')
+
+    dummy = rutas_multiples.copy()
+    for i in range(numero_de_rutas):
+        mostrar_alineacion(dummy[i], g)
+        rutas_multiples[i].append(lcc.calcular_lcc_completo(rutas_multiples[i][2]))
+
+    return rutas_multiples
 
 def candidatos_seminull(Versiculo1, Versiculo2, g):
     """
@@ -175,32 +186,44 @@ def pares_completos(Libro1, Libro2, path, conLemma):
     :param Libro2: una lista de listas, donde cada lista contiene un versículo procesado mediante freeling, por lo que cada versiculo es una lista de json. Obtenido mediante la funcion procesar texto
     :param path: es lo que nos ayuda con el título de los resultados
     """
-    f = open('./Resultados/Pares/Normal/'+path+'.txt', 'w',encoding='utf-8')
     g = open('./Resultados/Alineaciones/Normal/alineaciones-' + path+ '.txt', 'w',encoding='utf-8')
-    m = open('./Resultados/Pares/Semi/Seminull-'+path+'.txt', 'w',encoding='utf-8')
-    h = open('./Resultados/Pares/Intercambio/Intercambio_'+ path +'.txt', 'w',encoding='utf-8')
-    r = open('./Resultados/Alineaciones/Semi/alineacionesSeminiull-'+ path + '.txt', 'w',encoding='utf-8')
+    f = open('./Resultados/Pares/Normal/'+path+'.txt', 'w',encoding='utf-8')
+    
     l = open('./Resultados/Alineaciones/Intercambio/alineaciones-Intercambio' + path+ '.txt', 'w',encoding='utf-8')
-    a = open('./Resultados/Pares/POS/POS'+path+'.txt', 'w',encoding='utf-8')
+    h = open('./Resultados/Pares/Intercambio/Intercambio_'+ path +'.txt', 'w',encoding='utf-8')
+
+    r = open('./Resultados/Alineaciones/Semi/alineacionesSeminiull-'+ path + '.txt', 'w',encoding='utf-8')    
+    m = open('./Resultados/Pares/Semi/Seminull-'+path+'.txt', 'w',encoding='utf-8')
+    
     b = open('./Resultados/Alineaciones/POS/POS'+path+'.txt', 'w',encoding='utf-8')
+    a = open('./Resultados/Pares/POS/POS'+path+'.txt', 'w',encoding='utf-8')
+    
     c = open('./Resultados/Alineaciones/POSsemi/POSsemi'+path+'.txt', 'w',encoding='utf-8')
     d = open('./Resultados/Pares/POSsemi/POSsemi'+path+'.txt', 'w',encoding='utf-8')
+    
     j = len(Libro1)
     if j != len(Libro2):
         print('Las biblias seleccionadas no están alineadas.')
         exit(1) 
-    for i in range(len(Libro1)):
+    for i in range(j):
         print(f'alineando {i+1}/{j}')
+        
         alineacion_versiculo_i = candidatos_a_pares(Libro1[i], Libro2[i], g)
         son_pares_sem(alineacion_versiculo_i,f, conLemma)
-        alineacion_inversion_i = candidatos_inversion(Libro1[i], Libro2[i], l)
-        son_pares_sem(alineacion_inversion_i, h, conLemma)
+        
+        alineaciones_inversion_i = candidatos_inversion(Libro1[i], Libro2[i], l)
+        for alineacion in alineaciones_inversion_i:
+            son_pares_sem(alineacion, h, conLemma)
+        
         alineacion_seminull_i = candidatos_seminull(Libro1[i], Libro2[i], r)
         son_pares_sem(alineacion_seminull_i, m, conLemma)
+        
         alineacion_pos_i = candidatos_POS(Libro1[i], Libro2[i], b)
         son_pares_sem(alineacion_pos_i, a, conLemma)
+        
         alineacion_POSsemi_i = candidatos_POSsemi(Libro1[i], Libro2[i], c)
         son_pares_sem(alineacion_POSsemi_i, d, conLemma)
+    
     f.close()
     g.close()
     h.close()
