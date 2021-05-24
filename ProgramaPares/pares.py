@@ -62,6 +62,30 @@ def candidatos_a_pares(Versiculo1, Versiculo2, g):
     
     return alineacion
 
+def versiculo_original_str(seq):
+    ver = ""
+    for el in seq:
+        try:
+            ver += el['token'] + " "
+        except:
+            ver += el + " "
+    
+    return ver
+
+def mostrar_versiculos(seq1, seq2, f):
+    ver1 = versiculo_original_str(seq1)
+    ver2 = versiculo_original_str(seq2)
+
+    f.write("==================================================\n")
+    f.write("Versículo original 1:\n")
+    f.write(ver1 + "\n")
+    f.write("Versículo original 2:\n")
+    f.write(ver2 + "\n")
+    f.write("==================================================\n")
+    f.write('\n')
+    
+    return
+
 def candidatos_inversion(Versiculo1, Versiculo2, g):
     """
     Realiza el algoritmo de Wagner Fisher considerando las inversiones a dos versículos, hace la función mostrar_alineacion a una copia de la alineación
@@ -76,13 +100,7 @@ def candidatos_inversion(Versiculo1, Versiculo2, g):
     numero_de_rutas = len(rutas_multiples)
     
     if numero_de_rutas > 0:
-        print("==================================================")
-        print("Versículo original 1:")
-        print( el['token'] + " " for el in Versiculo1)
-        print("Versículo original 2:")
-        print( el['token'] + " " for el in Versiculo1)
-        print("==================================================")
-        print('\n')
+        mostrar_versiculos(Versiculo1, Versiculo2, g)
 
     dummy = rutas_multiples.copy()
     for i in range(numero_de_rutas):
