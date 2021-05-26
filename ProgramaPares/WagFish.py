@@ -4,6 +4,9 @@ Las funciones de este script nos sirven para hacer las agrupaciones
 import Levishtein
 import copy
 
+# Número de alineaciones máximas
+Kitermax = 200
+
 def WagnerFisher(oracion1, oracion2):
     """
     Sacado de "Design of a concept-oriented tool for terminology", G. Sierra 1999 
@@ -49,13 +52,41 @@ def WagnerFisher(oracion1, oracion2):
     resultado.append(lista_auxiliar)
     return resultado
 
-def alinearConj(oracion1, r, oracion2, c, Z, C, rutas, maxAlineaciones=300):
+def validar_alineacion(tipos_pares):
+    outerChars = ["I", "J", "G"]
+    bridgeChars = ["N", "C"]
+    n = len(tipos_pares) # Longitud del arreglo
+    lastChar = "" # Variable temporal del último caracter
+    
+    # Buscamos que se cumpla la condición O, ..., B, ..., O
+    # O = Outer char
+    # B = Bridge char
+    while n:
+        currentChar = tipos_pares[n-1]
+        # Si se detecta un cambio tal que: ..., B, O, ....
+        if(currentChar in bridgeChars and lastChar in outerChars):
+            # Retrocedemos mientas haya caracteres y sean el mismo que
+            # encontramos en el cambio
+            while n and tipos_pares[n-1] == currentChar:
+                n -= 1
+            
+            # Verificamos si el nuevo cambio es del tipo: ..., O, B, ...
+            if tipos_pares[n-1] in outerChars:
+                return True
+        lastChar = currentChar
+        n -= 1
+    
+    return False
+
+def alinearConj(seq1, r, seq2, c, Z, C, rutas, maxAlin=300):
     """
     Algoritmo recursivo de rutas múltiples
     """
+    
+    global Kitermax # Añadimos la variable global
 
     # Evaluación del número de alineaciones máximas
-    if(maxAlineaciones > len(rutas)):
+    if maxAlin > len(rutas) and Kitermax:
 
         # Palabra vacía
         palabra_vacia = {'token': ' ', 'lemma': ' ', 'tag': ' '}
@@ -63,93 +94,100 @@ def alinearConj(oracion1, r, oracion2, c, Z, C, rutas, maxAlineaciones=300):
         if r != 0:
             if c != 0:
                 # Costos básicos
-                w_a_b = 0 if Levishtein.palabras_equivalentes(oracion1[r-1], oracion2[c-1]) else 1
+                w_a_b = 0 if Levishtein.palabras_equivalentes(seq1[r-1], seq2[c-1]) else 1
                 w_e = 1
                 
                 if r >= 3 and c >= 3:
-                    w_c = Levishtein.intercambio_conjuntivo(oracion1, oracion2, r-1, c-1)
+                    w_c = Levishtein.intercambio_conjuntivo(seq1, seq2, r-1, c-1)
                     if C[r][c] == C[r-3][c-3] + w_c:
                         cZ = copy.deepcopy(Z)
                         
-                        cZ[0].insert(0, oracion1[r-3])
-                        cZ[0].insert(0, oracion1[r-2])
-                        cZ[0].insert(0, oracion1[r-1])
+                        cZ[0].insert(0, seq1[r-3])
+                        cZ[0].insert(0, seq1[r-2])
+                        cZ[0].insert(0, seq1[r-1])
                         
-                        cZ[1].insert(0, oracion2[c-1])
-                        cZ[1].insert(0, oracion2[c-2])
-                        cZ[1].insert(0, oracion2[c-3])
+                        cZ[1].insert(0, seq2[c-1])
+                        cZ[1].insert(0, seq2[c-2])
+                        cZ[1].insert(0, seq2[c-3])
                         
                         cZ[2].insert(0, 'G')
                         cZ[2].insert(0, 'G')
                         cZ[2].insert(0, 'G')
                         
-                        alinearConj(oracion1, r-3, oracion2, c-3, cZ, C, rutas, maxAlineaciones)
+                        alinearConj(seq1, r-3, seq2, c-3, cZ, C, rutas, maxAlin)
                 
                 if r >= 2 and c >= 2:
-                    w_s = Levishtein.intercambio_consecutivo(oracion1, oracion2, r-1, c-1)
+                    w_s = Levishtein.intercambio_consecutivo(seq1, seq2, r-1, c-1)
                     if C[r][c] == C[r-2][c-2] + w_s:
                         cZ = copy.deepcopy(Z)
                         
-                        cZ[0].insert(0, oracion1[r-2])
-                        cZ[0].insert(0, oracion1[r-1])
+                        cZ[0].insert(0, seq1[r-2])
+                        cZ[0].insert(0, seq1[r-1])
                         
-                        cZ[1].insert(0, oracion2[c-1])
-                        cZ[1].insert(0, oracion2[c-2])
+                        cZ[1].insert(0, seq2[c-1])
+                        cZ[1].insert(0, seq2[c-2])
                         
                         cZ[2].insert(0, 'J')
                         cZ[2].insert(0, 'J')
                         
-                        alinearConj(oracion1, r-2, oracion2, c-2, cZ, C, rutas, maxAlineaciones)
+                        alinearConj(seq1, r-2, seq2, c-2, cZ, C, rutas, maxAlin)
 
                 if C[r][c] == C[r-1][c-1] + w_a_b:
                     cZ = copy.deepcopy(Z)
                     
-                    cZ[0].insert(0, oracion1[r-1])
-                    cZ[1].insert(0, oracion2[c-1])
+                    cZ[0].insert(0, seq1[r-1])
+                    cZ[1].insert(0, seq2[c-1])
                     cZ[2].insert(0, 'I' if w_a_b == 0 else 'C') #
                     
-                    alinearConj(oracion1, r-1, oracion2, c-1, cZ, C, rutas, maxAlineaciones)
+                    alinearConj(seq1, r-1, seq2, c-1, cZ, C, rutas, maxAlin)
                     
                 if C[r][c] == C[r-1][c] + w_e:
                     cZ = copy.deepcopy(Z)
                     
-                    cZ[0].insert(0, oracion1[r-1])
+                    cZ[0].insert(0, seq1[r-1])
                     cZ[1].insert(0, palabra_vacia)
                     cZ[2].insert(0, 'N')
                     
-                    alinearConj(oracion1, r-1, oracion2, c, cZ, C, rutas, maxAlineaciones)
+                    alinearConj(seq1, r-1, seq2, c, cZ, C, rutas, maxAlin)
                     
                 if C[r][c] == C[r][c-1] + w_e:
                     cZ = copy.deepcopy(Z)
                     
                     cZ[0].insert(0, palabra_vacia)
-                    cZ[1].insert(0, oracion2[c-1])
+                    cZ[1].insert(0, seq2[c-1])
                     cZ[2].insert(0, 'N')
                     
-                    alinearConj(oracion1, r, oracion2, c-1, cZ, C, rutas, maxAlineaciones)
+                    alinearConj(seq1, r, seq2, c-1, cZ, C, rutas, maxAlin)
 
             else:
                 cZ = copy.deepcopy(Z)
                 
-                cZ[0].insert(0, oracion1[r-1])
+                cZ[0].insert(0, seq1[r-1])
                 cZ[1].insert(0, palabra_vacia)
                 cZ[2].insert(0, 'N')
                 
-                alinearConj(oracion1, r-1, oracion2, 0, cZ, C, rutas, maxAlineaciones)
+                alinearConj(seq1, r-1, seq2, 0, cZ, C, rutas, maxAlin)
         
         else:
             if c != 0:
                 cZ = copy.deepcopy(Z)
                 
                 cZ[0].insert(0, palabra_vacia)
-                cZ[1].insert(0, oracion2[c-1])
+                cZ[1].insert(0, seq2[c-1])
                 cZ[2].insert(0, 'N')
                 
-                alinearConj(oracion1, 0, oracion2, c-1, cZ, C, rutas, maxAlineaciones)
+                alinearConj(seq1, 0, seq2, c-1, cZ, C, rutas, maxAlin)
                 
             else:
                 # Agregar alineamiento
-                rutas.append(Z)
+                if maxAlin == 1:
+                    rutas.append(Z)
+                elif validar_alineacion(Z[2]):
+                    rutas.append(Z)
+                
+                Kitermax -= 1
+                
+                return
             
 
 def WagFishConj(oracion1, oracion2):
@@ -165,12 +203,21 @@ def WagFishConj(oracion1, oracion2):
     por una 'N', pares iguales, representados por una 'I', o pares correspondientes, representados por una 'C'.
     """
     
+    # Añadimos la variable global
+    global Kitermax
+    
     r = len(oracion1)
     c = len(oracion2)
     Z = [ [], [], [] ]
     C = Levishtein.levi(oracion1, oracion2)
-    rutas_multiples = []    
+    rutas_multiples = []
+    # Establecemos el número máximo de iteraciones máximas que se van a hacer
+    Kitermax = 200
     alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 16)
+    
+    if len(rutas_multiples) == 0:
+        Kitermax = 200
+    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 1)
     
     return rutas_multiples
     
