@@ -54,7 +54,7 @@ def WagnerFisher(oracion1, oracion2):
 
 def validar_alineacion(tipos_pares):
     outerChars = ["I", "J", "G"]
-    bridgeChars = ["N", "C"]
+    bridgeChars = { 'N': False, 'C': False}
     n = len(tipos_pares) # Longitud del arreglo
     lastChar = "" # Variable temporal del último caracter
     
@@ -65,13 +65,24 @@ def validar_alineacion(tipos_pares):
         currentChar = tipos_pares[n-1]
         # Si se detecta un cambio tal que: ..., B, O, ....
         if(currentChar in bridgeChars and lastChar in outerChars):
+            tempBridgeChars = bridgeChars.copy()
+            
             # Retrocedemos mientas haya caracteres y sean el mismo que
             # encontramos en el cambio
-            while n and tipos_pares[n-1] == currentChar:
+            while n and tipos_pares[n-1] in bridgeChars:
+                tempBridgeChars[tipos_pares[n-1]] = True
                 n -= 1
             
+            # Flag para identificar si se encontraron todas los bridge chars
+            found = True
+            
+            # Verificamos si se encontraron todos los bridge chars
+            for key, value in tempBridgeChars.items():
+                found &= value
+            
             # Verificamos si el nuevo cambio es del tipo: ..., O, B, ...
-            if tipos_pares[n-1] in outerChars:
+            # También se revisa si se encontraron todos 
+            if tipos_pares[n-1] in outerChars and found:
                 return True
         lastChar = currentChar
         n -= 1
