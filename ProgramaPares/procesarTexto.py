@@ -16,7 +16,7 @@ def preguntar_libro_y_codigos():
     codigo1 y codigo2 son dos identificadores, las pimeras tres letras indican la traduccion
     y la 4ta a 6ta letra indican que libro de la biblia es
     """
-    a = input('¿Quiere procesar biblias alineadas? 1/0 : ')
+    a = input('¿Quiere procesar Biblias alineadas? 1/0 : ')
     if a == '1':
         CLibro1 = input('¿Qué libro?: ')
         CLibro1 = 'BibliasAlineadas/' + CLibro1
@@ -56,7 +56,7 @@ def leer_libros(CLibro1, CLibro2, codigo1, codigo2):
         f2.close()
         return Libro1, Libro2
     except:
-        print('Tu elección es inválida')
+        print('Su elección es inválida')
         sys.exit(1)
 
 def procesamiento_previo(Libro):
