@@ -127,5 +127,5 @@ def biblias_procesadas():
     print("Libros leídos exitosamente")
     print("Comienza procesamiento NLP de los textos...")
     Libro1, Libro2 = procesamiento_nlp(Libro1, Libro2)
-    print('Terminó el procesamiento nlp')
+    print('Terminó el procesamiento NLP')
     return Libro1, Libro2, path, conLemma
