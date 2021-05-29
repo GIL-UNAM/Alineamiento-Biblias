@@ -125,7 +125,7 @@ def biblias_procesadas():
         path = str(codigo1[3:]+ '-'+ codigo1[:3]+ '-' + codigo2[:3])
     Libro1, Libro2 = leer_libros(CLibro1, CLibro2, codigo1, codigo2)
     print("Libros leídos exitosamente")
-    print("Comienza procesamiento nlp de los textos...")
+    print("Comienza procesamiento NLP de los textos...")
     Libro1, Libro2 = procesamiento_nlp(Libro1, Libro2)
     print('Terminó el procesamiento nlp')
     return Libro1, Libro2, path, conLemma
