@@ -3,6 +3,7 @@ Las funciones de este script nos sirven para hacer las agrupaciones
 """
 import Levishtein
 import copy
+import alineacion
 
 # Número de alineaciones máximas
 Kitermax = 200
@@ -52,42 +53,6 @@ def WagnerFisher(oracion1, oracion2):
     resultado.append(lista_auxiliar)
     return resultado
 
-def validar_alineacion(tipos_pares):
-    outerChars = ["I", "J", "G"]
-    bridgeChars = { 'N': False, 'C': False}
-    n = len(tipos_pares) # Longitud del arreglo
-    lastChar = "" # Variable temporal del último caracter
-    
-    # Buscamos que se cumpla la condición O, ..., B, ..., O
-    # O = Outer char
-    # B = Bridge char
-    while n:
-        currentChar = tipos_pares[n-1]
-        # Si se detecta un cambio tal que: ..., B, O, ....
-        if(currentChar in bridgeChars and lastChar in outerChars):
-            tempBridgeChars = bridgeChars.copy()
-            
-            # Retrocedemos mientas haya caracteres y sean el mismo que
-            # encontramos en el cambio
-            while n and tipos_pares[n-1] in bridgeChars:
-                tempBridgeChars[tipos_pares[n-1]] = True
-                n -= 1
-            
-            # Flag para identificar si se encontraron todas los bridge chars
-            found = True
-            
-            # Verificamos si se encontraron todos los bridge chars
-            for key, value in tempBridgeChars.items():
-                found &= value
-            
-            # Verificamos si el nuevo cambio es del tipo: ..., O, B, ...
-            # También se revisa si se encontraron todos 
-            if tipos_pares[n-1] in outerChars and found:
-                return True
-        lastChar = currentChar
-        n -= 1
-    
-    return False
 
 def alinearConj(seq1, r, seq2, c, Z, C, rutas, maxAlin=300):
     """
@@ -193,7 +158,7 @@ def alinearConj(seq1, r, seq2, c, Z, C, rutas, maxAlin=300):
                 # Agregar alineamiento
                 if maxAlin == 1:
                     rutas.append(Z)
-                elif validar_alineacion(Z[2]):
+                elif alineacion.validar_alineacion(Z[2]):
                     rutas.append(Z)
                 
                 Kitermax -= 1
@@ -226,9 +191,11 @@ def WagFishConj(oracion1, oracion2):
     Kitermax = 200
     alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 16)
     
+    alineacion.filtrar_alineaciones_sustantivos(rutas_multiples)
+    
     if len(rutas_multiples) == 0:
         Kitermax = 200
-    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 1)
+        alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 1)
     
     return rutas_multiples
     
