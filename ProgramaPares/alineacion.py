@@ -38,6 +38,7 @@ def validar_alineacion(tipos_pares):
 def filtrar_alineaciones_sustantivos(rutas_multiples):
     min_perc = .2 # Porcentaje mínimo aceptable
     nRutas = len(rutas_multiples) # Número de rutas
+    rutasAIgnorar = []
     
     for r in range(nRutas):
         porcentaje = 0 # Porcentaje de la ruta
@@ -63,9 +64,17 @@ def filtrar_alineaciones_sustantivos(rutas_multiples):
                 
         nSustantivos = sust1Aux if sust1Aux > sust2Aux else sust2Aux
         
-        porcentaje = nParesSustantivos / nSustantivos
+        porcentaje = 0 if nSustantivos == 0 else nParesSustantivos / nSustantivos
         
         if porcentaje < min_perc:
-            rutas_multiples.pop(r)
+            rutasAIgnorar.append(r)
             
+    # Invertimos los índices
+    nRutasAIgnorar = len(rutasAIgnorar)
+    rutasAIgnorar.reverse()
+    
+    # Removemos las rutas con un porcentaje bajo de sustantivos alineados
+    for r in range(nRutasAIgnorar):
+        rutas_multiples.pop(rutasAIgnorar[r])
+        
     return
