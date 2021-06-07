@@ -12,33 +12,49 @@ def mostrar_alineacion(alineacion, f):
     """
     lista_para_mostrar = []
     palabra1 = []
+    lemma1 = []
     tag1 = []
     palabra2 = []
+    lemma2 = []
     tag2 = []
     for i in alineacion[0]:
         try:
             palabra1.append(i['token'])
+            lemma1.append(i['lemma'])
+            tag1.append(i['tag'])
         except:
             palabra1.append(i)
+            lemma1.append(i)
+            tag1.append(i)
+    """
     for i in alineacion[0]:
         try:
             tag1.append(i['lemma'])
         except:
             tag1.append(i)
+    """
     for i in alineacion[1]:
         try:
             palabra2.append(i['token'])
+            lemma2.append(i['lemma'])
+            tag2.append(i['tag'])
         except:
             palabra2.append(i)
+            lemma2.append(i)
+            tag2.append(i)
+    """
     for i in alineacion[1]:
         try:
             tag2.append(i['lemma'])
         except:
             tag2.append(i)
+    """
 
     lista_para_mostrar.append(palabra1)
+    lista_para_mostrar.append(lemma1)
     lista_para_mostrar.append(tag1)
     lista_para_mostrar.append(palabra2)
+    lista_para_mostrar.append(lemma2)
     lista_para_mostrar.append(tag2)
     lista_para_mostrar.append(alineacion[2])
     lista_para_mostrar.append(lcc.calcular_lcc_completo(alineacion[2]))
