@@ -41,32 +41,43 @@ def filtrar_alineaciones_sustantivos(rutas_multiples):
     rutasAIgnorar = []
     
     for r in range(nRutas):
-        porcentaje = 0 # Porcentaje de la ruta
+        porcentajes = {'s': 0, 'v': 0} # Porcentaje de la ruta
         nPares = len(rutas_multiples[r][0]) # Número de pares de la ruta
-        nSustantivos = 0 # Número de sustantivos máximo de la ruta
-        nParesSustantivos = 0 # Número de pares de sustantivos de la ruta
+        # Lista que almacena el número de sustantivos y verbos
+        totales = {'s': 0, 'v': 0}
+        # Número de pares de sustantivos y verbos en la ruta
+        paresRuta = {'s': 0, 'v': 0}
         
         seq1 = rutas_multiples[r][0]
         seq2 = rutas_multiples[r][1]
         
-        sust1Aux = 0
-        sust2Aux = 0
+        # Contadores auxiliares {'s': sustantivos, 'v': verbos}
+        cont1Aux = {'s': 0, 'v': 0} # Contadores de la sequencia 1
+        cont2Aux = {'s': 0, 'v': 0} # Contadores de la sequencia 2
         
         for p in range(nPares):
             if seq1[p]['tag'][0] == 'N':
-                sust1Aux += 1
+                cont1Aux['s'] += 1
+            elif seq1[p]['tag'][0] == 'V':
+                cont1Aux['v'] += 1
                 
             if seq2[p]['tag'][0] == 'N':
-                sust2Aux += 1
+                cont2Aux['s'] += 1
+            elif seq2[p]['tag'][0] == 'V':
+                cont2Aux['v'] += 1
             
-            if seq1[p]['tag'][0] == seq2[p]['tag'][0] and seq1[p]['tag'][0] == 'N':
-                nParesSustantivos += 1
-                
-        nSustantivos = sust1Aux if sust1Aux > sust2Aux else sust2Aux
+            if seq1[p]['tag'][0] == seq2[p]['tag'][0]:
+                if seq1[p]['tag'][0] == 'N':
+                    paresRuta['s'] += 1
+                elif seq1[p]['tag'][0] == 'V':
+                    paresRuta['v'] += 1
         
-        porcentaje = 0 if nSustantivos == 0 else nParesSustantivos / nSustantivos
+        totales['s'] = cont1Aux['s'] if cont1Aux['s'] > cont2Aux['s'] else cont2Aux['s']
+        totales['v'] = cont1Aux['v'] if cont1Aux['v'] > cont2Aux['v'] else cont2Aux['v']
         
-        if porcentaje < min_perc:
+        porcentajes['s'] = 0 if totales['s'] == 0 else paresRuta['s'] / totales['s']
+        
+        if porcentajes['s'] < min_perc or porcentajes['v'] < min_perc:
             rutasAIgnorar.append(r)
             
     # Invertimos los índices
