@@ -3,7 +3,7 @@
 Es la forma de comparar los versículos de dos biblias con el objetivo de encontrar la mayor cantidad de similitudes o pares semánticos, esto consiste en obtener pares de palabras que se utilizan una en lugar de otra para decir lo mismo en un cierto contexto. El contexto, en este caso, son un par de versículos de la Biblia que provienen de dos versiones distintas.
 
 
-# ¿Qué hace el programa
+# ¿Qué hace el programa?
 
 Su objetivo es realizar el alineamiento de versículos de la Biblia, para ello se requiere que se haga referencia al mismo versículo en distintas biblias. Como resultado retorna el alineamiento y los pares en sus respectivas carpetas.
 Para lograr esto el programa realiza los siguientes pasos:
@@ -14,11 +14,11 @@ Posteriormente, encuentra los pares semánticos, esto funciona gracias a un algo
 
 Con esto se puede obtener el coeficiente que determina el grado de similitud entre pares semánticos LCC.
 
-Rutas Múltiples
+### Rutas Múltiples
 
 Las rutas múltiples fueron implementadas en la parte de la alineación de pares semánticos, esto se debe a que esta parte del algoritmo nos permite ver todas las alineaciones posibles que se pueden generar en un mismo versículo. Actualmente este algoritmo está limitado a dieciséis rutas múltiples encontradas, y solo se revisan las primeras doscientas rutas, estas limitaciones existen para evitar tiempos largos de ejecución y para lograr una mayor optimización del programa.
 
-Inversión conjuntiva y consecutiva
+### Inversión conjuntiva y consecutiva
 
 Estas se implementan después de las rutas múltiples.Cuando el programa reconoce que en los versículos alineados se encuentran dos palabras consecutivas o separadas por una disyunción, las invierte, para que de esta manera las palabras coincidan en el orden y así el algoritmo las logre reconocer como palabras iguales.
 
