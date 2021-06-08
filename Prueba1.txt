@@ -1,0 +1,72 @@
+==================================================
+Versículo original 1:
+MAR001001 Orígenes de la buena noticia de Jesús Mesías Hijo de Dios 
+Versículo original 2:
+MAR001001 Este es el comienzo de la Buena Nueva de Jesucristo Hijo de Dios 
+==================================================
+
+| MAR001001 |         |         |        | Orígenes | de |     la |   buena | noticia | de |   Jesús |     Mesías |    Hijo | de |    Dios |
+| MAR001001 |         |         |        |   origen | de |     el |   bueno | noticia | de |   jesús |     mesías |    hijo | de |    dios |
+|         Z |         |         |        |  NCMP000 | SP | DA0FS0 | AQ0FS00 | NCFS000 | SP | NCMS000 |    NCMN000 | NCMS000 | SP | NCMS000 |
+| MAR001001 |    Este |      es |     el | comienzo | de |     la |   Buena |   Nueva | de |         | Jesucristo |    Hijo | de |    Dios |
+| MAR001001 |    este |     ser |     el | comienzo | de |     el |   bueno |   nuevo | de |         | jesucristo |    hijo | de |    dios |
+|         Z | PD0MS00 | VSIP3S0 | DA0MS0 |  NCMS000 | SP | DA0FS0 | AQ0FS00 | AQ0FS00 | SP |         |    VMP00SM | NCMS000 | SP | NCMS000 |
+|         I |       N |       N |      N |        C |  I |      I |       I |       C |  I |       N |          C |       I |  I |       I |
+|         0 |       0 |       0 |      0 |        0 |  0 |      0 |       0 |       5 |  0 |       0 |          0 |       0 |  0
+-----------------------------------------------------------------------------------------------------------------------------------------
+| MAR001001 | Orígenes |         |        |          | de |     la |   buena | noticia | de |      Jesús |  Mesías |    Hijo | de |    Dios |
+|         Z |  NCMP000 |         |        |          | SP | DA0FS0 | AQ0FS00 | NCFS000 | SP |    NCMS000 | NCMN000 | NCMS000 | SP | NCMS000 |
+| MAR001001 |     Este |      es |     el | comienzo | de |     la |   Buena |   Nueva | de | Jesucristo |         |    Hijo | de |    Dios |
+|         Z |  PD0MS00 | VSIP3S0 | DA0MS0 |  NCMS000 | SP | DA0FS0 | AQ0FS00 | AQ0FS00 | SP |    VMP00SM |         | NCMS000 | SP | NCMS000 |
+|         I |        C |       N |      N |        N |  I |      I |       I |       C |  I |          C |       N |       I |  I |       I |
+|         0 |        1 |       2 |      3 |        4 |  4 |      4 |       4 |       5 |  5 |          6 |       7 |       7 |  7 |       7 |
+|         0 |        0 |       0 |      0 |        0 |  0 |      0 |       0 |       5 |  0 |          0 |       0 |       0 |  0 |       0 |
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Versículo original 1:
+MAR004023 Quien tenga oídos para escuchar que escuche 
+Versículo original 2:
+MAR004023 El que tenga oídos para escuchar que escuche ” 
+==================================================
+
+| MAR004023 |        |   Quien |   tenga |   oídos | para | escuchar | que |  escuche |     |
+| MAR004023 |        |   quien |   tener |    oído | para | escuchar | que | escuchar |     |
+|         Z |        | PR0CS00 | VMSP3S0 | NCMP000 |   SP |  VMN0000 |  CS |  VMSP3S0 |     |
+| MAR004023 |     El |     que |   tenga |   oídos | para | escuchar | que |  escuche |   ” |
+| MAR004023 |     el |     que |   tener |    oído | para | escuchar | que | escuchar |   ” |
+|         Z | DA0MS0 | PR0CN00 | VMSP3S0 | NCMP000 |   SP |  VMN0000 |  CS |  VMSP3S0 | Frc |
+|         I |      N |       C |       I |       I |    I |        I |   I |        I |   N |
+|         0 |      0 |       0 |       0 |       0 |    0 |        0 |   0 |        0 |   0 |
+------------------------------------------------------------------------------------------------------------
+| MAR004023 |   Quien |         |   tenga |   oídos | para | escuchar | que | escuche |
+|         Z | PR0CS00 |         | VMSP3S0 | NCMP000 |   SP |  VMN0000 |  CS | VMSP3S0 |
+| MAR004023 |      El |     que |   tenga |   oídos | para | escuchar | que | escuche |
+|         Z |  DA0MS0 | PR0CN00 | VMSP3S0 | NCMP000 |   SP |  VMN0000 |  CS | VMSP3S0 |
+|         I |       C |       N |       I |       I |    I |        I |   I |       I |
+|         0 |       1 |       2 |       2 |       2 |    2 |        2 |   2 |       2 |
+|         0 |       0 |       0 |       0 |       0 |    0 |        0 |   0 |       0 |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Versículo original 1:
+MAR011019 Cuando atardeció salieron fuera de la ciudad 
+Versículo original 2:
+MAR011019 Cada día salían de la ciudad a el anochecer El de la fe 
+==================================================
+
+| MAR011019 | Cuando | atardeció | salieron |    |        |         |    |        |           |  fuera | de |     la |  ciudad |
+| MAR011019 | cuando | atardecer |    salir |    |        |         |    |        |           |  fuera | de |     el |  ciudad |
+|         Z |     CS |   VMIS3S0 |  VMIS3P0 |    |        |         |    |        |           |     RG | SP | DA0FS0 | NCFS000 |
+| MAR011019 |   Cada |       día |   salían | de |     la |  ciudad |  a |     el | anochecer |     El | de |     la |      fe |
+| MAR011019 |   cada |       día |    salir | de |     el |  ciudad |  a |     el | anochecer |     el | de |     el |      fe |
+|         Z | DI0CS0 |   NCMS000 |  VMII3P0 | SP | DA0FS0 | NCFS000 | SP | DA0MS0 |   NCMS000 | DA0MS0 | SP | DA0FS0 | NCFS000 |
+|         I |      C |         C |        I |  N |      N |       N |  N |      N |         N |      C |  I |      I |       C |
+|         0 |      0 |         0 |        0 |  0 |      0 |       0 |  0 |      0 |         0 |      0 |  0 |      0 |       3 |
+---------------------------------------------------------------------------------------------------------------------------------------
+| MAR011019 | Cuando | atardeció | salieron | fuera |        |         | de |     la |           |        |    |        |  ciudad |
+|         Z |     CS |   VMIS3S0 |  VMIS3P0 |    RG |        |         | SP | DA0FS0 |           |        |    |        | NCFS000 |
+| MAR011019 |   Cada |       día |   salían |    de |     la |  ciudad |  a |     el | anochecer |     El | de |     la |      fe |
+|         Z | DI0CS0 |   NCMS000 |  VMII3P0 |    SP | DA0FS0 | NCFS000 | SP | DA0MS0 |   NCMS000 | DA0MS0 | SP | DA0FS0 | NCFS000 |
+|         I |      C |         C |        I |     C |      N |       N |  C |      I |         N |      N |  N |      N |       C |
+|         0 |      1 |         2 |        2 |     3 |      4 |       5 |  6 |      6 |         7 |      8 |  9 |     10 |      11 |
+|         0 |      0 |         0 |        0 |     0 |      0 |       0 |  0 |      0 |         0 |      0 |  0 |      0 |       1 |
+
