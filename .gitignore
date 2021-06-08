@@ -1,0 +1,18 @@
+
+ProgramaPares/__pycache__/
+ProgramaPares/Resultados/
+
+# Exclude files but keep folder structure for Resultados
+!ProgramaPares/Resultados/Alineacion/Intercambio/.gitkeep
+!ProgramaPares/Resultados/Alineacion/Normal/.gitkeep
+!ProgramaPares/Resultados/Alineacion/POS/.gitkeep
+!ProgramaPares/Resultados/Alineacion/POSsemi/.gitkeep
+!ProgramaPares/Resultados/Alineacion/Semi/.gitkeep
+!ProgramaPares/Resultados/Pares/Intercambio/.gitkeep
+!ProgramaPares/Resultados/Pares/Normal/.gitkeep
+!ProgramaPares/Resultados/Pares/POS/.gitkeep
+!ProgramaPares/Resultados/Pares/POSsemi/.gitkeep
+!ProgramaPares/Resultados/Pares/Semi/.gitkeep
+
+# Keep Resultados/Readme.md
+!ProgramaPares/Resultados/Readme.md

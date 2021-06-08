@@ -107,11 +107,13 @@ def omega(matriz, seq1, seq2, i, j):
     if i>=3 and j >=3:
         int_cons = intercambio_consecutivo(seq1, seq2, i, j)
         int_conj = intercambio_conjuntivo(seq1, seq2, i, j)
+        
         C_i_j = min(matriz[i][j+1]+w_e, matriz[i+1][j] + w_e, matriz[i][j] + w_i,
                 matriz[i-1][j-1]+ int_cons, matriz[i-2][j-2] + int_conj)
         return C_i_j
     elif i>=2 and j>=2:
-        int_cons = intercambio_consecutivo(seq1, seq2, i, j)    
+        int_cons = intercambio_consecutivo(seq1, seq2, i, j)
+        
         C_i_j = min(matriz[i][j+1]+w_e, matriz[i+1][j] + w_e, matriz[i][j] + w_i,
                 matriz[i-1][j-1]+ int_cons)
         return C_i_j
@@ -130,13 +132,16 @@ def levi (seq1, seq2):
     n = len(seq1)
     m = len(seq2)
     matriz = np.zeros((n+1, m+1))
-    for i in range(n+1):
-        matriz [i, 0] = i
-    for j in range(m+1):
-        matriz [0, j] = j
+    
+    for j in range(1, m+1):
+        matriz [0, j] = matriz[0, j-1] + 1
+    
     for i in range(1, n+1):
+        matriz [i, 0] = matriz[i-1, 0] + 1
+        
         for j in range(1, m+1):
             matriz[i][j] = omega(matriz, seq1, seq2, i-1, j-1)
+            
     return matriz
 
 def POSpalabras_equivalentes(palabra1, palabra2):
