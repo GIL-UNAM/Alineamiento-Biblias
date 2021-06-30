@@ -6,7 +6,7 @@ import copy
 import alineacion
 
 # Número de alineaciones máximas
-Kitermax = 200
+Kitermax = 5000
 
 def WagnerFisher(oracion1, oracion2):
     """
@@ -188,13 +188,13 @@ def WagFishConj(oracion1, oracion2):
     C = Levishtein.levi(oracion1, oracion2)
     rutas_multiples = []
     # Establecemos el número máximo de iteraciones máximas que se van a hacer
-    Kitermax = 200
-    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 16)
+    Kitermax = 5000
+    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 500)
     
     alineacion.filtrar_alineaciones_sustantivos(rutas_multiples)
     
     if len(rutas_multiples) == 0:
-        Kitermax = 200
+        Kitermax = 5000
         alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 1)
     
     return rutas_multiples

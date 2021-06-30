@@ -36,9 +36,9 @@ def validar_alineacion(tipos_pares):
     return False
 
 def filtrar_alineaciones_sustantivos(rutas_multiples):
-    min_perc = .2 # Porcentaje mínimo aceptable
+    min_perc = 1.6 # Porcentaje mínimo aceptable
     nRutas = len(rutas_multiples) # Número de rutas
-    rutasAIgnorar = []
+    rutas = []
     
     for r in range(nRutas):
         porcentajes = {'s': 0, 'v': 0} # Porcentaje de la ruta
@@ -76,16 +76,24 @@ def filtrar_alineaciones_sustantivos(rutas_multiples):
         totales['v'] = cont1Aux['v'] if cont1Aux['v'] > cont2Aux['v'] else cont2Aux['v']
         
         porcentajes['s'] = 0 if totales['s'] == 0 else paresRuta['s'] / totales['s']
+        porcentajes['v'] = 0 if totales['v'] == 0 else paresRuta['v'] / totales['v']
         
-        if porcentajes['s'] < min_perc or porcentajes['v'] < min_perc:
-            rutasAIgnorar.append(r)
+        porcentaje_final = porcentajes['s'] + porcentajes['v']
+        
+        if porcentaje_final >= min_perc:
+            rutas.append({"porc": porcentaje_final, "r": r})
             
-    # Invertimos los índices
-    nRutasAIgnorar = len(rutasAIgnorar)
-    rutasAIgnorar.reverse()
     
-    # Removemos las rutas con un porcentaje bajo de sustantivos alineados
-    for r in range(nRutasAIgnorar):
-        rutas_multiples.pop(rutasAIgnorar[r])
+    # Sorteamos en base al porcentaje de mayor a menor
+    rutas.sort(reverse=True, key=criterioPorcentaje)
+    
+    rutas_multiples = []
+    
+    for el in rutas:
+        rutas_multiples.append(el)
         
     return
+
+# e = {"porc": porcentaje de la ruta, "r": ruta}
+def criterioPorcentaje(el):
+    return el['porc']
