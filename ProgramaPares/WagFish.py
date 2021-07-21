@@ -156,10 +156,12 @@ def alinearConj(seq1, r, seq2, c, Z, C, rutas, maxAlin=300):
                 
             else:
                 # Agregar alineamiento
-                if maxAlin == 1:
-                    rutas.append(Z)
-                elif alineacion.validar_alineacion(Z[2]):
-                    rutas.append(Z)
+                #if maxAlin == 1:
+                #    rutas.append(Z)
+                #elif alineacion.validar_alineacion(Z[2]):
+                #    rutas.append(Z)
+                
+                rutas.append(Z)
                 
                 Kitermax -= 1
                 
