@@ -4,9 +4,10 @@ Las funciones de este script nos sirven para hacer las agrupaciones
 import Levishtein
 import copy
 import alineacion
+from config import config as conf
 
 # Número de alineaciones máximas
-Kitermax = 5000
+Kitermax = conf['Kitermax']
 
 def WagnerFisher(oracion1, oracion2):
     """
@@ -181,7 +182,7 @@ def WagFishConj(oracion1, oracion2):
     por una 'N', pares iguales, representados por una 'I', o pares correspondientes, representados por una 'C'.
     """
     
-    # Añadimos la variable global
+    # Añadir variable global
     global Kitermax
     
     r = len(oracion1)
@@ -189,14 +190,15 @@ def WagFishConj(oracion1, oracion2):
     Z = [ [], [], [] ]
     C = Levishtein.levi(oracion1, oracion2)
     rutas_multiples = []
-    # Establecemos el número máximo de iteraciones máximas que se van a hacer
-    Kitermax = 5000
-    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 500)
+    # Establecemos el número máximo de iteraciones que se van a hacer
+    Kitermax = conf['Kitermax']
+    maxAligns = conf['maxAligns']
+    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, maxAligns])
     
     alineacion.filtrar_alineaciones_sustantivos(rutas_multiples)
     
     if len(rutas_multiples) == 0:
-        Kitermax = 5000
+        Kitermax = conf['Kitermax']
         alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, 1)
     
     return rutas_multiples
