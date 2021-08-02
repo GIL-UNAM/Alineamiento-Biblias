@@ -193,7 +193,7 @@ def WagFishConj(oracion1, oracion2):
     # Establecemos el número máximo de iteraciones que se van a hacer
     Kitermax = conf['Kitermax']
     maxAligns = conf['maxAligns']
-    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, maxAligns])
+    alinearConj(oracion1, r, oracion2, c, Z, C, rutas_multiples, maxAligns)
     
     alineacion.filtrar_alineaciones_sustantivos(rutas_multiples)
     
