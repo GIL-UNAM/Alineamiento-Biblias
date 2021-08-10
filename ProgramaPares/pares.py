@@ -1,6 +1,7 @@
 import WagFish
 import lcc
 import tabulate as tb
+from palabrasCompuestas import treatComposedWords
 
 def mostrar_alineacion(alineacion, f):
     """
@@ -26,13 +27,7 @@ def mostrar_alineacion(alineacion, f):
             palabra1.append(i)
             lemma1.append(i)
             tag1.append(i)
-    """
-    for i in alineacion[0]:
-        try:
-            tag1.append(i['lemma'])
-        except:
-            tag1.append(i)
-    """
+
     for i in alineacion[1]:
         try:
             palabra2.append(i['token'])
@@ -42,13 +37,6 @@ def mostrar_alineacion(alineacion, f):
             palabra2.append(i)
             lemma2.append(i)
             tag2.append(i)
-    """
-    for i in alineacion[1]:
-        try:
-            tag2.append(i['lemma'])
-        except:
-            tag2.append(i)
-    """
 
     lista_para_mostrar.append(palabra1)
     lista_para_mostrar.append(lemma1)
@@ -112,6 +100,11 @@ def candidatos_inversion(Versiculo1, Versiculo2, g):
     :param g: el escritor para la función mostrar_alineaciones
     :returns: Las alineacion derivada del algoritmo de Wagner Fisher considerando la inversión junto al lcc 
     """
+    
+    # Update versicles if needed for versicles with composed words
+    treatComposedWords(Versiculo1)
+    treatComposedWords(Versiculo2)
+    
     rutas_multiples = WagFish.WagFishConj(Versiculo1, Versiculo2)
     numero_de_rutas = len(rutas_multiples)
     
