@@ -289,7 +289,7 @@ MAR008003 y si los mando a su casa en ayunas, desfallecerán en el camino. Adem�
 MAR008004 Le replicaron sus discípulos:-¿Cómo va a poder nadie saciar a éstos de pan aquí en descampado?
 MAR008005 Él les preguntó:-¿Cuántos panes tenéis?Contestaron:-Siete.
 MAR008006 Mandó a la multitud que se echara en el suelo; tomando los siete panes, pronunció una acción de gracias, los partió y los fue dando a sus discípulos para que los sirvieran; ellos los sirvieron a la multitud. 
-7 Tenían además unos cuantos pececillos; los bendijo y encargó que los sirvieran también.
+MAR008007 Tenían además unos cuantos pececillos; los bendijo y encargó que los sirvieran también.
 MAR008008 Comieron todos hasta saciarse y recogieron los trozos que habían sobrado: siete espuertas. 
 MAR008009 Eran unos cuatro mil, y él los despidió.
 MAR008010 Se montó en la barca con sus discípulos y fue derecho a la región de Dalmanuta. 
