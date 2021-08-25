@@ -12,6 +12,27 @@ POS        Atributo        Valor            Código
 Añadir más atributos si son necesarios
 '''
 
+def composedWordObject(token, lemma, tag):
+    """
+    Constructs a composed word object
+
+    Parameters
+    ----------
+    token : String
+        The word itself.
+    lemma : String
+        Word's lemma.
+    tag : String
+        Word's tag.
+
+    Returns
+    -------
+    dict
+        Constructed object with Freeling syntax using given parameters.
+        The dictionary contains token, lemma and tag of the composed word.
+
+    """
+    return {"token": token, "lemma": lemma, "tag": tag}
 
 '''
 Autor: Abigail Ríos Guzmán
@@ -24,11 +45,23 @@ objeto para no perder la notación usada por Freeling.
 IMPORTANTE: Todos los valores deberán estar en minúsculas a excepción del tag.
 '''
 composedWordsDict = {
-    'buena nueva': {"token": 'buena nueva', 'lemma': 'nuevo', 'tag': 'K'},
-    'cristo jesús': {"token": 'cristo jesús', 'lemma': 'jesucristo', 'tag': 'K'},
-    'jesús cristo': {"token": 'jesús cristo', 'lemma': 'jesucristo', 'tag': 'K'}
+    'buena nueva': composedWordObject('buena nueva', 'nuevo', 'K'),
+    'cristo jesús': composedWordObject('cristo jesús', 'jesucristo', 'K'),
+    'jesús cristo': composedWordObject('jesús cristo', 'jesucristo', 'K'),
+    'jesús mesías': composedWordObject("Jesús Mesías", "jesús mesías", "NCMS000"),
+    'maestros de la ley': composedWordObject("Maestros de la ley", "maestro de la ley", "NCMS000"),
+    'espíritu malo': composedWordObject("Espíritu Malo", "espíritu malo", "NCMS000"),
+    'consagrado por dios': composedWordObject("Consagrado por Dios","consagrado por dios", "K"),
+    'santo de dios': composedWordObject("Santo de Dios", "santo de dios", "NCMS000"),
+    'jesús de nazaret': composedWordObject("Jesús de Nazaret", "jesús de nazaret", "NCMS000"),
+    'jusús nazareno': composedWordObject("Jesús Nazareno", "jusús nazareno", "NCMS000"),
+    'juan bautista': composedWordObject("Juan Bautista", "juan bautista", "RG"),
+    'juan el bautista': composedWordObject("Juan el Bautista", "juan bautista", "RG"),
+    'espíritu santo': composedWordObject("Espíritu Santo", "espíritu santo", "NCMS000"),
+    'bueno noticia': composedWordObject("buena noticia", "bueno noticia", "NCFS000"),
+    'reinado de dios': composedWordObject("reinado de Dios", "reinado de dios", "NCMS000"),
+    'reino de dios': composedWordObject("Reino de Dios", "reino de dios", "NCMS000")
 }
-
 
 '''
 Autor: Abigail Ríos Guzmán
