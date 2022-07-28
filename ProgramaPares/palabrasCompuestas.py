@@ -61,6 +61,7 @@ composedWordsDict = {
     'bueno noticia': composedWordObject("buena noticia", "bueno noticia", "NCFS000"),
     'reinado de dios': composedWordObject("reinado de Dios", "reinado de dios", "NCMS000"),
     'reino de dios': composedWordObject("Reino de Dios", "reino de dios", "NCMS000"),
+    'sumos sacerdotes': : composedWordObject("Sumos Sacerdotes", "sumos sacerdotes", "NCMS000"),
     'hijo de dios': composedWordObject("Hijo de Dios", "hijo de dios", "NCMS000")
 }
 
