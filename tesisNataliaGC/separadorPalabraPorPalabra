@@ -1,0 +1,1 @@
+cat #nombredelarchivo | tr " " "\n" > salida.csv
